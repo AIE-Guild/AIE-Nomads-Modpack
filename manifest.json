@@ -104,14 +104,14 @@
 		},
 		{
 			"projectID": 70492,
-			"fileID": 2234252,
-			"fileName": "gendustry-mc1710-1.4.10.77.jar",
+			"fileID": 2239766,
+			"fileName": "gendustry-1.4.11.89-mc1.7.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 70496,
-			"fileID": 2234253,
-			"fileName": "bdlib-mc1710-1.7.1.71.jar",
+			"fileID": 2239718,
+			"fileName": "bdlib-1.8.0.86-mc1.7.10.jar",
 			"required": true
 		},
 		{
