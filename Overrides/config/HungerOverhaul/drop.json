@@ -3,6 +3,9 @@
     "dropsBlacklist": [
         {
             "name": "minecraft:wheat",
+			"name": "minecraft:carrots",
+			"name": "minecraft:potatoes",
+			"name": "minecraft:nether_wart"
         }
     ]
 
