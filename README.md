@@ -1,5 +1,5 @@
 # The AIE Nomads Modpack
-A technology-focused modpack from the nomads of Alea Iacta Est.
+A technology-focused modpack from the Nomads of Alea Iacta Est.
 
 This modpack is the official modpack for the Nomads of Alea Iacta Est (AIE) social gaming community.  Our community of thousands is derived from a diverse group of people seeking adventure and enjoy game content in a family-friendly environment built on mutual courtesy and respect. Like our community, this modpack is diverse and represents the aspects of other modpacks we've found value in.
 
