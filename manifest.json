@@ -598,10 +598,6 @@
 	"minecraft":{  
 		"version":"1.7.10",
 		"libraries":"libraries",
-		"additionalJavaArgs":{  
-			"1.6":"-XX:JavaArgsAreSoMuchFun",
-			"1.7":"-XX:DifferentArgsHereBecauseWhyNot"
-		},
 		"modLoaders":[  
 			{  
 				"id":"forge-10.13.3.1408",
