@@ -1,0 +1,9 @@
+{
+    // a list of crop blocks that should not have their drops modified by HO
+    "dropsBlacklist": [
+        {
+            "name": "minecraft:wheat",
+        }
+    ]
+
+}
