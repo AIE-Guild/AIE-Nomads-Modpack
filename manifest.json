@@ -622,6 +622,12 @@
 			"fileID": 2235671,
 			"fileName": "ResourceLoader-1.2.jar",
 			"required": true
+		},
+		{
+			"projectID": 223094,
+			"fileID": 2210792,
+			"fileName": "Inventory Tweaks 1.59-dev-152",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
