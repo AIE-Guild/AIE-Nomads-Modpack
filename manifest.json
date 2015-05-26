@@ -610,6 +610,18 @@
 			"fileID": 2238507,
 			"fileName": "INpureCore-[1.7.10]1.0.0B9-62.jar",
 			"required": true
+		},
+		{
+			"projectID": 226406,
+			"fileID": 2238780,
+			"fileName": "CustomMainMenu-MC1.8-1.5.jar",
+			"required": true
+		},
+		{
+			"projectID": 226447,
+			"fileID": 2235671,
+			"fileName": "ResourceLoader-1.2.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
