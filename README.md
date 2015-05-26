@@ -21,7 +21,7 @@ Applied Energistics | rv2-stable-3
 Archimedes' Ships | 1.7.1
 Backpacks | 2.0.0
 Baubles | 1.0.1.10
-bdlib | 1.7.1.71
+bdlib | 1.8.0.86
 BetterStorage | 0.13.1.126
 Bibliocraft | 1.10.4
 Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
@@ -58,7 +58,7 @@ FloodLights | 0.4.3-62
 Fluxed-Crystals | 1.0.2
 Forestry | 3.5.6.15
 Garden Stuff | 1.6.2
-Gendustry | 1.4.10.77
+Gendustry | 1.4.11.89
 Hunger Overhaul | 1.0.0
 Immibis Core | 59.1.1
 Immibis' Microblocks | 59.1.0
@@ -66,6 +66,8 @@ Iron Chests | 6.0.62.742
 IvToolkit | 1.2
 Jabba | 1.2.1a
 Java 7 Checker | 1.1
+JourneyMap | 5.0.1
+JourneyMap Server | 1.0.5
 Malisis' Doors | 1.7.1
 MalisisCore | 0.11.4
 Mantle | 0.3.2
