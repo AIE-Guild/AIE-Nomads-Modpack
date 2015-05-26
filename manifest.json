@@ -2,7 +2,7 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
-	"version":"0.9.0-beta.2",
+	"version":"0.9.1-beta",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
 	"files":[  
@@ -604,6 +604,30 @@
 			"fileID": 2232619,
 			"fileName": "JourneyMapServer1.0.5_MC1.7.10.jar",
 			"required": false
+		},
+		{
+			"projectID": 223792,
+			"fileID": 2238507,
+			"fileName": "INpureCore-[1.7.10]1.0.0B9-62.jar",
+			"required": true
+		},
+		{
+			"projectID": 226406,
+			"fileID": 2238780,
+			"fileName": "CustomMainMenu-MC1.8-1.5.jar",
+			"required": true
+		},
+		{
+			"projectID": 226447,
+			"fileID": 2235671,
+			"fileName": "ResourceLoader-1.2.jar",
+			"required": true
+		},
+		{
+			"projectID": 223094,
+			"fileID": 2210792,
+			"fileName": "Inventory Tweaks 1.59-dev-152",
+			"required": true
 		}
 	],
 	"overrides":"overrides",

@@ -44,6 +44,7 @@ CoFH Core | 3.0.2-262
 CoFHLib | 1.0.2-160
 Computercraft | 1.73
 CraftHeraldry | 1.1.3
+Custom Main Menu | 1.5
 DecoCraft2 | 2.0.1
 Dense Ores | 1.6.2
 Ender Compass | 1.1
@@ -62,6 +63,7 @@ Gendustry | 1.4.11.89
 Hunger Overhaul | 1.0.0
 Immibis Core | 59.1.1
 Immibis' Microblocks | 59.1.0
+INpureCore | 1.0.0B9-62
 Iron Chests | 6.0.62.742
 IvToolkit | 1.2
 Jabba | 1.2.1a
@@ -100,6 +102,7 @@ Recurrent Complex | 0.9.6.2
 Redstone Arsenal | 1.1.0-80
 Redstone Paste | 1.6.2
 Refined Relocation | 1.0.8b
+Resource Loader	| 1.2
 RFTools | 2.91
 Simply Jetpacks | 1.5.1
 Storage Drawers | 1.5.0
