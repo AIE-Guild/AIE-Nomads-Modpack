@@ -592,6 +592,12 @@
 			"fileID": 2239555,
 			"fileName": "StorageDrawers-BiomesOPlenty-1.7.10-1.0.0.jar",
 			"required": true
+		},
+		{
+			"projectID": 32274,
+			"fileID": 2221283,
+			"fileName": "JourneyMap5.0.1_Unlimited_MC1.7.10.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
