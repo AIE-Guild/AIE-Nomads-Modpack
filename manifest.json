@@ -2,7 +2,7 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
-	"version":"0.9.0",
+	"version":"0.9.0-beta.2",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
 	"files":[  
@@ -598,6 +598,12 @@
 			"fileID": 2221283,
 			"fileName": "JourneyMap5.0.1_Unlimited_MC1.7.10.jar",
 			"required": true
+		},
+		{
+			"projectID": 225341,
+			"fileID": 2232619,
+			"fileName": "JourneyMapServer1.0.5_MC1.7.10.jar",
+			"required": false
 		}
 	],
 	"overrides":"overrides",
