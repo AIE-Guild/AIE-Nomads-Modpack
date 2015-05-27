@@ -128,3 +128,12 @@ Wawla | 1.2.1
 WorldEdit | 6.0 Beta 1
 WR-CBE Universal | 1.4.1.9
 ZTones | 2.2.1
+
+## Other Mods
+
+We also recommend using the following mods for better performance.
+
+- [FastCraft](http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820)
+- [OptiFine](https://optifine.net/home)
+
+Due to the licensing of these mods, they are not part of this pack.
