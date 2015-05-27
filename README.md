@@ -64,6 +64,7 @@ Hunger Overhaul | 1.0.0
 Immibis Core | 59.1.1
 Immibis' Microblocks | 59.1.0
 INpureCore | 1.0.0B9-62
+Inventory Tweaks | 1.59-dev-152
 Iron Chests | 6.0.62.742
 IvToolkit | 1.2
 Jabba | 1.2.1a
