@@ -634,6 +634,12 @@
 			"fileID": 2223311,
 			"fileName": "RedGearCore-1.7.10-2.2.1.jar",
 			"required": true
+		},
+		{
+			"projectID": 59821,
+			"fileID": 2218545,
+			"fileName": "More Backpacks-1.7.10-2.2.2.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
