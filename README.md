@@ -131,7 +131,7 @@ ZTones | 2.2.1
 
 ## Other Mods
 
-We also recommend using the following mods for better performance.
+You should consider using the following mods, or similar client mods, for better performance.
 
 - [FastCraft](http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820)
 - [OptiFine](https://optifine.net/home)
