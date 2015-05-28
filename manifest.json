@@ -2,7 +2,7 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
-	"version":"0.9.1-beta.1",
+	"version":"1.0.0-rc.1",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
 	"files":[  
@@ -627,6 +627,30 @@
 			"projectID": 223094,
 			"fileID": 2210792,
 			"fileName": "Inventory Tweaks 1.59-dev-152",
+			"required": true
+		},
+		{
+			"projectID": 225566,
+			"fileID": 2218935,
+			"fileName": "[1.7.10]StatusEffectHUD-client-1.27.jar",
+			"required": true
+		},
+		{
+			"projectID": 59694,
+			"fileID": 2223311,
+			"fileName": "RedGearCore-1.7.10-2.2.1.jar",
+			"required": true
+		},
+		{
+			"projectID": 59821,
+			"fileID": 2218545,
+			"fileName": "More Backpacks-1.7.10-2.2.2.jar",
+			"required": true
+		},
+		{
+			"projectID": 225569,
+			"fileID": 2218985,
+			"fileName": "[1.7.10]StartingInventory-universal-1.7.10.r03.jar",
 			"required": true
 		}
 	],
