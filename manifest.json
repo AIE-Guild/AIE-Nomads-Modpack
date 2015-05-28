@@ -628,6 +628,12 @@
 			"fileID": 2210792,
 			"fileName": "Inventory Tweaks 1.59-dev-152",
 			"required": true
+		},
+		{
+			"projectID": 225566,
+			"fileID": 2218935,
+			"fileName": "[1.7.10]StatusEffectHUD-client-1.27.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
