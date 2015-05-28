@@ -646,6 +646,12 @@
 			"fileID": 2218545,
 			"fileName": "More Backpacks-1.7.10-2.2.2.jar",
 			"required": true
+		},
+		{
+			"projectID": 225569,
+			"fileID": 2218985,
+			"fileName": "[1.7.10]StartingInventory-universal-1.7.10.r03.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
