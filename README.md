@@ -79,6 +79,7 @@ MekanismGenerators | 8.1.2.229
 MekanismTools | 8.1.2.229
 Minefactory Reloaded | 2.8.0-104
 Modular Systems | 1.7.3
+More Backpacks | 2.2.2
 Morpheus | 1.6.4
 Natura | 2.2.0.1
 NEI Addons | 1.12.8.29
@@ -100,12 +101,15 @@ Project Red - Mechanical | 4.6.1.80
 Project Red - World | 4.6.1.80
 Railcraft | 9.6.1.0
 Recurrent Complex | 0.9.6.2
+Red Gear Core | 2.2.1
 Redstone Arsenal | 1.1.0-80
 Redstone Paste | 1.6.2
 Refined Relocation | 1.0.8b
-Resource Loader	| 1.2
+Resource Loader | 1.2
 RFTools | 2.91
 Simply Jetpacks | 1.5.1
+StartingInventory | 1.7.10.r03
+StatusEffectsHUD | 1.27
 Storage Drawers | 1.5.0
 Storage Drawers: Biome O' Plenty Pack | 1.0.0
 Storage Drawers: Natura Pack | 1.0.1
