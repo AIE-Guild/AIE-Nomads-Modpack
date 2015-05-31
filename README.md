@@ -78,6 +78,7 @@ Mekanism | 8.1.2.229
 MekanismGenerators | 8.1.2.229
 MekanismTools | 8.1.2.229
 Minefactory Reloaded | 2.8.0-104
+MineTweaker3 | 3.0.9C
 Modular Systems | 1.7.3
 More Backpacks | 2.2.2
 Morpheus | 1.6.4
