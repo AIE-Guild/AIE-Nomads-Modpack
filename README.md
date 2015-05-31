@@ -3,7 +3,7 @@ A technology-focused modpack from the Nomads of Alea Iacta Est.
 
 This modpack is the official modpack for the [Nomads](http://wiki.aie-guild.org/index.php?title=AIE_Nomads) of [Alea Iacta Est](https://aie-guild.org/) (AIE) social gaming community.  Our community of thousands is derived from a diverse group of people seeking adventure and enjoy game content in a family-friendly environment built on mutual courtesy and respect. Like our community, this modpack is diverse and represents the aspects of other modpacks we've found value in.
 
-We've focused on what we consider to be a balanced combination of mods that combine a strong resource and argicultural component (Biome O' Plenty, Natura, Pam's Harvestcraft, and Forestry) and a rich crafting progression (Railcraft, Minefactory Reloaded, Ender IO, Thermal Expansion, Big Reactors) in a world where the simple joy of architecture and aesthetics has a place (Chisel 2, Carpenters' Blocks).  We've added aspects of challenge, like Hunger Overhaul.  We believe hunger should be an important factor, but not so much of a factor that you can't enjoy the rest of the game.  There is no magic, aside from magic in the Asimov sense.
+We've focused on what we consider to be a balanced combination of mods that combine a strong resource and argicultural component (Biomes O' Plenty, Natura, Pam's Harvestcraft, and Forestry) and a rich crafting progression (Railcraft, Minefactory Reloaded, Ender IO, Thermal Expansion, Big Reactors) in a world where the simple joy of architecture and aesthetics has a place (Chisel 2, Carpenters' Blocks).  We've added aspects of challenge, like Hunger Overhaul.  We believe hunger should be an important factor, but not so much of a factor that you can't enjoy the rest of the game.  There is no magic, aside from magic in the Asimov sense.
 
 This is a live modpack that will continually evolve and be tweaked to suit the desires of our community as we evolve with it. It is, eternally, a work in progress.
 
@@ -78,6 +78,7 @@ Mekanism | 8.1.2.229
 MekanismGenerators | 8.1.2.229
 MekanismTools | 8.1.2.229
 Minefactory Reloaded | 2.8.0-104
+MineTweaker3 | 3.0.9C
 Modular Systems | 1.7.3
 More Backpacks | 2.2.2
 Morpheus | 1.6.4
