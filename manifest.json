@@ -652,6 +652,12 @@
 			"fileID": 2218985,
 			"fileName": "[1.7.10]StartingInventory-universal-1.7.10.r03.jar",
 			"required": true
+		},
+		{
+			"projectID": 224029,
+			"fileID": 2233934,
+			"fileName": "MineTweaker3-1.7.10-3.0.9C.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
