@@ -7,7 +7,7 @@ We've focused on what we consider to be a balanced combination of mods that comb
 
 This is a live modpack that will continually evolve and be tweaked to suit the desires of our community as we evolve with it. It is, eternally, a work in progress.
 
-All development of this modpack will be done on [GitHub](https://github.com/AIE-Guild/AIE-Nomads-Modpack) and released on [Curse](http://minecraft.curseforge.com/modpacks/230885-aie-nomads). We welcome constructive criticism and participation, please visit the [official thread in our forums](http://forum.myextralife.com/topic/56351-aie-nomads-modpack/).
+All development of this modpack will be done on [GitHub](https://github.com/AIE-Guild/AIE-Nomads-Modpack) and released on [Curse](http://www.curse.com/modpacks/minecraft/230885-aie-nomads). We welcome constructive criticism and participation, please visit the [official thread in our forums](http://forum.myextralife.com/topic/56351-aie-nomads-modpack/).
 
 ## Mod List
 
