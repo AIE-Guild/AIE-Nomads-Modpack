@@ -200,8 +200,8 @@
 		},
 		{
 			"projectID": 79616,
-			"fileID": 2239112,
-			"fileName": "Decocraft V2.0.1 1.7.10.jar",
+			"fileID": 2240127,
+			"fileName": "Decocraft-2.0.2_1.7.10.jar",
 			"required": true
 		},
 		{
@@ -224,8 +224,8 @@
 		},
 		{
 			"projectID": 221857,
-			"fileID": 2233399,
-			"fileName": "Pam's HarvestCraft 1.7.10h.jar",
+			"fileID": 2242269,
+			"fileName": "Pam's HarvestCraft 1.7.10i.jar",
 			"required": true
 		},
 		{
@@ -278,8 +278,8 @@
 		},
 		{
 			"projectID": 223525,
-			"fileID": 2229932,
-			"fileName": "binnie-mods-2.0-pre8.jar",
+			"fileID": 2241921,
+			"fileName": "binnie-mods-2.0-pre10.jar",
 			"required": true
 		},
 		{
@@ -296,8 +296,8 @@
 		},
 		{
 			"projectID": 223852,
-			"fileID": 2239372,
-			"fileName": "StorageDrawers-1.7.10-1.5.0.jar",
+			"fileID": 2241988,
+			"fileName": "StorageDrawers-1.7.10-1.5.5.jar",
 			"required": true
 		},
 		{
@@ -344,8 +344,8 @@
 		},
 		{
 			"projectID": 224641,
-			"fileID": 2239547,
-			"fileName": "rftools-2.91.jar",
+			"fileID": 2240493,
+			"fileName": "rftools-2.93.jar",
 			"required": true
 		},
 		{
@@ -548,7 +548,7 @@
 		{
 			"projectID": 229218,
 			"fileID": 2233937,
-			"fileName": "ExtraCells-1.7.10-2.2.69.jar",
+			"fileName": "ExtraCells-1.7.10-2.2.71b121.jar",
 			"required": true
 		},
 		{
@@ -663,6 +663,12 @@
 			"projectID": 231450,
 			"fileID": 2242210,
 			"fileName": "CraftHeraldry 1.1.3.jar",
+			"required": true
+		},
+		{
+			"projectID": 230976,
+			"fileID": 2240115,
+			"fileName": "FastLeafDecay-1.7.10-1.1.jar",
 			"required": true
 		}
 	],
