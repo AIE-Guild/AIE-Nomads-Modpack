@@ -475,8 +475,8 @@
 		},
 		{
 			"projectID": 228702,
-			"fileID": 2238988,
-			"fileName": "ProjectRed-1.7.10-4.6.1.80-Base.jar",
+			"fileID": 2240246,
+			"fileName": "ProjectRed-1.7.10-4.6.2.82-Base.jar",
 			"required": true
 		},
 		{
@@ -511,32 +511,32 @@
 		},
 		{
 			"projectID": 229045,
-			"fileID": 2238991,
-			"fileName": "ProjectRed-1.7.10-4.6.1.80-Integration.jar",
+			"fileID": 2240249,
+			"fileName": "ProjectRed-1.7.10-4.6.2.82-Integration.jar",
 			"required": true
 		},
 		{
 			"projectID": 229046,
-			"fileID": 2238992,
-			"fileName": "ProjectRed-1.7.10-4.6.1.80-Lighting.jar",
+			"fileID": 2240250,
+			"fileName": "ProjectRed-1.7.10-4.6.2.82-Lighting.jar",
 			"required": true
 		},
 		{
 			"projectID": 229048,
-			"fileID": 2238993,
-			"fileName": "ProjectRed-1.7.10-4.6.1.80-Mechanical_beta.jar",
+			"fileID": 2240251,
+			"fileName": "ProjectRed-1.7.10-4.6.2.82-Mechanical_beta.jar",
 			"required": true
 		},
 		{
 			"projectID": 229049,
-			"fileID": 2238994,
-			"fileName": "ProjectRed-1.7.10-4.6.1.80-World.jar",
+			"fileID": 2240252,
+			"fileName": "ProjectRed-1.7.10-4.6.2.82-World.jar",
 			"required": true
 		},
 		{
 			"projectID": 229050,
-			"fileID": 2238995,
-			"fileName": "ProjectRed-1.7.10-4.6.1.80-Compat.jar",
+			"fileID": 2240253,
+			"fileName": "ProjectRed-1.7.10-4.6.2.82-Compat.jar",
 			"required": true
 		},
 		{
