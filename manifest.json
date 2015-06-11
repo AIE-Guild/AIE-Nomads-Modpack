@@ -402,12 +402,6 @@
 			"required": true
 		},
 		{
-			"projectID": 226074,
-			"fileID": 2239261,
-			"fileName": "Fluxed-Crystals 1.0.2.jar",
-			"required": true
-		},
-		{
 			"projectID": 226082,
 			"fileID": 2227915,
 			"fileName": "ttCore-MC1.7.10-0.1.0-67.jar",
