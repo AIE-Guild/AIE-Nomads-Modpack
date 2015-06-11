@@ -13,7 +13,7 @@ All development of this modpack will be done on [GitHub](https://github.com/AIE-
 
 Name | Version
 ---|---
-Advanced Generators | 0.9.12.64
+Advanced Generators | 0.9.13.74
 AE2 Stuff | 0.3.0.29
 Another One Bites The Dust | 2.6.2
 AppleCore | 1.1.0
@@ -31,9 +31,9 @@ Big Reactors | 0.4.3A
 Binnie's Mods | 2.0-pre8
 Biomes O' Plenty | 2.1.0.1067
 bspkrsCore | 6.16
-Buildcraft | 6.4.15
+Buildcraft | 7.0.8
 Buildcraft Additions | 2.1.4
-BuildcraftCompat | 6.4.2
+BuildcraftCompat | 7.0.7
 Carpenter's Blocks | 3.3.6
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
