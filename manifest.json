@@ -678,8 +678,12 @@
 		"libraries":"libraries",
 		"modLoaders":[  
 			{  
-				"id":"forge-10.13.3.1408",
+				"id":"forge-10.13.4.1448",
 				"primary":true
+			},
+			{  
+				"id":"forge-10.13.3.1408",
+				"primary":false
 			}
 		]
 	}
