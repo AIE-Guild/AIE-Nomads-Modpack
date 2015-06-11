@@ -664,6 +664,12 @@
 			"fileID": 2242210,
 			"fileName": "CraftHeraldry 1.1.3.jar",
 			"required": true
+		},
+		{
+			"projectID": 230976,
+			"fileID": 2240115,
+			"fileName": "FastLeafDecay-1.7.10-1.1.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
