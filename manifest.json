@@ -38,8 +38,8 @@
 		},
 		{
 			"projectID": 61811,
-			"fileID": 2237592,
-			"fileName": "Buildcraft 6.4.15.jar",
+			"fileID": 2241711,
+			"fileName": "buildcraft-7.0.8.jar",
 			"required": true
 		},
 		{
@@ -284,8 +284,8 @@
 		},
 		{
 			"projectID": 223622,
-			"fileID": 2232511,
-			"fileName": "generators-mc1710-0.9.12.64.jar",
+			"fileID": 2239771,
+			"fileName": "generators-0.9.13.72-mc1.7.10.jar",
 			"required": true
 		},
 		{
