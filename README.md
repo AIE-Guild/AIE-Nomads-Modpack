@@ -14,21 +14,21 @@ All development of this modpack will be done on [GitHub](https://github.com/AIE-
 Name | Version
 ---|---
 Advanced Generators | 0.9.13.74
-AE2 Stuff | 0.3.0.29
-Another One Bites The Dust | 2.6.2
+AE2 Stuff | 0.3.1.33
+Another One Bites The Dust | 2.6.3
 AppleCore | 1.1.0
-Applied Energistics | rv2-stable-3
+Applied Energistics | rv2-stable-6
 Archimedes' Ships | 1.7.1
 Backpacks | 2.0.0
 Baubles | 1.0.1.10
-bdlib | 1.8.0.86
+bdlib | 1.8.1.87
 BetterStorage | 0.13.1.126
 Bibliocraft | 1.10.4
 Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
 Bibliocraft: BiblioWoods Natura Edition | 1.5
 Big Reactors | 0.4.3A
-Binnie's Mods | 2.0-pre8
+Binnie's Mods | 2.0-pre10
 Biomes O' Plenty | 2.1.0.1067
 bspkrsCore | 6.16
 Buildcraft | 7.0.8
@@ -45,21 +45,20 @@ CoFHLib | 1.0.2-160
 Computercraft | 1.73
 CraftHeraldry | 1.1.3
 Custom Main Menu | 1.5
-DecoCraft2 | 2.0.1
+DecoCraft2 | 2.0.2
 Dense Ores | 1.6.2
 Ender Compass | 1.1
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.33
 Eureka | 3.0.2
 Extra Utilities | 1.2.5
-ExtraCells2 | 2.2.69b
+ExtraCells2 | 2.2.71
 ExtraTiC | 1.4.4
-FastLeafDecay | 1.0
+FastLeafDecay | 1.1
 FloodLights | 0.4.3-62
-Fluxed-Crystals | 1.0.2
-Forestry | 3.5.6.15
-Garden Stuff | 1.6.2
-Gendustry | 1.4.11.89
+Forestry | 3.5.7.16
+Garden Stuff | 1.6.3
+Gendustry | 1.4.12.92
 Hunger Overhaul | 1.0.0
 Immibis Core | 59.1.1
 Immibis' Microblocks | 59.1.0
@@ -71,35 +70,35 @@ Jabba | 1.2.1a
 Java 7 Checker | 1.1
 JourneyMap | 5.0.1
 JourneyMap Server | 1.0.5
-Malisis' Doors | 1.7.1
-MalisisCore | 0.11.4
+Malisis' Doors | 1.8.1
+MalisisCore | 0.12.3
 Mantle | 0.3.2
-Mekanism | 8.1.2.229
-MekanismGenerators | 8.1.2.229
-MekanismTools | 8.1.2.229
+Mekanism | 8.1.4.232
+MekanismGenerators | 8.1.4.232
+MekanismTools | 8.1.4.232
 Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.9C
 Modular Systems | 1.7.3
 More Backpacks | 2.2.2
 Morpheus | 1.6.4
 Natura | 2.2.0.1
-NEI Addons | 1.12.8.29
+NEI Addons | 1.12.9.32
 NEI Integration | 1.0.9
 Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.4.107
 NotEnoughKeys | 1.0.0b29
 OpenBlocks | 1.4.3
-OpenComputers | 1.5.11.25
+OpenComputers | 1.5.12.26
 OpenModsLib | 0.7.3
 OreDictionaryConverter | 1.6.1
-Pam's Harvestcraft | 1.7.10h
+Pam's Harvestcraft | 1.7.10.i
 Project Blue | 1.1.4
-Project Red - Base | 4.6.1.80
-Project Red - Compat | 4.6.1.80
-Project Red - Integration | 4.6.1.80
-Project Red - Lighting | 4.6.1.80
-Project Red - Mechanical | 4.6.1.80
-Project Red - World | 4.6.1.80
+Project Red - Base | 4.6.2.82
+Project Red - Compat | 4.6.2.82
+Project Red - Integration | 4.6.2.82
+Project Red - Lighting | 4.6.2.82
+Project Red - Mechanical | 4.6.2.82
+Project Red - World | 4.6.2.82
 Railcraft | 9.6.1.0
 Recurrent Complex | 0.9.6.2
 Red Gear Core | 2.2.1
@@ -107,18 +106,19 @@ Redstone Arsenal | 1.1.0-80
 Redstone Paste | 1.6.2
 Refined Relocation | 1.0.8b
 Resource Loader | 1.2
-RFTools | 2.91
+RFTools | 2.93
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03
-StatusEffectsHUD | 1.27
-Storage Drawers | 1.5.0
-Storage Drawers: Biome O' Plenty Pack | 1.0.0
-Storage Drawers: Natura Pack | 1.0.1
+StatusEffectHUD | 1.27
+Storage Drawers | 1.5.5
+Storage Drawers: Biome O' Plenty Pack | 1.0.1
+Storage Drawers: Natura Pack | 1.0.2
+Storage Drawers: Forestry | 1.0.1
 Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.0.0-122
 Thermal Expansion | 4.0.1-182
 Thermal Foundation | 1.0.0-81
-Thermal Recycling | 0.3.5.5
+Thermal Recycling | 0.3.8.4
 Thermal Smeltery | 1.2.1
 TiC Tooltips | 1.2.4
 Tinkers' Construct | 1.8.5
