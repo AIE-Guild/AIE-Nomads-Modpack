@@ -1,11 +1,11 @@
-{  
+{
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
 	"version":"1.0.2",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
-	"files":[  
+	"files":[
 		{
 			"projectID": 51195,
 			"fileID": 2235453,
@@ -110,8 +110,8 @@
 		},
 		{
 			"projectID": 70496,
-			"fileID": 2240750,
-			"fileName": "bdlib-1.8.1.87-mc1.7.10.jar",
+			"fileID": 2248543,
+			"fileName": "bdlib-1.9.1.97-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -284,14 +284,14 @@
 		},
 		{
 			"projectID": 223622,
-			"fileID": 2239771,
-			"fileName": "generators-0.9.13.72-mc1.7.10.jar",
+			"fileID": 2249260,
+			"fileName": "generators-0.9.17.102-mc1.7.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 223794,
-			"fileID": 2242134,
-			"fileName": "appliedenergistics2-rv2-stable-6.jar",
+			"fileID": 2245762,
+			"fileName": "appliedenergistics2-rv2-stable-10.jar",
 			"required": true
 		},
 		{
@@ -368,8 +368,8 @@
 		},
 		{
 			"projectID": 225194,
-			"fileID": 2240788,
-			"fileName": "ae2stuff-0.3.1.33-mc1.7.10.jar",
+			"fileID": 2248555,
+			"fileName": "ae2stuff-0.4.3.47-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -673,15 +673,15 @@
 		}
 	],
 	"overrides":"overrides",
-	"minecraft":{  
+	"minecraft":{
 		"version":"1.7.10",
 		"libraries":"libraries",
-		"modLoaders":[  
-			{  
+		"modLoaders":[
+			{
 				"id":"forge-10.13.4.1448",
 				"primary":true
 			},
-			{  
+			{
 				"id":"forge-10.13.3.1408",
 				"primary":false
 			}

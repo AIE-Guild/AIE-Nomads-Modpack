@@ -13,15 +13,15 @@ All development of this modpack will be done on [GitHub](https://github.com/AIE-
 
 Name | Version
 ---|---
-Advanced Generators | 0.9.13.74
-AE2 Stuff | 0.3.1.33
+Advanced Generators | 0.9.17.102
+AE2 Stuff | 0.4.3.47
 Another One Bites The Dust | 2.6.3
 AppleCore | 1.1.0
-Applied Energistics | rv2-stable-6
+Applied Energistics | rv2-stable-10
 Archimedes' Ships | 1.7.1
 Backpacks | 2.0.0
 Baubles | 1.0.1.10
-bdlib | 1.8.1.87
+bdlib | 1.9.1.97
 BetterStorage | 0.13.1.126
 Bibliocraft | 1.10.4
 Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
