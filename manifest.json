@@ -475,8 +475,8 @@
 		},
 		{
 			"projectID": 228702,
-			"fileID": 2240246,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-Base.jar",
+			"fileID": 2249862,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Base.jar",
 			"required": true
 		},
 		{
@@ -511,32 +511,32 @@
 		},
 		{
 			"projectID": 229045,
-			"fileID": 2240249,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-Integration.jar",
+			"fileID": 2249865,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Integration.jar",
 			"required": true
 		},
 		{
 			"projectID": 229046,
-			"fileID": 2240250,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-Lighting.jar",
+			"fileID": 2249867,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Lighting.jar",
 			"required": true
 		},
 		{
 			"projectID": 229048,
-			"fileID": 2240251,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-Mechanical_beta.jar",
+			"fileID": 2249868,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Mechanical.jar",
 			"required": true
 		},
 		{
 			"projectID": 229049,
-			"fileID": 2240252,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-World.jar",
+			"fileID": 2249869,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-World.jar",
 			"required": true
 		},
 		{
 			"projectID": 229050,
-			"fileID": 2240253,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-Compat.jar",
+			"fileID": 2249870,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre8.92-Compat.jar",
 			"required": true
 		},
 		{
@@ -669,6 +669,12 @@
 			"projectID": 230976,
 			"fileID": 2240115,
 			"fileName": "FastLeafDecay-1.7.10-1.1.jar",
+			"required": true
+		},
+		{
+			"projectID": 229002,
+			"fileID": 2249871,
+			"fileName": "MrTJPCore-1.1.0.31-universal.jar",
 			"required": true
 		}
 	],

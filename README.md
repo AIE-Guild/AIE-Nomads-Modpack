@@ -81,6 +81,7 @@ MineTweaker3 | 3.0.9C
 Modular Systems | 1.7.3
 More Backpacks | 2.2.2
 Morpheus | 1.6.4
+MrTJPCore | 1.1.0.31
 Natura | 2.2.0.1
 NEI Addons | 1.12.9.32
 NEI Integration | 1.0.9
@@ -93,12 +94,12 @@ OpenModsLib | 0.7.3
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10.i
 Project Blue | 1.1.4
-Project Red - Base | 4.6.2.82
-Project Red - Compat | 4.6.2.82
-Project Red - Integration | 4.6.2.82
-Project Red - Lighting | 4.6.2.82
-Project Red - Mechanical | 4.6.2.82
-Project Red - World | 4.6.2.82
+Project Red - Base | 4.7.0pre8.92
+Project Red - Compat | 4.7.0pre8.92
+Project Red - Integration | 4.7.0pre8.92
+Project Red - Lighting | 4.7.0pre8.92
+Project Red - Mechanical | 4.7.0pre8.92
+Project Red - World | 4.7.0pre8.92
 Railcraft | 9.6.1.0
 Recurrent Complex | 0.9.6.2
 Red Gear Core | 2.2.1
