@@ -53,7 +53,7 @@ EnderStorage | 1.4.7.33
 Eureka | 3.0.2
 Extra Utilities | 1.2.5
 ExtraCells2 | 2.2.71
-ExtraTiC | 1.4.4
+ExtraTiC | 1.4.5
 FastLeafDecay | 1.1
 FloodLights | 0.4.3-62
 Forestry | 3.5.7.16
@@ -73,7 +73,7 @@ JourneyMap | 5.0.1
 JourneyMap Server | 1.0.5
 Malisis' Doors | 1.8.1
 MalisisCore | 0.12.3
-Mantle | 0.3.2
+Mantle | 0.3.2a
 Mekanism | 8.1.4.232
 MekanismGenerators | 8.1.4.232
 MekanismTools | 8.1.4.232
@@ -122,8 +122,8 @@ Thermal Expansion | 4.0.1-182
 Thermal Foundation | 1.0.0-81
 Thermal Recycling | 0.3.8.4
 Thermal Smeltery | 1.2.1
-TiC Tooltips | 1.2.4
-Tinkers' Construct | 1.8.5
+TiC Tooltips | 1.2.5
+Tinkers' Construct | 1.8.7
 Tinkers' Mechwork | 0.2.14.100
 Translocators | 1.1.1.14
 Treecapitator | 2.0.4

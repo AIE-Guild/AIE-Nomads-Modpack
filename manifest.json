@@ -122,8 +122,8 @@
 		},
 		{
 			"projectID": 72728,
-			"fileID": 2238687,
-			"fileName": "ExtraTiC-1.7.10-1.4.4.jar",
+			"fileID": 2239878,
+			"fileName": "ExtraTiC-1.7.10-1.4.5.jar",
 			"required": true
 		},
 		{
@@ -146,8 +146,8 @@
 		},
 		{
 			"projectID": 74072,
-			"fileID": 2237598,
-			"fileName": "TConstruct-1.7.10-1.8.5.jar",
+			"fileID": 2253057,
+			"fileName": "TConstruct-1.7.10-1.8.7.jar",
 			"required": true
 		},
 		{
@@ -158,8 +158,8 @@
 		},
 		{
 			"projectID": 74924,
-			"fileID": 2215235,
-			"fileName": "Mantle-1.7.10-0.3.2.jar",
+			"fileID": 2251211,
+			"fileName": "Mantle-1.7.10-0.3.2a.jar",
 			"required": true
 		},
 		{
@@ -176,8 +176,8 @@
 		},
 		{
 			"projectID": 76845,
-			"fileID": 2235229,
-			"fileName": "TiCTooltips-mc1.7.10-1.2.4.jar",
+			"fileID": 2246472,
+			"fileName": "TiCTooltips-mc1.7.10-1.2.5.jar",
 			"required": true
 		},
 		{
