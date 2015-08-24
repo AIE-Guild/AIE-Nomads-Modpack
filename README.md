@@ -59,6 +59,7 @@ FloodLights | 0.4.3-62
 Forestry | 3.5.7.16
 Garden Stuff | 1.6.3
 Gendustry | 1.4.12.92
+Hamsterrific | 0.2.0
 Hunger Overhaul | 1.0.0
 Immibis Core | 59.1.1
 Immibis' Microblocks | 59.1.0
