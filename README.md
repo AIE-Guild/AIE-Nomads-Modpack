@@ -28,7 +28,7 @@ Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
 Bibliocraft: BiblioWoods Natura Edition | 1.5
 Big Reactors | 0.4.3A
-Binnie's Mods | 2.0-pre10
+Binnie's Mods | 2.0-pre14
 Biomes O' Plenty | 2.1.0.1067
 bspkrsCore | 6.16
 Buildcraft | 7.0.8
@@ -56,7 +56,7 @@ ExtraCells2 | 2.2.71
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.1
 FloodLights | 0.4.3-62
-Forestry | 3.5.7.16
+Forestry | 3.6.3.20
 Garden Stuff | 1.6.3
 Gendustry | 1.4.12.92
 Hamsterrific | 0.2.0
