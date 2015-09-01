@@ -37,8 +37,8 @@ BuildcraftCompat | 7.0.11
 Carpenter's Blocks | 3.3.6
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
-Chisel 2 | 2.3.10
-Chisel Tones | 1.0-1
+Chisel 2 | 2.5.0
+Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.6.43
 CoFH Core | 3.0.2-262
 CoFHLib | 1.0.2-160

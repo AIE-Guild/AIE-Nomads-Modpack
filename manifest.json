@@ -380,8 +380,8 @@
 		},
 		{
 			"projectID": 225236,
-			"fileID": 2233102,
-			"fileName": "Chisel 2 - 2.3.10.jar",
+			"fileID": 2253599,
+			"fileName": "Chisel2-2.5.0.43.jar",
 			"required": true
 		},
 		{
@@ -451,8 +451,8 @@
 		},
 		{
 			"projectID": 228004,
-			"fileID": 2228226,
-			"fileName": "ChiselTones-1.7.10-1.0-1.jar",
+			"fileID": 2254543,
+			"fileName": "ChiselTones-1.7.10-1.0-3.jar",
 			"required": true
 		},
 		{
