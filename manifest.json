@@ -38,8 +38,8 @@
 		},
 		{
 			"projectID": 61811,
-			"fileID": 2241711,
-			"fileName": "buildcraft-7.0.8.jar",
+			"fileID": 2254822,
+			"fileName": "buildcraft-7.0.21.jar",
 			"required": true
 		},
 		{
@@ -219,7 +219,13 @@
 		{
 			"projectID": 221014,
 			"fileID": 2239168,
-			"fileName": "Buildcraft Additions 2.1.4.jar",
+			"fileName": "BuildcraftAdditions-1.7.10-2.2.2.jar",
+			"required": true
+		},
+		{
+			"projectID": 233140,
+			"fileID": 2251028,
+			"fileName": "buildcraft-compat-7.0.11.jar",
 			"required": true
 		},
 		{
