@@ -451,26 +451,26 @@
 		},
 		{
 			"projectID": 228027,
-			"fileID": 2235545,
-			"fileName": "BiblioCraft v1.10.4.jar",
+			"fileID": 2251726,
+			"fileName": "BiblioCraft[v1.10.6][MC1.7.10].jar",
 			"required": true
 		},
 		{
 			"projectID": 228362,
 			"fileID": 2229577,
-			"fileName": "BiblioWoods Biomes O' Plenty edition v1.9 for BiblioCraft v1.9.x+.jar",
+			"fileName": "BiblioWoods[BiomesOPlenty][v1.9].jar",
 			"required": true
 		},
 		{
 			"projectID": 228363,
 			"fileID": 2229574,
-			"fileName": "BiblioWoods Forestry edition v1.7 for BiblioCraft v1.9.x+.jar",
+			"fileName": "BiblioWoods[Forestry][v1.7].jar",
 			"required": true
 		},
 		{
 			"projectID": 228364,
 			"fileID": 2229581,
-			"fileName": "BiblioWoods Natura edition v1.5 for BiblioCraft v1.9.x+.jar",
+			"fileName": "BiblioWoods[Natura][v1.5].jar",
 			"required": true
 		},
 		{

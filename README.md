@@ -23,7 +23,7 @@ Backpacks | 2.0.0
 Baubles | 1.0.1.10
 bdlib | 1.9.1.97
 BetterStorage | 0.13.1.126
-Bibliocraft | 1.10.4
+Bibliocraft | 1.10.6
 Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
 Bibliocraft: BiblioWoods Natura Edition | 1.5
