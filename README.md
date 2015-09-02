@@ -40,8 +40,8 @@ ChickenShed | 1.1.3
 Chisel 2 | 2.5.0
 Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.6.43
-CoFH Core | 3.0.2-262
-CoFHLib | 1.0.2-160
+CoFH Core | 3.0.3-303
+CoFHLib | 1.0.3-175
 Computercraft | 1.73
 CraftHeraldry | 1.1.3
 Custom Main Menu | 1.5

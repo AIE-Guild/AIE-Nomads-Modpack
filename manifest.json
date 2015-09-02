@@ -92,8 +92,8 @@
 		},
 		{
 			"projectID": 69162,
-			"fileID": 2234198,
-			"fileName": "CoFHCore-[1.7.10]3.0.2-262.jar",
+			"fileID": 2246919,
+			"fileName": "CoFHCore-[1.7.10]3.0.3-303.jar",
 			"required": true
 		},
 		{
@@ -212,8 +212,8 @@
 		},
 		{
 			"projectID": 220333,
-			"fileID": 2236776,
-			"fileName": "CoFHLib-[1.7.10]1.0.2-160.jar",
+			"fileID": 2246916,
+			"fileName": "CoFHLib-[1.7.10]1.0.3-175.jar",
 			"required": true
 		},
 		{
