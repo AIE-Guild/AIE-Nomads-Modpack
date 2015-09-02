@@ -254,8 +254,8 @@
 		},
 		{
 			"projectID": 222880,
-			"fileID": 2233780,
-			"fileName": "ThermalFoundation-[1.7.10]1.0.0-81.jar",
+			"fileID": 2246921,
+			"fileName": "ThermalFoundation-[1.7.10]1.2.0-102.jar",
 			"required": true
 		},
 		{
@@ -433,8 +433,8 @@
 		},
 		{
 			"projectID": 227443,
-			"fileID": 2233787,
-			"fileName": "ThermalDynamics-[1.7.10]1.0.0-122.jar",
+			"fileID": 2246924,
+			"fileName": "ThermalExpansion-[1.7.10]4.0.3B1-218.jar",
 			"required": true
 		},
 		{
