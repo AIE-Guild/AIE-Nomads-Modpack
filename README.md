@@ -104,7 +104,7 @@ Project Red - World | 4.7.0pre8.92
 Railcraft | 9.6.1.0
 Recurrent Complex | 0.9.6.2
 Red Gear Core | 2.2.1
-Redstone Arsenal | 1.1.0-80
+Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
 Refined Relocation | 1.0.8b
 Resource Loader | 1.2
