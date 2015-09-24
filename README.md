@@ -42,7 +42,7 @@ Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.6.43
 CoFH Core | 3.0.3-303
 CoFHLib | 1.0.3-175
-Computercraft | 1.73
+Computercraft | 1.74
 CraftHeraldry | 1.1.3
 Custom Main Menu | 1.5
 DecoCraft2 | 2.0.2
