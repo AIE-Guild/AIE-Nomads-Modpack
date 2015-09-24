@@ -90,7 +90,7 @@ Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.4.107
 NotEnoughKeys | 1.0.0b29
 OpenBlocks | 1.4.3
-OpenComputers | 1.5.12.26
+OpenComputers | 1.5.18.36
 OpenModsLib | 0.7.3
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10.i
