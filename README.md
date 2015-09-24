@@ -45,7 +45,7 @@ CoFHLib | 1.0.3-175
 Computercraft | 1.74
 CraftHeraldry | 1.1.3
 Custom Main Menu | 1.8
-DecoCraft2 | 2.0.2
+DecoCraft2 | 2.1.1
 Dense Ores | 1.6.2
 Ender Compass | 1.1
 Ender IO | 2.2.8.381
