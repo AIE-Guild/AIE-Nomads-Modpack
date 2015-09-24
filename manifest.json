@@ -104,14 +104,14 @@
 		},
 		{
 			"projectID": 70492,
-			"fileID": 2240875,
-			"fileName": "gendustry-1.4.12.92-mc1.7.10.jar",
+			"fileID": 2256420,
+			"fileName": "gendustry-1.6.0.125-mc1.7.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 70496,
-			"fileID": 2248543,
-			"fileName": "bdlib-1.9.1.97-mc1.7.10.jar",
+			"fileID": 2255113,
+			"fileName": "bdlib-1.9.2.104-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -290,8 +290,8 @@
 		},
 		{
 			"projectID": 223622,
-			"fileID": 2249260,
-			"fileName": "generators-0.9.17.102-mc1.7.10.jar",
+			"fileID": 2256426,
+			"fileName": "generators-0.9.18.113-mc1.7.10.jar",
 			"required": true
 		},
 		{
