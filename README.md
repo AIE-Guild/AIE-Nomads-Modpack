@@ -52,7 +52,7 @@ Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.33
 Eureka | 3.0.2
 Extra Utilities | 1.2.11
-ExtraCells2 | 2.2.71
+ExtraCells2 | 2.2.73b129
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.1
 FloodLights | 0.4.3-62
