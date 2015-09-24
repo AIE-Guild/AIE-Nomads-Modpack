@@ -69,7 +69,7 @@ Iron Chests | 6.0.62.742
 IvToolkit | 1.2
 Jabba | 1.2.1a
 Java 7 Checker | 1.1
-JourneyMap | 5.0.1
+JourneyMap | 5.1.0
 JourneyMap Server | 1.0.5
 Malisis' Doors | 1.8.1
 MalisisCore | 0.12.3
