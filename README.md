@@ -14,7 +14,7 @@ All development of this modpack will be done on [GitHub](https://github.com/AIE-
 Name | Version
 ---|---
 Advanced Generators | 0.9.18.113
-AE2 Stuff | 0.4.3.47
+AE2 Stuff | 0.5.0.56
 Another One Bites The Dust | 2.8.1
 AppleCore | 1.1.0
 Applied Energistics | rv2-stable-10
