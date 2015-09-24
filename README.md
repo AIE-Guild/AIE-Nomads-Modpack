@@ -55,7 +55,7 @@ Extra Utilities | 1.2.11
 ExtraCells2 | 2.2.73b129
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.1
-FloodLights | 0.4.3-62
+FloodLights | 0.6.11-103
 Forestry | 3.6.3.20
 Garden Stuff | 1.6.3
 Gendustry | 1.4.12.92
