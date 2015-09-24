@@ -79,9 +79,15 @@
 			"required": true
 		},
 		{
+			"projectID": 232784,
+			"fileID": 2250214,
+			"fileName": "Bookshelf-1.7.10-1.2.0.jar",
+			"required": true
+		},
+		{
 			"projectID": 68528,
-			"fileID": 2230585,
-			"fileName": "Modular Systems-1.7.10-1.7.3.jar",
+			"fileID": 2250241,
+			"fileName": "ModularSystems-1.7.10-2.2.1.jar",
 			"required": true
 		},
 		{

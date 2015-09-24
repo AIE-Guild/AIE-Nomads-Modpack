@@ -23,6 +23,7 @@ Backpacks | 2.0.0
 Baubles | 1.0.1.10
 bdlib | 1.9.2.104
 BetterStorage | 0.13.1.126
+Bookshelf | 1.2.0
 Bibliocraft | 1.10.6
 Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
@@ -79,7 +80,7 @@ MekanismGenerators | 8.1.7.252
 MekanismTools | 8.1.7.252
 Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10
-Modular Systems | 1.7.3
+Modular Systems | 2.2.1
 More Backpacks | 2.2.2
 Morpheus | 1.6.4
 MrTJPCore | 1.1.0.31
