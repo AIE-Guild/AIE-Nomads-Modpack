@@ -500,12 +500,12 @@
 		{
 			"projectID": 228815,
 			"fileID": 2237475,
-			"fileName": "OpenModsLib-1.7.10-0.7.3.jar",
+			"fileName": "OpenModsLib-1.7.10-0.8.jar",
 			"required": true
 		},
 		{
 			"projectID": 228816,
-			"fileID": 2250321,
+			"fileID": 2250318,
 			"fileName": "OpenBlocks-1.7.10-1.4.4.jar",
 			"required": true
 		},
