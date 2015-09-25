@@ -44,8 +44,8 @@
 		},
 		{
 			"projectID": 63352,
-			"fileID": 2240791,
-			"fileName": "neiaddons-1.12.9.32-mc1.7.10.jar",
+			"fileID": 2246485,
+			"fileName": "neiaddons-1.12.11.36-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -392,8 +392,8 @@
 		},
 		{
 			"projectID": 225251,
-			"fileID": 2234835,
-			"fileName": "NEIIntegration-MC1.7.10-1.0.9.jar",
+			"fileID": 2246485,
+			"fileName": "NEIIntegration-MC1.7.10-1.0.12.jar",
 			"required": true
 		},
 		{
