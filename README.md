@@ -90,7 +90,7 @@ NEI Integration | 1.0.12
 Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.4.107
 NotEnoughKeys | 2.0.0b41
-OpenBlocks | 1.4.3
+OpenBlocks | 1.4.4
 OpenComputers | 1.5.18.36
 OpenModsLib | 0.7.3
 OreDictionaryConverter | 1.6.1
