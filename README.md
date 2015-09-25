@@ -82,7 +82,7 @@ Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10
 Modular Systems | 2.2.1
 More Backpacks | 2.2.2
-Morpheus | 1.6.4
+Morpheus | 1.6.10
 MrTJPCore | 1.1.0.31
 Natura | 2.2.0.1
 NEI Addons | 1.12.9.32
