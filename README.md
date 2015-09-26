@@ -75,6 +75,7 @@ JourneyMap Server | 1.0.5
 Malisis' Doors | 1.10
 MalisisCore | 0.12.9
 Mantle | 0.3.2a
+McJtyLib | 1.5.1
 Mekanism | 8.1.7.252
 MekanismGenerators | 8.1.7.252
 MekanismTools | 8.1.7.252
