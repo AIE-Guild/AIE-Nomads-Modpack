@@ -113,10 +113,10 @@ RFTools | 3.40
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
-Storage Drawers | 1.5.5
-Storage Drawers: Biome O' Plenty Pack | 1.0.1
-Storage Drawers: Natura Pack | 1.0.2
-Storage Drawers: Forestry | 1.0.1
+Storage Drawers | 1.6.2
+Storage Drawers: Biome O' Plenty Pack | 1.0.2
+Storage Drawers: Forestry | 1.0.3
+Storage Drawers: Natura Pack | 1.0.3
 Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.0.0-122
 Thermal Expansion | 4.0.3B1-218
