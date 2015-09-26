@@ -119,7 +119,7 @@ Storage Drawers: Biome O' Plenty Pack | 1.0.2
 Storage Drawers: Forestry | 1.0.3
 Storage Drawers: Natura Pack | 1.0.3
 Super Crafting Frame | 1.7.10.3
-Thermal Dynamics | 1.0.0-122
+Thermal Dynamics | 1.1.0-161
 Thermal Expansion | 4.0.3B1-218
 Thermal Foundation | 1.2.0-102
 Thermal Recycling | 0.3.8.4
