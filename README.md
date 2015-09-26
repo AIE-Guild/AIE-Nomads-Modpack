@@ -35,7 +35,7 @@ bspkrsCore | 6.16
 Buildcraft | 7.0.21
 Buildcraft Additions | 2.2.2
 BuildcraftCompat | 7.0.11
-Carpenter's Blocks | 3.3.6
+Carpenter's Blocks | 3.3.7
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
 Chisel 2 | 2.5.0
