@@ -2,7 +2,7 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
-	"version":"1.0.3-beta.2",
+	"version":"1.0.3-beta.3",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
 	"files":[
@@ -505,7 +505,7 @@
 		},
 		{
 			"projectID": 228815,
-			"fileID": 2237475,
+			"fileID": 2250318,
 			"fileName": "OpenModsLib-1.7.10-0.8.jar",
 			"required": true
 		},
