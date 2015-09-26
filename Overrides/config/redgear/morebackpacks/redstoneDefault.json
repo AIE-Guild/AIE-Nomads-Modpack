@@ -1,0 +1,18 @@
+{
+  "backpackKey": "redstone",
+  "items": [
+    "minecraft:redstone",
+    "minecraft:repeater",
+    "minecraft:comparator",
+    "minecraft:redstone_torch",
+    "minecraft:wooden_pressure_plate",
+    "minecraft:stone_pressure_plate",
+    "minecraft:lever",
+    "minecraft:command_block",
+    "minecraft:stone_button",
+    "minecraft:wooden_button",
+    "minecraft:tripwire_hook",
+    "minecraft:piston",
+    "minecraft:sticky_piston"
+  ]
+}

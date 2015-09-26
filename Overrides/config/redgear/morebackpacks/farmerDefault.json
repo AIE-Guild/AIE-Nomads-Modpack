@@ -1,0 +1,20 @@
+{
+  "backpackKey": "farmer",
+  "items": [
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:poisonous_potato",
+    "minecraft:reeds",
+    "minecraft:nether_wart",
+    "minecraft:melon",
+    "minecraft:melon_seeds",
+    "minecraft:pumpkin_seeds",
+    "minecraft:cactus",
+    "minecraft:pumpkin",
+    "minecraft:brown_mushroom_block",
+    "minecraft:red_mushroom_block",
+    "minecraft:cocoa"
+  ]
+}
