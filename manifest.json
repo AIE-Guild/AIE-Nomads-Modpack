@@ -1,15 +1,15 @@
-{  
+{
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
-	"version":"1.0.2",
+	"version":"1.0.3-beta",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
-	"files":[  
+	"files":[
 		{
 			"projectID": 51195,
-			"fileID": 2235453,
-			"fileName": "Railcraft 9.6.1.0.jar",
+			"fileID": 2251559,
+			"fileName": "Railcraft 9.7.0.0.jar",
 			"required": true
 		},
 		{
@@ -32,20 +32,20 @@
 		},
 		{
 			"projectID": 59751,
-			"fileID": 2241513,
-			"fileName": "forestry_1.7.10-3.5.7.16.jar",
+			"fileID": 2259192,
+			"fileName": "forestry_1.7.10-3.6.7.25.jar",
 			"required": true
 		},
 		{
 			"projectID": 61811,
-			"fileID": 2241711,
-			"fileName": "buildcraft-7.0.8.jar",
+			"fileID": 2254822,
+			"fileName": "buildcraft-7.0.21.jar",
 			"required": true
 		},
 		{
 			"projectID": 63352,
-			"fileID": 2240791,
-			"fileName": "neiaddons-1.12.9.32-mc1.7.10.jar",
+			"fileID": 2246485,
+			"fileName": "neiaddons-1.12.11.36-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -68,8 +68,8 @@
 		},
 		{
 			"projectID": 67504,
-			"fileID": 2228723,
-			"fileName": "ComputerCraft 1.73.jar",
+			"fileID": 2244605,
+			"fileName": "ComputerCraft1.74.jar",
 			"required": true
 		},
 		{
@@ -79,21 +79,27 @@
 			"required": true
 		},
 		{
+			"projectID": 232784,
+			"fileID": 2250214,
+			"fileName": "Bookshelf-1.7.10-1.2.0.jar",
+			"required": true
+		},
+		{
 			"projectID": 68528,
-			"fileID": 2230585,
-			"fileName": "Modular Systems-1.7.10-1.7.3.jar",
+			"fileID": 2250241,
+			"fileName": "ModularSystems-1.7.10-2.2.1.jar",
 			"required": true
 		},
 		{
 			"projectID": 69118,
-			"fileID": 2231390,
-			"fileName": "Morpheus-1.7.10-1.6.4.jar",
+			"fileID": 2251029,
+			"fileName": "Morpheus-1.7.10-1.6.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 69162,
-			"fileID": 2234198,
-			"fileName": "CoFHCore-[1.7.10]3.0.2-262.jar",
+			"fileID": 2246919,
+			"fileName": "CoFHCore-[1.7.10]3.0.3-303.jar",
 			"required": true
 		},
 		{
@@ -104,26 +110,26 @@
 		},
 		{
 			"projectID": 70492,
-			"fileID": 2240875,
-			"fileName": "gendustry-1.4.12.92-mc1.7.10.jar",
+			"fileID": 2256420,
+			"fileName": "gendustry-1.6.0.125-mc1.7.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 70496,
-			"fileID": 2240750,
-			"fileName": "bdlib-1.8.1.87-mc1.7.10.jar",
+			"fileID": 2255113,
+			"fileName": "bdlib-1.9.2.104-mc1.7.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 70631,
-			"fileID": 2233785,
-			"fileName": "RedstoneArsenal-[1.7.10]1.1.0-80.jar",
+			"fileID": 2246927,
+			"fileName": "RedstoneArsenal-[1.7.10]1.1.1-89.jar",
 			"required": true
 		},
 		{
 			"projectID": 72728,
-			"fileID": 2238687,
-			"fileName": "ExtraTiC-1.7.10-1.4.4.jar",
+			"fileID": 2239878,
+			"fileName": "ExtraTiC-1.7.10-1.4.5.jar",
 			"required": true
 		},
 		{
@@ -146,8 +152,8 @@
 		},
 		{
 			"projectID": 74072,
-			"fileID": 2237598,
-			"fileName": "TConstruct-1.7.10-1.8.5.jar",
+			"fileID": 2253057,
+			"fileName": "TConstruct-1.7.10-1.8.7.jar",
 			"required": true
 		},
 		{
@@ -158,8 +164,8 @@
 		},
 		{
 			"projectID": 74924,
-			"fileID": 2215235,
-			"fileName": "Mantle-1.7.10-0.3.2.jar",
+			"fileID": 2251211,
+			"fileName": "Mantle-1.7.10-0.3.2a.jar",
 			"required": true
 		},
 		{
@@ -176,8 +182,8 @@
 		},
 		{
 			"projectID": 76845,
-			"fileID": 2235229,
-			"fileName": "TiCTooltips-mc1.7.10-1.2.4.jar",
+			"fileID": 2246472,
+			"fileName": "TiCTooltips-mc1.7.10-1.2.5.jar",
 			"required": true
 		},
 		{
@@ -200,8 +206,8 @@
 		},
 		{
 			"projectID": 79616,
-			"fileID": 2240127,
-			"fileName": "Decocraft-2.0.2_1.7.10.jar",
+			"fileID": 2254063,
+			"fileName": "Decocraft-2.1.1_1.7.10.jar",
 			"required": true
 		},
 		{
@@ -212,26 +218,32 @@
 		},
 		{
 			"projectID": 220333,
-			"fileID": 2236776,
-			"fileName": "CoFHLib-[1.7.10]1.0.2-160.jar",
+			"fileID": 2246916,
+			"fileName": "CoFHLib-[1.7.10]1.0.3-175.jar",
 			"required": true
 		},
 		{
 			"projectID": 221014,
 			"fileID": 2239168,
-			"fileName": "Buildcraft Additions 2.1.4.jar",
+			"fileName": "BuildcraftAdditions-1.7.10-2.2.2.jar",
+			"required": true
+		},
+		{
+			"projectID": 233140,
+			"fileID": 2251028,
+			"fileName": "buildcraft-compat-7.0.11.jar",
 			"required": true
 		},
 		{
 			"projectID": 221857,
-			"fileID": 2242269,
-			"fileName": "Pam's HarvestCraft 1.7.10i.jar",
+			"fileID": 2249279,
+			"fileName": "Pam's HarvestCraft 1.7.10j.jar",
 			"required": true
 		},
 		{
 			"projectID": 221863,
-			"fileID": 2240167,
-			"fileName": "AOBD-2.6.3.jar",
+			"fileID": 2256581,
+			"fileName": "AOBD-2.8.4.jar",
 			"required": true
 		},
 		{
@@ -248,8 +260,8 @@
 		},
 		{
 			"projectID": 222880,
-			"fileID": 2233780,
-			"fileName": "ThermalFoundation-[1.7.10]1.0.0-81.jar",
+			"fileID": 2246921,
+			"fileName": "ThermalFoundation-[1.7.10]1.2.0-102.jar",
 			"required": true
 		},
 		{
@@ -260,8 +272,8 @@
 		},
 		{
 			"projectID": 223008,
-			"fileID": 2239981,
-			"fileName": "OpenComputers-MC1.7.10-1.5.12.26-universal.jar",
+			"fileID": 2258896,
+			"fileName": "OpenComputers-MC1.7.10-1.5.18.36-universal.jar",
 			"required": true
 		},
 		{
@@ -272,44 +284,44 @@
 		},
 		{
 			"projectID": 223150,
-			"fileID": 2235548,
-			"fileName": "RecurrentComplex-0.9.6.2.jar",
+			"fileID": 2247175,
+			"fileName": "RecurrentComplex-0.9.6.3.jar",
 			"required": true
 		},
 		{
 			"projectID": 223525,
-			"fileID": 2241921,
-			"fileName": "binnie-mods-2.0-pre10.jar",
+			"fileID": 2246131,
+			"fileName": "binnie-mods-2.0-pre14.jar",
 			"required": true
 		},
 		{
 			"projectID": 223622,
-			"fileID": 2239771,
-			"fileName": "generators-0.9.13.72-mc1.7.10.jar",
+			"fileID": 2256426,
+			"fileName": "generators-0.9.18.113-mc1.7.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 223794,
-			"fileID": 2242134,
-			"fileName": "appliedenergistics2-rv2-stable-6.jar",
+			"fileID": 2245762,
+			"fileName": "appliedenergistics2-rv2-stable-10.jar",
 			"required": true
 		},
 		{
 			"projectID": 223852,
-			"fileID": 2241988,
-			"fileName": "StorageDrawers-1.7.10-1.5.5.jar",
+			"fileID": 2259166,
+			"fileName": "StorageDrawers-1.7.10-1.6.2.jar",
 			"required": true
 		},
 		{
 			"projectID": 223891,
-			"fileID": 2239868,
-			"fileName": "malisisdoors-1.7.10-1.8.1.jar",
+			"fileID": 2256307,
+			"fileName": "malisisdoors-1.7.10-1.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 223896,
-			"fileID": 2242391,
-			"fileName": "malisiscore-1.7.10-0.12.3.jar",
+			"fileID": 2254954,
+			"fileName": "malisiscore-1.7.10-0.12.9.jar",
 			"required": true
 		},
 		{
@@ -338,26 +350,32 @@
 		},
 		{
 			"projectID": 224614,
-			"fileID": 2221466,
-			"fileName": "NotEnoughKeys-1.7.10-1.0.0b29.jar",
+			"fileID": 2252612,
+			"fileName": "NotEnoughKeys-1.7.10-1.0.0b30.jar",
+			"required": true
+		},
+		{
+			"projectID": 233105,
+			"fileID": 2259366,
+			"fileName": "mcjtylib-1.5.1.jar",
 			"required": true
 		},
 		{
 			"projectID": 224641,
-			"fileID": 2240493,
-			"fileName": "rftools-2.93.jar",
+			"fileID": 2259367,
+			"fileName": "rftools-3.40.jar",
 			"required": true
 		},
 		{
 			"projectID": 224712,
-			"fileID": 2232718,
-			"fileName": "Wawla-1.2.1_1.7.10.jar",
+			"fileID": 2244297,
+			"fileName": "Wawla-1.3.1_1.7.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 224728,
-			"fileID": 2235927,
-			"fileName": "FloodLights-1.7.10-0.4.3-62.jar",
+			"fileID": 2257191,
+			"fileName": "FloodLights-1.7.10-0.6.11-103.jar",
 			"required": true
 		},
 		{
@@ -368,26 +386,32 @@
 		},
 		{
 			"projectID": 225194,
-			"fileID": 2240788,
-			"fileName": "ae2stuff-0.3.1.33-mc1.7.10.jar",
+			"fileID": 2256440,
+			"fileName": "ae2stuff-0.5.0.56-mc1.7.10.jar",
 			"required": true
 		},
 		{
-			"projectID": 225236,
-			"fileID": 2233102,
-			"fileName": "Chisel 2 - 2.3.10.jar",
+			"projectID": 235279,
+			"fileID": 2259021,
+			"fileName": "Chisel-2.9.1.7.jar",
+			"required": true
+		},
+		{
+			"projectID": 222784,
+			"fileID": 2255081,
+			"fileName": "ChiselFacades-1.7.10-2.12-chiselteam.jar",
 			"required": true
 		},
 		{
 			"projectID": 225251,
-			"fileID": 2234835,
-			"fileName": "NEIIntegration-MC1.7.10-1.0.9.jar",
+			"fileID": 2246485,
+			"fileName": "NEIIntegration-MC1.7.10-1.0.12.jar",
 			"required": true
 		},
 		{
 			"projectID": 225561,
-			"fileID": 2239472,
-			"fileName": "Extra Utilities 1.2.5.jar",
+			"fileID": 2254261,
+			"fileName": "extrautilities-1.2.11.jar",
 			"required": true
 		},
 		{
@@ -397,20 +421,14 @@
 		},
 		{
 			"projectID": 225903,
-			"fileID": 2241011,
-			"fileName": "GardenStuff-1.7.10-1.6.3.jar",
-			"required": true
-		},
-		{
-			"projectID": 226082,
-			"fileID": 2227915,
-			"fileName": "ttCore-MC1.7.10-0.1.0-67.jar",
+			"fileID": 2256512,
+			"fileName": "GardenStuff-1.7.10-1.6.8.jar",
 			"required": true
 		},
 		{
 			"projectID": 226119,
-			"fileID": 2237250,
-			"fileName": "WAILAPlugins-MC1.7.10-0.0.1-15.jar",
+			"fileID": 2255176,
+			"fileName": "WAILAPlugins-MC1.7.10-0.1.2-21.jar",
 			"required": true
 		},
 		{
@@ -427,8 +445,8 @@
 		},
 		{
 			"projectID": 227443,
-			"fileID": 2233787,
-			"fileName": "ThermalDynamics-[1.7.10]1.0.0-122.jar",
+			"fileID": 2246949,
+			"fileName": "ThermalDynamics-[1.7.10]1.1.0-161.jar",
 			"required": true
 		},
 		{
@@ -445,38 +463,38 @@
 		},
 		{
 			"projectID": 228004,
-			"fileID": 2228226,
-			"fileName": "ChiselTones-1.7.10-1.0-1.jar",
+			"fileID": 2254543,
+			"fileName": "ChiselTones-1.7.10-1.0-3.jar",
 			"required": true
 		},
 		{
 			"projectID": 228027,
-			"fileID": 2235545,
-			"fileName": "BiblioCraft v1.10.4.jar",
+			"fileID": 2258792,
+			"fileName": "BiblioCraft[v1.11.2][MC1.7.10].jar",
 			"required": true
 		},
 		{
 			"projectID": 228362,
 			"fileID": 2229577,
-			"fileName": "BiblioWoods Biomes O' Plenty edition v1.9 for BiblioCraft v1.9.x+.jar",
+			"fileName": "BiblioWoods[BiomesOPlenty][v1.9].jar",
 			"required": true
 		},
 		{
 			"projectID": 228363,
 			"fileID": 2229574,
-			"fileName": "BiblioWoods Forestry edition v1.7 for BiblioCraft v1.9.x+.jar",
+			"fileName": "BiblioWoods[Forestry][v1.7].jar",
 			"required": true
 		},
 		{
 			"projectID": 228364,
 			"fileID": 2229581,
-			"fileName": "BiblioWoods Natura edition v1.5 for BiblioCraft v1.9.x+.jar",
+			"fileName": "BiblioWoods[Natura][v1.5].jar",
 			"required": true
 		},
 		{
 			"projectID": 228702,
-			"fileID": 2240246,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-Base.jar",
+			"fileID": 2255230,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Base.jar",
 			"required": true
 		},
 		{
@@ -488,61 +506,61 @@
 		{
 			"projectID": 228815,
 			"fileID": 2237475,
-			"fileName": "OpenModsLib-1.7.10-0.7.3.jar",
+			"fileName": "OpenModsLib-1.7.10-0.8.jar",
 			"required": true
 		},
 		{
 			"projectID": 228816,
-			"fileID": 2237477,
-			"fileName": "OpenBlocks-1.7.10-1.4.3.jar",
+			"fileID": 2250318,
+			"fileName": "OpenBlocks-1.7.10-1.4.4.jar",
 			"required": true
 		},
 		{
 			"projectID": 228855,
 			"fileID": 2231235,
-			"fileName": "[1.7.2 - 1.7.10] ChickenShed (v1.1.3).jar",
+			"fileName": "[1.7.2] ChickenShed (v1.1.3).jar",
 			"required": true
 		},
 		{
 			"projectID": 228932,
-			"fileID": 2233617,
-			"fileName": "Carpenter's Blocks v3.3.6 - MC 1.7.10.jar",
+			"fileID": 2255823,
+			"fileName": "Carpenter's Blocks v3.3.7 - MC 1.7.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 229045,
-			"fileID": 2240249,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-Integration.jar",
+			"fileID": 2255233,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Integration.jar",
 			"required": true
 		},
 		{
 			"projectID": 229046,
-			"fileID": 2240250,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-Lighting.jar",
+			"fileID": 2255235,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Lighting.jar",
 			"required": true
 		},
 		{
 			"projectID": 229048,
-			"fileID": 2240251,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-Mechanical_beta.jar",
+			"fileID": 2255236,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Mechanical.jar",
 			"required": true
 		},
 		{
 			"projectID": 229049,
-			"fileID": 2240252,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-World.jar",
+			"fileID": 2255237,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-World.jar",
 			"required": true
 		},
 		{
 			"projectID": 229050,
-			"fileID": 2240253,
-			"fileName": "ProjectRed-1.7.10-4.6.2.82-Compat.jar",
+			"fileID": 2255238,
+			"fileName": "ProjectRed-1.7.10-4.7.0pre9.92-Compat.jar",
 			"required": true
 		},
 		{
 			"projectID": 229218,
-			"fileID": 2233937,
-			"fileName": "ExtraCells-1.7.10-2.2.71b121.jar",
+			"fileID": 2242838,
+			"fileName": "ExtraCells-1.7.10-2.2.73b129.jar",
 			"required": true
 		},
 		{
@@ -571,32 +589,32 @@
 		},
 		{
 			"projectID": 229666,
-			"fileID": 2241750,
-			"fileName": "ThermalRecycling-1.7.10-0.3.8.4.jar",
+			"fileID": 2256004,
+			"fileName": "ThermalRecycling-1.7.10-1.0.1.jar",
 			"required": true
 		},
 		{
 			"projectID": 230642,
-			"fileID": 2241161,
-			"fileName": "StorageDrawers-Natura-1.7.10-1.0.2.jar",
+			"fileID": 2253641,
+			"fileName": "StorageDrawers-Natura-1.7.10-1.0.3.jar",
 			"required": true
 		},
 		{
 			"projectID": 230832,
-			"fileID": 2241164,
-			"fileName": "StorageDrawers-BiomesOPlenty-1.7.10-1.0.1.jar",
+			"fileID": 2253638,
+			"fileName": "StorageDrawers-BiomesOPlenty-1.7.10-1.0.2.jar",
 			"required": true
 		},
 		{
 			"projectID": 231147,
-			"fileID": 2241162,
-			"fileName": "StorageDrawers-Forestry-1.7.10-1.0.1.jar",
+			"fileID": 2254886,
+			"fileName": "StorageDrawers-Forestry-1.7.10-1.0.3.jar",
 			"required": true
 		},
 		{
 			"projectID": 32274,
-			"fileID": 2221283,
-			"fileName": "JourneyMap5.0.1_Unlimited_MC1.7.10.jar",
+			"fileID": 2245168,
+			"fileName": "journeymap-1.7.10-5.1.0-unlimited.jar",
 			"required": true
 		},
 		{
@@ -613,8 +631,8 @@
 		},
 		{
 			"projectID": 226406,
-			"fileID": 2238779,
-			"fileName": "CustomMainMenu-MC1.7.10-1.5.jar",
+			"fileID": 2256005,
+			"fileName": "CustomMainMenu-MC1.7.10-1.8.jar",
 			"required": true
 		},
 		{
@@ -642,6 +660,12 @@
 			"required": true
 		},
 		{
+			"projectID": 231868,
+			"fileID": 2256620,
+			"fileName": "EnderCore-1.7.10-0.1.0.24_beta.jar",
+			"required": true
+		},
+		{
 			"projectID": 59821,
 			"fileID": 2218545,
 			"fileName": "More Backpacks-1.7.10-2.2.2.jar",
@@ -655,8 +679,8 @@
 		},
 		{
 			"projectID": 224029,
-			"fileID": 2233934,
-			"fileName": "MineTweaker3-1.7.10-3.0.9C.jar",
+			"fileID": 2255759,
+			"fileName": "MineTweaker3-1.7.10-3.0.10.jar",
 			"required": true
 		},
 		{
@@ -670,19 +694,43 @@
 			"fileID": 2240115,
 			"fileName": "FastLeafDecay-1.7.10-1.1.jar",
 			"required": true
+		},
+		{
+			"projectID": 229002,
+			"fileID": 2249871,
+			"fileName": "MrTJPCore-1.1.0.31-universal.jar",
+			"required": true
+		},
+		{
+			"projectID": 220341,
+			"fileID": 2209883,
+			"fileName": "Hamsterrific-0.2.0.jar.zip",
+			"required": true
+		},
+		{
+			"projectID": 232919,
+			"fileID": 2248061,
+			"fileName": "BetterStorage-1.7.10-0.13.1.126.jar",
+			"required": true
+		},
+		{
+			"projectID": 59694,
+			"fileID": 2223311,
+			"fileName": "RedGearCore-1.7.10-2.2.1.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
-	"minecraft":{  
+	"minecraft":{
 		"version":"1.7.10",
 		"libraries":"libraries",
-		"modLoaders":[  
-			{  
-				"id":"forge-10.13.4.1448",
+		"modLoaders":[
+			{
+				"id":"forge-10.13.4.1492",
 				"primary":true
 			},
-			{  
-				"id":"forge-10.13.3.1408",
+			{
+				"id":"forge-10.13.4.1448",
 				"primary":false
 			}
 		]
