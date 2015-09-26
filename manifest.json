@@ -397,6 +397,12 @@
 			"required": true
 		},
 		{
+			"projectID": 222784,
+			"fileID": 2255081,
+			"fileName": "ChiselFacades-1.7.10-2.12-chiselteam.jar",
+			"required": true
+		},
+		{
 			"projectID": 225251,
 			"fileID": 2246485,
 			"fileName": "NEIIntegration-MC1.7.10-1.0.12.jar",
