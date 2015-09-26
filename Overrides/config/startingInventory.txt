@@ -1,8 +1,8 @@
-TConstruct:pickaxe,1,0,{InfiTool:{BaseDurability:24000,Head:185,BaseAttack:1,Built:1b,HarvestLevel:0,Attack:1,RenderHead:185,ModDurability:0.0f,Handle:185,Broken:0b,Shoddy:0.0f,RenderHandle:185,Accessory:185,MiningSpeed:100,RenderAccessory:185,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:24000,Modifiers:3},display:{Name:"§fBedrockium Pickaxe"}}
-TConstruct:shovel,1,0,{InfiTool:{BaseDurability:24000,Head:185,BaseAttack:2,Built:1b,HarvestLevel:0,Attack:2,RenderHead:185,ModDurability:0.0f,Handle:185,Broken:0b,Shoddy:0.0f,RenderHandle:185,MiningSpeed:100,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:24000,Modifiers:3},display:{Name:"§fBedrockium Shovel"}}
-TConstruct:hatchet,1,0,{InfiTool:{BaseDurability:24000,Head:185,BaseAttack:3,Built:1b,HarvestLevel:0,Attack:3,RenderHead:185,ModDurability:0.0f,Handle:185,Broken:0b,Shoddy:0.0f,RenderHandle:185,MiningSpeed:100,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:24000,Modifiers:3},display:{Name:"§fBedrockium Hatchet"}}
-TConstruct:dagger,1,0,{InfiTool:{BaseDurability:24000,Head:185,BaseAttack:1,Built:1b,HarvestLevel:0,Attack:1,RenderHead:185,ModDurability:0.0f,Handle:185,Broken:0b,Shoddy:0.0f,RenderHandle:185,Accessory:185,MiningSpeed:100,RenderAccessory:185,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:24000,Modifiers:3},display:{Name:"§fBedrockium Dagger"}}
-minecraft:bread,8,0
+minecraft:iron_pickaxe,1,0
+minecraft:iron_shovel,1,0
+minecraft:iron_axe,1,0
+TConstruct:dagger,1,0,{InfiTool:{BaseDurability:324,Head:2,BaseAttack:3,Built:1b,HarvestLevel:2,Attack:3,RenderHead:2,ModDurability:0.0f,Handle:2,Broken:0b,Shoddy:0.0f,RenderHandle:2,Accessory:2,MiningSpeed:600,RenderAccessory:2,Unbreaking:1,Damage:0,BonusDurability:0,TotalDurability:324,Modifiers:3},display:{Name:"§fIron Dagger"}}
+minecraft:bread,16,0
 minecraft:cooked_beef,16,0
 harvestcraft:rootbeersodaItem,1,0
 minecraft:red_flower,1,0
