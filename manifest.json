@@ -706,6 +706,12 @@
 			"fileID": 2248061,
 			"fileName": "BetterStorage-1.7.10-0.13.1.126.jar",
 			"required": true
+		},
+		{
+			"projectID": 59694,
+			"fileID": 2223311,
+			"fileName": "RedGearCore-1.7.10-2.2.1.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
