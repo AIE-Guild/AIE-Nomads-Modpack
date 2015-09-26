@@ -242,8 +242,8 @@
 		},
 		{
 			"projectID": 221863,
-			"fileID": 2250723,
-			"fileName": "AOBD-2.8.1.jar",
+			"fileID": 2256581,
+			"fileName": "AOBD-2.8.4.jar",
 			"required": true
 		},
 		{
@@ -469,8 +469,8 @@
 		},
 		{
 			"projectID": 228027,
-			"fileID": 2251726,
-			"fileName": "BiblioCraft[v1.10.6][MC1.7.10].jar",
+			"fileID": 2258792,
+			"fileName": "BiblioCraft[v1.11.2][MC1.7.10].jar",
 			"required": true
 		},
 		{

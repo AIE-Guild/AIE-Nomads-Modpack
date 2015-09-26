@@ -15,7 +15,7 @@ Name | Version
 ---|---
 Advanced Generators | 0.9.18.113
 AE2 Stuff | 0.5.0.56
-Another One Bites The Dust | 2.8.1
+Another One Bites The Dust | 2.8.4
 AppleCore | 1.1.0
 Applied Energistics | rv2-stable-10
 Archimedes' Ships | 1.7.1
@@ -24,7 +24,7 @@ Baubles | 1.0.1.10
 bdlib | 1.9.2.104
 BetterStorage | 0.13.1.126
 Bookshelf | 1.2.0
-Bibliocraft | 1.10.6
+Bibliocraft | 1.11.2
 Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
 Bibliocraft: BiblioWoods Natura Edition | 1.5
