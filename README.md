@@ -92,7 +92,7 @@ NEI Addons | 1.12.11.36
 NEI Integration | 1.0.12
 Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.4.107
-NotEnoughKeys | 2.0.0b41
+NotEnoughKeys | 1.0.0b30
 OpenBlocks | 1.4.4
 OpenComputers | 1.5.18.36
 OpenModsLib | 0.8
