@@ -132,8 +132,8 @@ Treecapitator | 2.0.4
 ttCore | 0.1.1-78
 Waila | 1.5.10
 Waila Harvestability | 1.1.2
-Waila Plugins | 0.0.1-15
-Wawla | 1.2.1
+Waila Plugins | 0.1.2-21
+Wawla | 1.3.1
 WorldEdit | 6.0 Beta 1
 WR-CBE Universal | 1.4.1.9
 ZTones | 2.2.1
