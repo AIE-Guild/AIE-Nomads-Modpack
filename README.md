@@ -109,7 +109,7 @@ Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
 Refined Relocation | 1.0.8b
 Resource Loader | 1.2
-RFTools | 2.93
+RFTools | 3.40
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
