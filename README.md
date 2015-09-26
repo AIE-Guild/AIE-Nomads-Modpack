@@ -97,12 +97,12 @@ OpenModsLib | 0.8
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10.j
 Project Blue | 1.1.4
-Project Red - Base | 4.7.0pre8.92
-Project Red - Compat | 4.7.0pre8.92
-Project Red - Integration | 4.7.0pre8.92
-Project Red - Lighting | 4.7.0pre8.92
-Project Red - Mechanical | 4.7.0pre8.92
-Project Red - World | 4.7.0pre8.92
+Project Red - Base | 4.7.0pre9.92
+Project Red - Compat | 4.7.0pre9.92
+Project Red - Integration | 4.7.0pre9.92
+Project Red - Lighting | 4.7.0pre9.92
+Project Red - Mechanical | 4.7.0pre9.92
+Project Red - World | 4.7.0pre9.92
 Railcraft | 9.7.0.0
 Recurrent Complex | 0.9.6.3
 Red Gear Core | 2.2.1
