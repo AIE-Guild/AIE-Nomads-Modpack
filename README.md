@@ -129,7 +129,7 @@ Tinkers' Construct | 1.8.7
 Tinkers' Mechwork | 0.2.14.100
 Translocators | 1.1.1.14
 Treecapitator | 2.0.4
-ttCore | 0.1.0-67
+ttCore | 0.1.1-78
 Waila | 1.5.10
 Waila Harvestability | 1.1.2
 Waila Plugins | 0.0.1-15
