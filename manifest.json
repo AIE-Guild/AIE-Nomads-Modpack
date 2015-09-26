@@ -391,9 +391,9 @@
 			"required": true
 		},
 		{
-			"projectID": 225236,
-			"fileID": 2256718,
-			"fileName": "Chisel2-2.5.1.44.jar",
+			"projectID": 235279,
+			"fileID": 2259021,
+			"fileName": "Chisel-2.9.1.7.jar",
 			"required": true
 		},
 		{
@@ -423,12 +423,6 @@
 			"projectID": 225903,
 			"fileID": 2256512,
 			"fileName": "GardenStuff-1.7.10-1.6.8.jar",
-			"required": true
-		},
-		{
-			"projectID": 226082,
-			"fileID": 2244334,
-			"fileName": "ttCore-MC1.7.10-0.1.1-78.jar",
 			"required": true
 		},
 		{

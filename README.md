@@ -38,7 +38,7 @@ BuildcraftCompat | 7.0.11
 Carpenter's Blocks | 3.3.7
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
-Chisel 2 | 2.5.1
+Chisel | 2.9.1
 Chisel Facades | 2.12
 Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.6.43
@@ -132,7 +132,6 @@ Tinkers' Construct | 1.8.7
 Tinkers' Mechwork | 0.2.14.100
 Translocators | 1.1.1.14
 Treecapitator | 2.0.4
-ttCore | 0.1.1-78
 Waila | 1.5.10
 Waila Harvestability | 1.1.2
 Waila Plugins | 0.1.2-21
