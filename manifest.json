@@ -2,10 +2,16 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
-	"version":"1.0.3-beta.3",
+	"version":"1.0.3",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
 	"files":[
+		{
+			"projectID": 220838,
+			"fileID": 2259411,
+			"fileName": "LSCraft_v2.3_mc1.7.10_fml.1448.jar",
+			"required": true
+		},
 		{
 			"projectID": 51195,
 			"fileID": 2251559,
@@ -32,14 +38,14 @@
 		},
 		{
 			"projectID": 59751,
-			"fileID": 2259192,
-			"fileName": "forestry_1.7.10-3.6.7.25.jar",
+			"fileID": 2260695,
+			"fileName": "forestry_1.7.10-3.6.10.1.jar",
 			"required": true
 		},
 		{
 			"projectID": 61811,
-			"fileID": 2254822,
-			"fileName": "buildcraft-7.0.21.jar",
+			"fileID": 2260548,
+			"fileName": "buildcraft-7.1.6.jar",
 			"required": true
 		},
 		{
@@ -110,14 +116,14 @@
 		},
 		{
 			"projectID": 70492,
-			"fileID": 2256420,
-			"fileName": "gendustry-1.6.0.125-mc1.7.10.jar",
+			"fileID": 2259877,
+			"fileName": "gendustry-1.6.1.126-mc1.7.10.jar",
 			"required": true
 		},
 		{
 			"projectID": 70496,
-			"fileID": 2255113,
-			"fileName": "bdlib-1.9.2.104-mc1.7.10.jar",
+			"fileID": 2260512,
+			"fileName": "bdlib-1.9.3.107-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -230,8 +236,8 @@
 		},
 		{
 			"projectID": 233140,
-			"fileID": 2251028,
-			"fileName": "buildcraft-compat-7.0.11.jar",
+			"fileID": 2260557,
+			"fileName": "buildcraft-compat-7.1.1.jar",
 			"required": true
 		},
 		{
@@ -362,8 +368,8 @@
 		},
 		{
 			"projectID": 224641,
-			"fileID": 2259367,
-			"fileName": "rftools-3.40.jar",
+			"fileID": 2259519,
+			"fileName": "rftools-3.41.jar",
 			"required": true
 		},
 		{
@@ -392,8 +398,8 @@
 		},
 		{
 			"projectID": 235279,
-			"fileID": 2259021,
-			"fileName": "Chisel-2.9.1.7.jar",
+			"fileID": 2260887,
+			"fileName": "Chisel-2.9.2.8.jar",
 			"required": true
 		},
 		{
@@ -589,8 +595,8 @@
 		},
 		{
 			"projectID": 229666,
-			"fileID": 2256004,
-			"fileName": "ThermalRecycling-1.7.10-1.0.1.jar",
+			"fileID": 2259960,
+			"fileName": "ThermalRecycling-1.7.10-1.0.2.4.jar",
 			"required": true
 		},
 		{
@@ -655,8 +661,8 @@
 		},
 		{
 			"projectID": 59694,
-			"fileID": 2223311,
-			"fileName": "RedGearCore-1.7.10-2.2.1.jar",
+			"fileID": 2260966,
+			"fileName": "RedGearCore-1.7.10-2.2.2.jar",
 			"required": true
 		},
 		{
@@ -679,8 +685,8 @@
 		},
 		{
 			"projectID": 224029,
-			"fileID": 2255759,
-			"fileName": "MineTweaker3-1.7.10-3.0.10.jar",
+			"fileID": 2259434,
+			"fileName": "MineTweaker3-1.7.10-3.0.10B.jar",
 			"required": true
 		},
 		{
@@ -691,8 +697,8 @@
 		},
 		{
 			"projectID": 230976,
-			"fileID": 2240115,
-			"fileName": "FastLeafDecay-1.7.10-1.1.jar",
+			"fileID": 2259506,
+			"fileName": "FastLeafDecay-1.7.10-1.3.jar",
 			"required": true
 		},
 		{
