@@ -7,6 +7,12 @@
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
 	"files":[
 		{
+			"projectID": 220838,
+			"fileID": 2259411,
+			"fileName": "LSCraft_v2.3_mc1.7.10_fml.1448.jar",
+			"required": true
+		},
+		{
 			"projectID": 51195,
 			"fileID": 2251559,
 			"fileName": "Railcraft 9.7.0.0.jar",

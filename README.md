@@ -74,6 +74,7 @@ Jabba | 1.2.1a
 Java 7 Checker | 1.1
 JourneyMap | 5.1.0
 JourneyMap Server | 1.0.5
+LSCraft | 2.3
 Malisis' Doors | 1.10
 MalisisCore | 0.12.9
 Mantle | 0.3.2a
