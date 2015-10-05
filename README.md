@@ -113,7 +113,7 @@ Redstone Paste | 1.6.2
 Refined Relocation | 1.0.8b
 Resource Loader | 1.2
 Red Gear Core | 2.2.2
-RFTools | 3.40
+RFTools | 3.41
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
