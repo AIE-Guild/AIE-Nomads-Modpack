@@ -38,7 +38,7 @@ BuildcraftCompat | 7.0.11
 Carpenter's Blocks | 3.3.7
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
-Chisel | 2.9.1
+Chisel | 2.9.2
 Chisel Facades | 2.12
 Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.6.43
@@ -59,7 +59,7 @@ ExtraCells2 | 2.2.73b129
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.1
 FloodLights | 0.6.11-103
-Forestry | 3.6.7
+Forestry | 3.6.10
 Garden Stuff | 1.6.8
 Gendustry | 1.6.0.125
 Hamsterrific | 0.2.0
@@ -112,7 +112,7 @@ Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
 Refined Relocation | 1.0.8b
 Resource Loader | 1.2
-Red Gear Core | 2.2.1
+Red Gear Core | 2.2.2
 RFTools | 3.40
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03

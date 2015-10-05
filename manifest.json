@@ -32,8 +32,8 @@
 		},
 		{
 			"projectID": 59751,
-			"fileID": 2259192,
-			"fileName": "forestry_1.7.10-3.6.7.25.jar",
+			"fileID": 2260695,
+			"fileName": "forestry_1.7.10-3.6.10.1.jar",
 			"required": true
 		},
 		{
@@ -392,8 +392,8 @@
 		},
 		{
 			"projectID": 235279,
-			"fileID": 2259021,
-			"fileName": "Chisel-2.9.1.7.jar",
+			"fileID": 2260887,
+			"fileName": "Chisel-2.9.2.8.jar",
 			"required": true
 		},
 		{
