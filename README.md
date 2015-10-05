@@ -21,7 +21,7 @@ Applied Energistics | rv2-stable-10
 Archimedes' Ships | 1.7.1
 Backpacks | 2.0.0
 Baubles | 1.0.1.10
-bdlib | 1.9.2.104
+bdlib | 1.9.3.107
 BetterStorage | 0.13.1.126
 Bookshelf | 1.2.0
 Bibliocraft | 1.11.2
@@ -32,9 +32,9 @@ Big Reactors | 0.4.3A
 Binnie's Mods | 2.0-pre14
 Biomes O' Plenty | 2.1.0.1067
 bspkrsCore | 6.16
-Buildcraft | 7.0.21
+Buildcraft | 7.1.6
 Buildcraft Additions | 2.2.2
-BuildcraftCompat | 7.0.11
+BuildcraftCompat | 7.1.1
 Carpenter's Blocks | 3.3.7
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3

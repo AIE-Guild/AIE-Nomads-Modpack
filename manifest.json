@@ -38,8 +38,8 @@
 		},
 		{
 			"projectID": 61811,
-			"fileID": 2254822,
-			"fileName": "buildcraft-7.0.21.jar",
+			"fileID": 2260548,
+			"fileName": "buildcraft-7.1.6.jar",
 			"required": true
 		},
 		{
@@ -116,8 +116,8 @@
 		},
 		{
 			"projectID": 70496,
-			"fileID": 2255113,
-			"fileName": "bdlib-1.9.2.104-mc1.7.10.jar",
+			"fileID": 2260512,
+			"fileName": "bdlib-1.9.3.107-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -230,8 +230,8 @@
 		},
 		{
 			"projectID": 233140,
-			"fileID": 2251028,
-			"fileName": "buildcraft-compat-7.0.11.jar",
+			"fileID": 2260557,
+			"fileName": "buildcraft-compat-7.1.1.jar",
 			"required": true
 		},
 		{
