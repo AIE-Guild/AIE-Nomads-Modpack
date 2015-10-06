@@ -60,6 +60,7 @@ ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
 Forestry | 3.6.10
+Galacticraft | 3.0.11.333
 Garden Stuff | 1.6.8
 Gendustry | 1.6.1.126
 Hamsterrific | 0.2.0
@@ -82,6 +83,7 @@ McJtyLib | 1.5.1
 Mekanism | 8.1.7.252
 MekanismGenerators | 8.1.7.252
 MekanismTools | 8.1.7.252
+MicdoodleCore | 3.0.11.333
 Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10B
 Modular Systems | 2.2.1
