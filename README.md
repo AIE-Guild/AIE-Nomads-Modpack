@@ -21,7 +21,7 @@ Applied Energistics | rv2-stable-10
 Archimedes' Ships | 1.7.1
 Backpacks | 2.0.0
 Baubles | 1.0.1.10
-bdlib | 1.9.2.104
+bdlib | 1.9.3.107
 BetterStorage | 0.13.1.126
 Bookshelf | 1.2.0
 Bibliocraft | 1.11.2
@@ -32,13 +32,13 @@ Big Reactors | 0.4.3A
 Binnie's Mods | 2.0-pre14
 Biomes O' Plenty | 2.1.0.1067
 bspkrsCore | 6.16
-Buildcraft | 7.0.21
+Buildcraft | 7.1.9
 Buildcraft Additions | 2.2.2
-BuildcraftCompat | 7.0.11
+BuildcraftCompat | 7.1.1
 Carpenter's Blocks | 3.3.7
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
-Chisel | 2.9.1
+Chisel | 2.9.2
 Chisel Facades | 2.12
 Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.6.43
@@ -57,11 +57,11 @@ Eureka | 3.0.2
 Extra Utilities | 1.2.11
 ExtraCells2 | 2.2.73b129
 ExtraTiC | 1.4.5
-FastLeafDecay | 1.1
+FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
-Forestry | 3.6.7
+Forestry | 3.6.10
 Garden Stuff | 1.6.8
-Gendustry | 1.6.0.125
+Gendustry | 1.6.1.126
 Hamsterrific | 0.2.0
 Hunger Overhaul | 1.0.0
 Immibis Core | 59.1.1
@@ -74,6 +74,7 @@ Jabba | 1.2.1a
 Java 7 Checker | 1.1
 JourneyMap | 5.1.0
 JourneyMap Server | 1.0.5
+LSCraft | 2.3
 Malisis' Doors | 1.10
 MalisisCore | 0.12.9
 Mantle | 0.3.2a
@@ -82,7 +83,7 @@ Mekanism | 8.1.7.252
 MekanismGenerators | 8.1.7.252
 MekanismTools | 8.1.7.252
 Minefactory Reloaded | 2.8.0-104
-MineTweaker3 | 3.0.10
+MineTweaker3 | 3.0.10B
 Modular Systems | 2.2.1
 More Backpacks | 2.2.2
 Morpheus | 1.6.10
@@ -112,8 +113,8 @@ Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
 Refined Relocation | 1.0.8b
 Resource Loader | 1.2
-Red Gear Core | 2.2.1
-RFTools | 3.40
+Red Gear Core | 2.2.2
+RFTools | 3.41
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
@@ -125,7 +126,7 @@ Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.1.0-161
 Thermal Expansion | 4.0.3B1-218
 Thermal Foundation | 1.2.0-102
-Thermal Recycling | 1.0.1
+Thermal Recycling | 1.0.2.4
 Thermal Smeltery | 1.2.1
 TiC Tooltips | 1.2.5
 Tinkers' Construct | 1.8.7
