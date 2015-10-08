@@ -78,7 +78,7 @@ LSCraft | 2.3
 Malisis' Doors | 1.10
 MalisisCore | 0.12.9
 Mantle | 0.3.2a
-McJtyLib | 1.5.1
+McJtyLib | 1.6.0
 Mekanism | 8.1.7.252
 MekanismGenerators | 8.1.7.252
 MekanismTools | 8.1.7.252
@@ -113,7 +113,7 @@ Redstone Paste | 1.6.2
 Refined Relocation | 1.0.8b
 Resource Loader | 1.2
 Red Gear Core | 2.2.2
-RFTools | 3.41
+RFTools | 3.42
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
