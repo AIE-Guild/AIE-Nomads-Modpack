@@ -712,6 +712,12 @@
 			"fileID": 2248061,
 			"fileName": "BetterStorage-1.7.10-0.13.1.126.jar",
 			"required": true
+		},
+		{
+			"projectID": 230114,
+			"fileID": 2261289,
+			"fileName": "Et Futurum-1.4.4.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",

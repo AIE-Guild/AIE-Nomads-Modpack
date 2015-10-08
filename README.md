@@ -53,6 +53,7 @@ Ender Compass | 1.1
 Ender Core | 0.1.0.24
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.33
+Et Futurum | 1.4.4
 Eureka | 3.0.2
 Extra Utilities | 1.2.11
 ExtraCells2 | 2.2.73b129
