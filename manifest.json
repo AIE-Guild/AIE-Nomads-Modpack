@@ -91,12 +91,6 @@
 			"required": true
 		},
 		{
-			"projectID": 68528,
-			"fileID": 2250241,
-			"fileName": "ModularSystems-1.7.10-2.2.1.jar",
-			"required": true
-		},
-		{
 			"projectID": 69118,
 			"fileID": 2251029,
 			"fileName": "Morpheus-1.7.10-1.6.10.jar",
