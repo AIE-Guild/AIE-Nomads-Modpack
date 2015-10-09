@@ -38,8 +38,8 @@
 		},
 		{
 			"projectID": 59751,
-			"fileID": 2260695,
-			"fileName": "forestry_1.7.10-3.6.10.1.jar",
+			"fileID": 2261593,
+			"fileName": "forestry_1.7.10-3.6.11.2.jar",
 			"required": true
 		},
 		{
@@ -88,12 +88,6 @@
 			"projectID": 232784,
 			"fileID": 2250214,
 			"fileName": "Bookshelf-1.7.10-1.2.0.jar",
-			"required": true
-		},
-		{
-			"projectID": 68528,
-			"fileID": 2250241,
-			"fileName": "ModularSystems-1.7.10-2.2.1.jar",
 			"required": true
 		},
 		{
@@ -176,8 +170,8 @@
 		},
 		{
 			"projectID": 75811,
-			"fileID": 2235511,
-			"fileName": "RefinedRelocation-1.7.10-1.0.8b.jar",
+			"fileID": 2261459,
+			"fileName": "RefinedRelocation-mc1.7.10-1.1.4.jar",
 			"required": true
 		},
 		{
@@ -362,14 +356,14 @@
 		},
 		{
 			"projectID": 233105,
-			"fileID": 2259366,
-			"fileName": "mcjtylib-1.5.1.jar",
+			"fileID": 2261136,
+			"fileName": "mcjtylib-1.6.0.jar",
 			"required": true
 		},
 		{
 			"projectID": 224641,
-			"fileID": 2259519,
-			"fileName": "rftools-3.41.jar",
+			"fileID": 2261142,
+			"fileName": "rftools-3.42.jar",
 			"required": true
 		},
 		{
@@ -690,12 +684,6 @@
 			"required": true
 		},
 		{
-			"projectID": 231450,
-			"fileID": 2242210,
-			"fileName": "CraftHeraldry 1.1.3.jar",
-			"required": true
-		},
-		{
 			"projectID": 230976,
 			"fileID": 2259506,
 			"fileName": "FastLeafDecay-1.7.10-1.3.jar",
@@ -717,6 +705,30 @@
 			"projectID": 232919,
 			"fileID": 2248061,
 			"fileName": "BetterStorage-1.7.10-0.13.1.126.jar",
+			"required": true
+		},
+		{
+			"projectID": 230114,
+			"fileID": 2261289,
+			"fileName": "Et Futurum-1.4.4.jar",
+			"required": true
+		},
+		{
+			"projectID": 233511,
+			"fileID": 2250530,
+			"fileName": "ColoredChests-1.7.10-0.0.1b1.jar",
+			"required": true
+		},
+		{
+			"projectID": 233189,
+			"fileID": 2261332,
+			"fileName": "WoodenBucket-1.7.10-0.0.3b6.jar",
+			"required": true
+		},
+		{
+			"projectID": 233655,
+			"fileID": 2251077,
+			"fileName": "WoodenRails-1.7.10-0.0.1b1.jar",
 			"required": true
 		}
 	],

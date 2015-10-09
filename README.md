@@ -45,7 +45,6 @@ CodeChickenCore | 1.0.6.43
 CoFH Core | 3.0.3-303
 CoFHLib | 1.0.3-175
 Computercraft | 1.74
-CraftHeraldry | 1.1.3
 Custom Main Menu | 1.8
 DecoCraft2 | 2.1.1
 Dense Ores | 1.6.2
@@ -53,13 +52,14 @@ Ender Compass | 1.1
 Ender Core | 0.1.0.24
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.33
+Et Futurum | 1.4.4
 Eureka | 3.0.2
 Extra Utilities | 1.2.11
 ExtraCells2 | 2.2.73b129
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
-Forestry | 3.6.10
+Forestry | 3.6.11
 Galacticraft | 3.0.11.333
 Garden Stuff | 1.6.8
 Gendustry | 1.6.1.126
@@ -79,14 +79,13 @@ LSCraft | 2.3
 Malisis' Doors | 1.10
 MalisisCore | 0.12.9
 Mantle | 0.3.2a
-McJtyLib | 1.5.1
+McJtyLib | 1.6.0
 Mekanism | 8.1.7.252
 MekanismGenerators | 8.1.7.252
 MekanismTools | 8.1.7.252
 MicdoodleCore | 3.0.11.333
 Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10B
-Modular Systems | 2.2.1
 More Backpacks | 2.2.2
 Morpheus | 1.6.10
 MrTJPCore | 1.1.0.31
@@ -113,10 +112,13 @@ Recurrent Complex | 0.9.6.3
 Red Gear Core | 2.2.1
 Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
-Refined Relocation | 1.0.8b
+Refined Relocation | 1.1.4
 Resource Loader | 1.2
 Red Gear Core | 2.2.2
-RFTools | 3.41
+RFTools | 3.42
+[SBM] Colored Chests | 0.0.1b1
+[SBM] Wooden Bucket | 0.0.3b6
+[SBM] Wooden Rails | 0.0.1b1
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
