@@ -712,6 +712,24 @@
 			"fileID": 2261289,
 			"fileName": "Et Futurum-1.4.4.jar",
 			"required": true
+		},
+		{
+			"projectID": 233511,
+			"fileID": 2250530,
+			"fileName": "ColoredChests-1.7.10-0.0.1b1.jar",
+			"required": true
+		},
+		{
+			"projectID": 233189,
+			"fileID": 2261332,
+			"fileName": "WoodenBucket-1.7.10-0.0.3b6.jar",
+			"required": true
+		},
+		{
+			"projectID": 233655,
+			"fileID": 2251077,
+			"fileName": "WoodenRails-1.7.10-0.0.1b1.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",

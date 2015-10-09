@@ -114,6 +114,9 @@ Refined Relocation | 1.1.4
 Resource Loader | 1.2
 Red Gear Core | 2.2.2
 RFTools | 3.42
+[SBM] Colored Chests | 0.0.1b1
+[SBM] Wooden Bucket | 0.0.3b6
+[SBM] Wooden Rails | 0.0.1b1
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
