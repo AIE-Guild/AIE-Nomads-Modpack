@@ -85,7 +85,7 @@
         ]
     },
     "redstone": {
-        "template": "uniform",
+        "template": "normal",
         "block": "redstone_ore",
         "material": "minecraft:stone",
         "clusterSize": 6,
