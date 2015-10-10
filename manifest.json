@@ -730,6 +730,12 @@
 			"fileID": 2251077,
 			"fileName": "WoodenRails-1.7.10-0.0.1b1.jar",
 			"required": true
+		},
+		{
+			"projectID": 223173,
+			"fileID": 2214014,
+			"fileName": "StevesWorkshop-0.5.1.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",

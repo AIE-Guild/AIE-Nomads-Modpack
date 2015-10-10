@@ -122,6 +122,7 @@ RFTools | 3.42
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
+Steve's Workshop | 0.5.1
 Storage Drawers | 1.6.2
 Storage Drawers: Biome O' Plenty Pack | 1.0.2
 Storage Drawers: Forestry | 1.0.3
