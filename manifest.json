@@ -2,7 +2,7 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
-	"version":"1.0.5",
+	"version":"1.0.6",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
 	"files":[
@@ -110,8 +110,8 @@
 		},
 		{
 			"projectID": 69163,
-			"fileID": 2234200,
-			"fileName": "ThermalExpansion-[1.7.10]4.0.1-182.jar",
+			"fileID": 2246924,
+			"fileName": "ThermalExpansion-[1.7.10]4.0.3B1-218.jar",
 			"required": true
 		},
 		{
