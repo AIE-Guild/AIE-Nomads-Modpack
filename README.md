@@ -90,7 +90,7 @@ More Backpacks | 2.2.2
 Morpheus | 1.6.10
 MrTJPCore | 1.1.0.31
 Natura | 2.2.0.1
-NEI Addons | 1.12.11.36
+NEI Addons | 1.12.14
 NEI Integration | 1.0.12
 Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.5.118
