@@ -248,14 +248,14 @@
 		},
 		{
 			"projectID": 222211,
-			"fileID": 2237940,
-			"fileName": "NotEnoughItems-1.7.10-1.0.4.107-universal.jar",
+			"fileID": 2262091,
+			"fileName": "NotEnoughItems-1.7.10-1.0.5.118-universal.jar",
 			"required": true
 		},
 		{
 			"projectID": 222213,
-			"fileID": 2237939,
-			"fileName": "CodeChickenCore-1.7.10-1.0.6.43-universal.jar",
+			"fileID": 2262089,
+			"fileName": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
 			"required": true
 		},
 		{
@@ -565,8 +565,8 @@
 		},
 		{
 			"projectID": 229306,
-			"fileID": 2235348,
-			"fileName": "EnderStorage-1.7.10-1.4.7.33-universal.jar",
+			"fileID": 2262092,
+			"fileName": "EnderStorage-1.7.10-1.4.7.37-universal.jar",
 			"required": true
 		},
 		{
@@ -583,8 +583,8 @@
 		},
 		{
 			"projectID": 229318,
-			"fileID": 2233261,
-			"fileName": "Translocator-1.7.10-1.1.1.14-universal.jar",
+			"fileID": 2262093,
+			"fileName": "Translocator-1.7.10-1.1.2.15-universal.jar",
 			"required": true
 		},
 		{

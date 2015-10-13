@@ -41,7 +41,7 @@ ChickenShed | 1.1.3
 Chisel | 2.9.2
 Chisel Facades | 2.12
 Chisel Tones | 1.0-3
-CodeChickenCore | 1.0.6.43
+CodeChickenCore | 1.0.7.47
 CoFH Core | 3.0.3-303
 CoFHLib | 1.0.3-175
 Computercraft | 1.74
@@ -51,7 +51,7 @@ Dense Ores | 1.6.2
 Ender Compass | 1.1
 Ender Core | 0.1.0.24
 Ender IO | 2.2.8.381
-EnderStorage | 1.4.7.33
+EnderStorage | 1.4.7.37
 Et Futurum | 1.4.4
 Eureka | 3.0.2
 Extra Utilities | 1.2.11
@@ -93,7 +93,7 @@ Natura | 2.2.0.1
 NEI Addons | 1.12.11.36
 NEI Integration | 1.0.12
 Nether Ores | 2.3.0-12
-NotEnoughItems | 1.0.4.107
+NotEnoughItems | 1.0.5.118
 NotEnoughKeys | 1.0.0b30
 OpenBlocks | 1.4.4
 OpenComputers | 1.5.18.36
@@ -136,7 +136,7 @@ Thermal Smeltery | 1.2.1
 TiC Tooltips | 1.2.5
 Tinkers' Construct | 1.8.7
 Tinkers' Mechwork | 0.2.14.100
-Translocators | 1.1.1.14
+Translocators | 1.1.2.15
 Treecapitator | 2.0.4
 Waila | 1.5.10
 Waila Harvestability | 1.1.2
