@@ -99,7 +99,7 @@ OpenBlocks | 1.4.4
 OpenComputers | 1.5.18.36
 OpenModsLib | 0.8
 OreDictionaryConverter | 1.6.1
-Pam's Harvestcraft | 1.7.10.j
+Pam's Harvestcraft | 1.7.10k
 Project Blue | 1.1.4
 Project Red - Base | 4.7.0pre9.92
 Project Red - Compat | 4.7.0pre9.92
