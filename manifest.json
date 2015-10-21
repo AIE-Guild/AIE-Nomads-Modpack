@@ -736,6 +736,12 @@
 			"fileID": 2214014,
 			"fileName": "StevesWorkshop-0.5.1.jar",
 			"required": true
+		},
+		{
+			"projectID": 236460,
+			"fileID": 2259866,
+			"fileName": "catwalks-2.0.2.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
