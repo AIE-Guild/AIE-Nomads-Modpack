@@ -66,6 +66,7 @@ Garden Stuff | 1.6.8
 Gendustry | 1.6.1.126
 Hamsterrific | 0.2.0
 Hunger Overhaul | 1.0.0
+iBench | 1.0.12
 Immibis Core | 59.1.1
 Immibis' Microblocks | 59.1.0
 INpureCore | 1.0.0B9-62

@@ -343,6 +343,12 @@
 			"required": true
 		},
 		{
+			"projectID": 226218,
+			"fileID": 2223215,
+			"fileName": "ibench-1.7.10-1.0.12.jar",
+			"required": true
+		},
+		{
 			"projectID": 224535,
 			"fileID": 2235549,
 			"fileName": "IvToolkit-1.2.jar",
