@@ -108,7 +108,7 @@ Project Red - Integration | 4.7.0pre9.92
 Project Red - Lighting | 4.7.0pre9.92
 Project Red - Mechanical | 4.7.0pre9.92
 Project Red - World | 4.7.0pre9.92
-Railcraft | 9.7.0.0
+Railcraft | 9.8.0.0
 Recurrent Complex | 0.9.6.3
 Red Gear Core | 2.2.1
 Redstone Arsenal | 1.1.0-89
