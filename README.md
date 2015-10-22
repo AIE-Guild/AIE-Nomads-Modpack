@@ -113,7 +113,7 @@ Recurrent Complex | 0.9.6.3
 Red Gear Core | 2.2.1
 Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
-Refined Relocation | 1.1.4
+Refined Relocation | 1.1.10
 Resource Loader | 1.2
 Red Gear Core | 2.2.2
 RFTools | 3.50
