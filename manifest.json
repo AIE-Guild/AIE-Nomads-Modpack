@@ -44,8 +44,20 @@
 		},
 		{
 			"projectID": 61811,
-			"fileID": 2261306,
-			"fileName": "buildcraft-7.1.9.jar",
+			"fileID": 2262619,
+			"fileName": "buildcraft-7.1.11.jar",
+			"required": true
+		},
+		{
+			"projectID": 221014,
+			"fileID": 2254821,
+			"fileName": "BuildcraftAdditions-1.7.10-2.2.2.jar",
+			"required": true
+		},
+		{
+			"projectID": 233140,
+			"fileID": 2260557,
+			"fileName": "buildcraft-compat-7.1.1.jar",
 			"required": true
 		},
 		{
@@ -220,18 +232,6 @@
 			"projectID": 220333,
 			"fileID": 2246916,
 			"fileName": "CoFHLib-[1.7.10]1.0.3-175.jar",
-			"required": true
-		},
-		{
-			"projectID": 221014,
-			"fileID": 2239168,
-			"fileName": "BuildcraftAdditions-1.7.10-2.2.2.jar",
-			"required": true
-		},
-		{
-			"projectID": 233140,
-			"fileID": 2260557,
-			"fileName": "buildcraft-compat-7.1.1.jar",
 			"required": true
 		},
 		{

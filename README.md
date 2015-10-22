@@ -32,9 +32,9 @@ Big Reactors | 0.4.3A
 Binnie's Mods | 2.0-pre14
 Biomes O' Plenty | 2.1.0.1067
 bspkrsCore | 6.16
-Buildcraft | 7.1.9
+Buildcraft | 7.1.11
 Buildcraft Additions | 2.2.2
-BuildcraftCompat | 7.1.1
+Buildcraft Compat | 7.1.2
 Carpenter's Blocks | 3.3.7
 Catwalks | 2.0.2
 ChickenChunks | 1.3.4.19
