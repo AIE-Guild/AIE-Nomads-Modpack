@@ -2,7 +2,7 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
-	"version":"1.0.6",
+	"version":"1.1.0",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
 	"files":[
@@ -14,8 +14,8 @@
 		},
 		{
 			"projectID": 51195,
-			"fileID": 2251559,
-			"fileName": "Railcraft 9.7.0.0.jar",
+			"fileID": 2263415,
+			"fileName": "Railcraft 9.8.0.0.jar",
 			"required": true
 		},
 		{
@@ -38,20 +38,32 @@
 		},
 		{
 			"projectID": 59751,
-			"fileID": 2260695,
-			"fileName": "forestry_1.7.10-3.6.10.1.jar",
+			"fileID": 2262682,
+			"fileName": "forestry_1.7.10-3.6.12.3.jar",
 			"required": true
 		},
 		{
 			"projectID": 61811,
-			"fileID": 2261306,
-			"fileName": "buildcraft-7.1.9.jar",
+			"fileID": 2262619,
+			"fileName": "buildcraft-7.1.11.jar",
+			"required": true
+		},
+		{
+			"projectID": 221014,
+			"fileID": 2254821,
+			"fileName": "BuildcraftAdditions-1.7.10-2.2.2.jar",
+			"required": true
+		},
+		{
+			"projectID": 233140,
+			"fileID": 2262628,
+			"fileName": "buildcraft-compat-7.1.2.jar",
 			"required": true
 		},
 		{
 			"projectID": 63352,
-			"fileID": 2246485,
-			"fileName": "neiaddons-1.12.11.36-mc1.7.10.jar",
+			"fileID": 2262120,
+			"fileName": "neiaddons-1.12.14.40-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -88,12 +100,6 @@
 			"projectID": 232784,
 			"fileID": 2250214,
 			"fileName": "Bookshelf-1.7.10-1.2.0.jar",
-			"required": true
-		},
-		{
-			"projectID": 68528,
-			"fileID": 2250241,
-			"fileName": "ModularSystems-1.7.10-2.2.1.jar",
 			"required": true
 		},
 		{
@@ -176,8 +182,8 @@
 		},
 		{
 			"projectID": 75811,
-			"fileID": 2235511,
-			"fileName": "RefinedRelocation-1.7.10-1.0.8b.jar",
+			"fileID": 2262968,
+			"fileName": "RefinedRelocation-mc1.7.10-1.1.10.jar",
 			"required": true
 		},
 		{
@@ -200,8 +206,8 @@
 		},
 		{
 			"projectID": 79287,
-			"fileID": 2226443,
-			"fileName": "WailaHarvestability-mc1.7.x-1.1.2.jar",
+			"fileID": 2263089,
+			"fileName": "WailaHarvestability-mc1.7.10-1.1.3.jar",
 			"required": true
 		},
 		{
@@ -229,21 +235,9 @@
 			"required": true
 		},
 		{
-			"projectID": 221014,
-			"fileID": 2239168,
-			"fileName": "BuildcraftAdditions-1.7.10-2.2.2.jar",
-			"required": true
-		},
-		{
-			"projectID": 233140,
-			"fileID": 2260557,
-			"fileName": "buildcraft-compat-7.1.1.jar",
-			"required": true
-		},
-		{
 			"projectID": 221857,
-			"fileID": 2249279,
-			"fileName": "Pam's HarvestCraft 1.7.10j.jar",
+			"fileID": 2261994,
+			"fileName": "Pam's HarvestCraft 1.7.10k.jar",
 			"required": true
 		},
 		{
@@ -254,14 +248,14 @@
 		},
 		{
 			"projectID": 222211,
-			"fileID": 2237940,
-			"fileName": "NotEnoughItems-1.7.10-1.0.4.107-universal.jar",
+			"fileID": 2262091,
+			"fileName": "NotEnoughItems-1.7.10-1.0.5.118-universal.jar",
 			"required": true
 		},
 		{
 			"projectID": 222213,
-			"fileID": 2237939,
-			"fileName": "CodeChickenCore-1.7.10-1.0.6.43-universal.jar",
+			"fileID": 2262089,
+			"fileName": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
 			"required": true
 		},
 		{
@@ -278,8 +272,8 @@
 		},
 		{
 			"projectID": 223008,
-			"fileID": 2258896,
-			"fileName": "OpenComputers-MC1.7.10-1.5.18.36-universal.jar",
+			"fileID": 2262784,
+			"fileName": "OpenComputers-MC1.7.10-1.5.19.37-universal.jar",
 			"required": true
 		},
 		{
@@ -349,6 +343,12 @@
 			"required": true
 		},
 		{
+			"projectID": 226218,
+			"fileID": 2223215,
+			"fileName": "ibench-1.7.10-1.0.12.jar",
+			"required": true
+		},
+		{
 			"projectID": 224535,
 			"fileID": 2235549,
 			"fileName": "IvToolkit-1.2.jar",
@@ -362,14 +362,14 @@
 		},
 		{
 			"projectID": 233105,
-			"fileID": 2259366,
-			"fileName": "mcjtylib-1.5.1.jar",
+			"fileID": 2262515,
+			"fileName": "mcjtylib-1.6.1.jar",
 			"required": true
 		},
 		{
 			"projectID": 224641,
-			"fileID": 2259519,
-			"fileName": "rftools-3.41.jar",
+			"fileID": 2262516,
+			"fileName": "rftools-3.50.jar",
 			"required": true
 		},
 		{
@@ -398,8 +398,8 @@
 		},
 		{
 			"projectID": 235279,
-			"fileID": 2260887,
-			"fileName": "Chisel-2.9.2.8.jar",
+			"fileID": 2263288,
+			"fileName": "Chisel-2.9.3.9.jar",
 			"required": true
 		},
 		{
@@ -571,8 +571,8 @@
 		},
 		{
 			"projectID": 229306,
-			"fileID": 2235348,
-			"fileName": "EnderStorage-1.7.10-1.4.7.33-universal.jar",
+			"fileID": 2262092,
+			"fileName": "EnderStorage-1.7.10-1.4.7.37-universal.jar",
 			"required": true
 		},
 		{
@@ -589,8 +589,8 @@
 		},
 		{
 			"projectID": 229318,
-			"fileID": 2233261,
-			"fileName": "Translocator-1.7.10-1.1.1.14-universal.jar",
+			"fileID": 2262093,
+			"fileName": "Translocator-1.7.10-1.1.2.15-universal.jar",
 			"required": true
 		},
 		{
@@ -667,8 +667,8 @@
 		},
 		{
 			"projectID": 231868,
-			"fileID": 2256620,
-			"fileName": "EnderCore-1.7.10-0.1.0.24_beta.jar",
+			"fileID": 2262910,
+			"fileName": "EnderCore-1.7.10-0.1.0.26_beta.jar",
 			"required": true
 		},
 		{
@@ -687,12 +687,6 @@
 			"projectID": 224029,
 			"fileID": 2259434,
 			"fileName": "MineTweaker3-1.7.10-3.0.10B.jar",
-			"required": true
-		},
-		{
-			"projectID": 231450,
-			"fileID": 2242210,
-			"fileName": "CraftHeraldry 1.1.3.jar",
 			"required": true
 		},
 		{
@@ -717,6 +711,42 @@
 			"projectID": 232919,
 			"fileID": 2248061,
 			"fileName": "BetterStorage-1.7.10-0.13.1.126.jar",
+			"required": true
+		},
+		{
+			"projectID": 230114,
+			"fileID": 2261289,
+			"fileName": "Et Futurum-1.4.4.jar",
+			"required": true
+		},
+		{
+			"projectID": 233511,
+			"fileID": 2250530,
+			"fileName": "ColoredChests-1.7.10-0.0.1b1.jar",
+			"required": true
+		},
+		{
+			"projectID": 233189,
+			"fileID": 2261332,
+			"fileName": "WoodenBucket-1.7.10-0.0.3b6.jar",
+			"required": true
+		},
+		{
+			"projectID": 233655,
+			"fileID": 2251077,
+			"fileName": "WoodenRails-1.7.10-0.0.1b1.jar",
+			"required": true
+		},
+		{
+			"projectID": 223173,
+			"fileID": 2214014,
+			"fileName": "StevesWorkshop-0.5.1.jar",
+			"required": true
+		},
+		{
+			"projectID": 236460,
+			"fileID": 2259866,
+			"fileName": "catwalks-2.0.2.jar",
 			"required": true
 		}
 	],

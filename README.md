@@ -32,38 +32,41 @@ Big Reactors | 0.4.3A
 Binnie's Mods | 2.0-pre14
 Biomes O' Plenty | 2.1.0.1067
 bspkrsCore | 6.16
-Buildcraft | 7.1.9
+Buildcraft | 7.1.11
 Buildcraft Additions | 2.2.2
-BuildcraftCompat | 7.1.1
+Buildcraft Compat | 7.1.2
 Carpenter's Blocks | 3.3.7
+Catwalks | 2.0.2
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
-Chisel | 2.9.2
+Chisel | 2.9.3.9
 Chisel Facades | 2.12
 Chisel Tones | 1.0-3
-CodeChickenCore | 1.0.6.43
+CodeChickenCore | 1.0.7.47
 CoFH Core | 3.0.3-303
 CoFHLib | 1.0.3-175
 Computercraft | 1.74
-CraftHeraldry | 1.1.3
 Custom Main Menu | 1.8
 DecoCraft2 | 2.1.1
 Dense Ores | 1.6.2
 Ender Compass | 1.1
-Ender Core | 0.1.0.24
+Ender Core | 0.1.0.26
 Ender IO | 2.2.8.381
-EnderStorage | 1.4.7.33
+EnderStorage | 1.4.7.37
+Et Futurum | 1.4.4
 Eureka | 3.0.2
 Extra Utilities | 1.2.11
 ExtraCells2 | 2.2.73b129
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
-Forestry | 3.6.10
+Forestry | 3.6.12.3
+Galacticraft | 3.0.11.333
 Garden Stuff | 1.6.8
 Gendustry | 1.6.1.126
 Hamsterrific | 0.2.0
 Hunger Overhaul | 1.0.0
+iBench | 1.0.12
 Immibis Core | 59.1.1
 Immibis' Microblocks | 59.1.0
 INpureCore | 1.0.0B9-62
@@ -78,27 +81,27 @@ LSCraft | 2.3
 Malisis' Doors | 1.10
 MalisisCore | 0.12.9
 Mantle | 0.3.2a
-McJtyLib | 1.5.1
+McJtyLib | 1.6.1
 Mekanism | 8.1.7.252
 MekanismGenerators | 8.1.7.252
 MekanismTools | 8.1.7.252
+MicdoodleCore | 3.0.11.333
 Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10B
-Modular Systems | 2.2.1
 More Backpacks | 2.2.2
 Morpheus | 1.6.10
 MrTJPCore | 1.1.0.31
 Natura | 2.2.0.1
-NEI Addons | 1.12.11.36
+NEI Addons | 1.12.14
 NEI Integration | 1.0.12
 Nether Ores | 2.3.0-12
-NotEnoughItems | 1.0.4.107
+NotEnoughItems | 1.0.5.118
 NotEnoughKeys | 1.0.0b30
 OpenBlocks | 1.4.4
-OpenComputers | 1.5.18.36
+OpenComputers | 1.5.19
 OpenModsLib | 0.8
 OreDictionaryConverter | 1.6.1
-Pam's Harvestcraft | 1.7.10.j
+Pam's Harvestcraft | 1.7.10k
 Project Blue | 1.1.4
 Project Red - Base | 4.7.0pre9.92
 Project Red - Compat | 4.7.0pre9.92
@@ -106,18 +109,22 @@ Project Red - Integration | 4.7.0pre9.92
 Project Red - Lighting | 4.7.0pre9.92
 Project Red - Mechanical | 4.7.0pre9.92
 Project Red - World | 4.7.0pre9.92
-Railcraft | 9.7.0.0
+Railcraft | 9.8.0.0
 Recurrent Complex | 0.9.6.3
 Red Gear Core | 2.2.1
 Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
-Refined Relocation | 1.0.8b
+Refined Relocation | 1.1.10
 Resource Loader | 1.2
 Red Gear Core | 2.2.2
-RFTools | 3.41
+RFTools | 3.50
+[SBM] Colored Chests | 0.0.1b1
+[SBM] Wooden Bucket | 0.0.3b6
+[SBM] Wooden Rails | 0.0.1b1
 Simply Jetpacks | 1.5.1
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
+Steve's Workshop | 0.5.1
 Storage Drawers | 1.6.2
 Storage Drawers: Biome O' Plenty Pack | 1.0.2
 Storage Drawers: Forestry | 1.0.3
@@ -131,10 +138,10 @@ Thermal Smeltery | 1.2.1
 TiC Tooltips | 1.2.5
 Tinkers' Construct | 1.8.7
 Tinkers' Mechwork | 0.2.14.100
-Translocators | 1.1.1.14
+Translocators | 1.1.2.15
 Treecapitator | 2.0.4
 Waila | 1.5.10
-Waila Harvestability | 1.1.2
+Waila Harvestability | 1.1.3
 Waila Plugins | 0.1.2-21
 Wawla | 1.3.1
 WorldEdit | 6.0 Beta 1

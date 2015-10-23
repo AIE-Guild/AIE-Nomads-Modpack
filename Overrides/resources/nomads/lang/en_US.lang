@@ -1,0 +1,20 @@
+# Hamsterrific names
+item.ItemHamsterBall.0.name=White Hamster Ball
+item.ItemHamsterBall.1.name=Orange Hamster Ball
+item.ItemHamsterBall.2.name=Magenta Hamster Ball
+item.ItemHamsterBall.3.name=Light Blue Hamster Ball
+item.ItemHamsterBall.4.name=Yellow Hamster Ball
+item.ItemHamsterBall.5.name=Lime Hamster Ball
+item.ItemHamsterBall.6.name=Pink Hamster Ball
+item.ItemHamsterBall.7.name=Gray Hamster Ball
+item.ItemHamsterBall.8.name=Light Gray Hamster Ball
+item.ItemHamsterBall.9.name=Cyan Hamster Ball
+item.ItemHamsterBall.10.name=Purple Hamster Ball
+item.ItemHamsterBall.11.name=Blue Hamster Ball
+item.ItemHamsterBall.12.name=Brown Hamster Ball
+item.ItemHamsterBall.13.name=Green Hamster Ball
+item.ItemHamsterBall.14.name=Red Hamster Ball
+item.ItemHamsterBall.15.name=Black Hamster Ball
+item.ItemHamsterFood.name=Hamster Food
+tile.BlockWaterBottle.name=Water Bottle
+itemGroup.Hamsters=Hamsters
