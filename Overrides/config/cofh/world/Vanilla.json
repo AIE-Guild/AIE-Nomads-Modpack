@@ -13,7 +13,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "gravel": {
@@ -30,7 +33,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "coal": {
@@ -47,7 +53,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "iron": {
@@ -64,7 +73,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "gold": {
@@ -81,7 +93,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "redstone": {
@@ -98,7 +113,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "diamond": {
@@ -115,7 +133,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "lapis": {
@@ -132,7 +153,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "quartz": {

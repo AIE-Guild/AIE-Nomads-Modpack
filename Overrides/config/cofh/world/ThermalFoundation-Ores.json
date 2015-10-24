@@ -14,7 +14,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "tin": {
@@ -32,7 +35,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "silver": {
@@ -53,7 +59,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "lead": {
@@ -74,7 +83,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "nickel": {
@@ -92,7 +104,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "platinum": {
@@ -114,7 +129,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "copperHigh": {
@@ -132,7 +150,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     },
     "tinHigh": {
@@ -150,7 +171,10 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
-            1
+            1,
+            -28,
+            -29,
+            -30
         ]
     }
 }
