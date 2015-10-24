@@ -46,7 +46,7 @@ CodeChickenCore | 1.0.7.47
 CoFH Core | 3.0.3-303
 CoFHLib | 1.0.3-175
 Computercraft | 1.74
-Custom Main Menu | 1.8
+Custom Main Menu | 1.9.1
 DecoCraft2 | 2.1.1
 Dense Ores | 1.6.2
 Ender Compass | 1.1
@@ -61,7 +61,8 @@ ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
 Forestry | 3.6.12.3
-Galacticraft | 3.0.11.333
+Galacticraft Core | 3.0.12.375
+Galacticraft Planets | 3.0.12.375
 Garden Stuff | 1.6.8
 Gendustry | 1.6.1.126
 Hamsterrific | 0.2.0
