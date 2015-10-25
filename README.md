@@ -103,6 +103,7 @@ OpenComputers | 1.5.19
 OpenModsLib | 0.8
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10k
+Player API | 1.4
 Project Blue | 1.1.4
 Project Red - Base | 4.7.0pre9.92
 Project Red - Compat | 4.7.0pre9.92

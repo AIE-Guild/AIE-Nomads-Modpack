@@ -748,6 +748,12 @@
 			"fileID": 2259866,
 			"fileName": "catwalks-2.0.2.jar",
 			"required": true
+		},
+		{
+			"projectID": 228969,
+			"fileID": 2248928,
+			"fileName": "PlayerAPI-1.7.10-1.4.jar",
+			"required": true
 		}
 	],
 	"overrides":"overrides",
