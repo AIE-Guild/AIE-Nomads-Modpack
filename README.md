@@ -24,7 +24,7 @@ Baubles | 1.0.1.10
 bdlib | 1.9.3.107
 BetterStorage | 0.13.1.126
 Bookshelf | 1.2.0
-Bibliocraft | 1.11.2
+Bibliocraft | 1.11.3
 Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
 Bibliocraft: BiblioWoods Natura Edition | 1.5
@@ -32,7 +32,7 @@ Big Reactors | 0.4.3A
 Binnie's Mods | 2.0-pre14
 Biomes O' Plenty | 2.1.0.1067
 bspkrsCore | 6.16
-Buildcraft | 7.1.11
+Buildcraft | 7.1.12
 Buildcraft Additions | 2.2.2
 Buildcraft Compat | 7.1.2
 Carpenter's Blocks | 3.3.7
@@ -50,7 +50,7 @@ Custom Main Menu | 1.9.1
 DecoCraft2 | 2.1.1
 Dense Ores | 1.6.2
 Ender Compass | 1.1
-Ender Core | 0.1.0.26
+Ender Core | 0.1.0.30
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.37
 Et Futurum | 1.4.4
@@ -103,6 +103,7 @@ OpenComputers | 1.5.19
 OpenModsLib | 0.8
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10k
+Player API | 1.4
 Project Blue | 1.1.4
 Project Red - Base | 4.7.0pre9.92
 Project Red - Compat | 4.7.0pre9.92

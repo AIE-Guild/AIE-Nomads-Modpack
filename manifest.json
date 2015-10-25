@@ -2,7 +2,7 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
-	"version":"1.1.1",
+	"version":"1.1.2",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
 	"files":[
@@ -44,8 +44,8 @@
 		},
 		{
 			"projectID": 61811,
-			"fileID": 2262619,
-			"fileName": "buildcraft-7.1.11.jar",
+			"fileID": 2263935,
+			"fileName": "buildcraft-7.1.12.jar",
 			"required": true
 		},
 		{
@@ -475,8 +475,8 @@
 		},
 		{
 			"projectID": 228027,
-			"fileID": 2258792,
-			"fileName": "BiblioCraft[v1.11.2][MC1.7.10].jar",
+			"fileID": 2263876,
+			"fileName": "BiblioCraft[v1.11.3][MC1.7.10].jar",
 			"required": true
 		},
 		{
@@ -667,8 +667,8 @@
 		},
 		{
 			"projectID": 231868,
-			"fileID": 2262910,
-			"fileName": "EnderCore-1.7.10-0.1.0.26_beta.jar",
+			"fileID": 2263881,
+			"fileName": "EnderCore-1.7.10-0.1.0.30_beta.jar",
 			"required": true
 		},
 		{
@@ -747,6 +747,12 @@
 			"projectID": 236460,
 			"fileID": 2259866,
 			"fileName": "catwalks-2.0.2.jar",
+			"required": true
+		},
+		{
+			"projectID": 228969,
+			"fileID": 2248928,
+			"fileName": "PlayerAPI-1.7.10-1.4.jar",
 			"required": true
 		}
 	],
