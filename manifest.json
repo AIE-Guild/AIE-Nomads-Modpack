@@ -2,7 +2,7 @@
 	"manifestType":"minecraftModpack",
 	"manifestVersion":1,
 	"name":"AIE Nomads",
-	"version":"1.1.2",
+	"version":"1.1.3",
 	"author":"Stigg",
 	"description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
 	"files":[
@@ -762,12 +762,8 @@
 		"libraries":"libraries",
 		"modLoaders":[
 			{
-				"id":"forge-10.13.4.1492",
-				"primary":true
-			},
-			{
 				"id":"forge-10.13.4.1448",
-				"primary":false
+				"primary":true
 			}
 		]
 	}
