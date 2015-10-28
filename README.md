@@ -81,7 +81,7 @@ JourneyMap Server | 1.0.5
 LSCraft | 2.3
 Malisis' Doors | 1.10
 MalisisCore | 0.12.9
-Mantle | 0.3.2a
+Mantle | 0.3.2b
 McJtyLib | 1.6.1
 Mekanism | 8.1.7.252
 MekanismGenerators | 8.1.7.252
@@ -138,7 +138,7 @@ Thermal Foundation | 1.2.0-102
 Thermal Recycling | 1.0.2.4
 Thermal Smeltery | 1.2.1
 TiC Tooltips | 1.2.5
-Tinkers' Construct | 1.8.7
+Tinkers' Construct | 1.8.8
 Tinkers' Mechwork | 0.2.14.100
 Translocators | 1.1.2.15
 Treecapitator | 2.0.4

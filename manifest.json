@@ -164,8 +164,8 @@
 		},
 		{
 			"projectID": 74072,
-			"fileID": 2253057,
-			"fileName": "TConstruct-1.7.10-1.8.7.jar",
+			"fileID": 2264246,
+			"fileName": "TConstruct-1.7.10-1.8.8.jar",
 			"required": true
 		},
 		{
@@ -176,8 +176,8 @@
 		},
 		{
 			"projectID": 74924,
-			"fileID": 2251211,
-			"fileName": "Mantle-1.7.10-0.3.2a.jar",
+			"fileID": 2264244,
+			"fileName": "Mantle-1.7.10-0.3.2b.jar",
 			"required": true
 		},
 		{
