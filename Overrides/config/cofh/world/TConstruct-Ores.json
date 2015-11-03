@@ -21,8 +21,7 @@
             -30
         ]
     },
-	    },
-		"ardite": {
+	"ardite": {
         "template": "normal",
         "block": [
             {"name": "TConstruct:SearedBrick", "metadata": 2, "weight":80},
@@ -43,7 +42,7 @@
             -1
         ]
     },
-		"cobalt": {
+	"cobalt": {
         "template": "normal",
         "block": [
             {"name": "TConstruct:SearedBrick", "metadata": 1, "weight":80},
