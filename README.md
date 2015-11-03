@@ -36,7 +36,7 @@ Buildcraft | 7.1.12
 Buildcraft Additions | 2.2.2
 Buildcraft Compat | 7.1.2
 Carpenter's Blocks | 3.3.7
-Catwalks | 2.0.2
+Catwalks | 2.0.3
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
 Chisel | 2.9.3.9
