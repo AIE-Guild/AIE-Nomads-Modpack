@@ -206,8 +206,8 @@
 		},
 		{
 			"projectID": 79287,
-			"fileID": 2263089,
-			"fileName": "WailaHarvestability-mc1.7.10-1.1.3.jar",
+			"fileID": 2264809,
+			"fileName": "WailaHarvestability-mc1.7.10-1.1.5.jar",
 			"required": true
 		},
 		{
@@ -374,8 +374,8 @@
 		},
 		{
 			"projectID": 224712,
-			"fileID": 2244297,
-			"fileName": "Wawla-1.3.1_1.7.10.jar",
+			"fileID": 2264413,
+			"fileName": "Wawla-1.3.2_1.7.10.jar",
 			"required": true
 		},
 		{
@@ -433,8 +433,8 @@
 		},
 		{
 			"projectID": 226119,
-			"fileID": 2255176,
-			"fileName": "WAILAPlugins-MC1.7.10-0.1.2-21.jar",
+			"fileID": 2265116,
+			"fileName": "WAILAPlugins-MC1.7.10-0.2.0-23.jar",
 			"required": true
 		},
 		{
