@@ -24,7 +24,7 @@ Baubles | 1.0.1.10
 bdlib | 1.9.3.107
 BetterStorage | 0.13.1.126
 Bookshelf | 1.2.0
-Bibliocraft | 1.11.3
+Bibliocraft | 1.11.4
 Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
 Bibliocraft: BiblioWoods Natura Edition | 1.5
