@@ -55,7 +55,7 @@ Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.37
 Et Futurum | 1.4.4
 Eureka | 3.0.2
-Extra Utilities | 1.2.11
+Extra Utilities | 1.2.12
 ExtraCells2 | 2.2.73b129
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
