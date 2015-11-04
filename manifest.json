@@ -356,8 +356,8 @@
 		},
 		{
 			"projectID": 224614,
-			"fileID": 2252612,
-			"fileName": "NotEnoughKeys-1.7.10-1.0.0b30.jar",
+			"fileID": 2261424,
+			"fileName": "NotEnoughKeys-1.7.10-3.0.0b43.jar",
 			"required": true
 		},
 		{
@@ -410,8 +410,8 @@
 		},
 		{
 			"projectID": 225251,
-			"fileID": 2250689,
-			"fileName": "NEIIntegration-MC1.7.10-1.0.12.jar",
+			"fileID": 2261922,
+			"fileName": "NEIIntegration-MC1.7.10-1.0.13.jar",
 			"required": true
 		},
 		{
