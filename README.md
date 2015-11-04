@@ -123,7 +123,7 @@ RFTools | 4.01
 [SBM] Colored Chests | 0.0.1b1
 [SBM] Wooden Bucket | 0.0.3b6
 [SBM] Wooden Rails | 0.0.1b1
-Simply Jetpacks | 1.5.1
+Simply Jetpacks | 1.5.2
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
 Steve's Workshop | 0.5.1
