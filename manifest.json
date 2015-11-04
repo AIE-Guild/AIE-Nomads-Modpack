@@ -362,14 +362,14 @@
 		},
 		{
 			"projectID": 233105,
-			"fileID": 2262515,
-			"fileName": "mcjtylib-1.6.1.jar",
+			"fileID": 2264130,
+			"fileName": "mcjtylib-1.7.0.jar",
 			"required": true
 		},
 		{
 			"projectID": 224641,
-			"fileID": 2262516,
-			"fileName": "rftools-3.50.jar",
+			"fileID": 2264544,
+			"fileName": "rftools-4.01.jar",
 			"required": true
 		},
 		{

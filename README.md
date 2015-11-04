@@ -82,7 +82,7 @@ LSCraft | 2.3
 Malisis' Doors | 1.10.1
 MalisisCore | 0.12.10
 Mantle | 0.3.2b
-McJtyLib | 1.6.1
+McJtyLib | 1.7.0
 Mekanism | 8.1.7.252
 MekanismGenerators | 8.1.7.252
 MekanismTools | 8.1.7.252
@@ -119,7 +119,7 @@ Redstone Paste | 1.6.2
 Refined Relocation | 1.1.10
 Resource Loader | 1.2
 Red Gear Core | 2.2.2
-RFTools | 3.50
+RFTools | 4.01
 [SBM] Colored Chests | 0.0.1b1
 [SBM] Wooden Bucket | 0.0.3b6
 [SBM] Wooden Rails | 0.0.1b1
