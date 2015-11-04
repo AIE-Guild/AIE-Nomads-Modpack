@@ -314,14 +314,14 @@
 		},
 		{
 			"projectID": 223891,
-			"fileID": 2256307,
-			"fileName": "malisisdoors-1.7.10-1.10.jar",
+			"fileID": 2264113,
+			"fileName": "malisisdoors-1.7.10-1.10/1.jar",
 			"required": true
 		},
 		{
 			"projectID": 223896,
-			"fileID": 2254954,
-			"fileName": "malisiscore-1.7.10-0.12.9.jar",
+			"fileID": 2264109,
+			"fileName": "malisiscore-1.7.10-0.12.10.jar",
 			"required": true
 		},
 		{
