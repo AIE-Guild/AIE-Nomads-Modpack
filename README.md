@@ -46,7 +46,7 @@ CodeChickenCore | 1.0.7.47
 CoFH Core | 3.0.3-303
 CoFHLib | 1.0.3-175
 Computercraft | 1.74
-Custom Main Menu | 1.9.1
+Custom Main Menu | 1.9.2
 DecoCraft2 | 2.2.1
 Dense Ores | 1.6.2
 Ender Compass | 1.1
