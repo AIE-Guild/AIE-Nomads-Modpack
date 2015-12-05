@@ -119,7 +119,7 @@ Resource Loader | 1.2
 Red Gear Core | 2.2.2
 RFTools | 4.01
 [SBM] Colored Chests | 0.0.1b1
-[SBM] Wooden Bucket | 0.0.3b6
+[SBM] Wooden Bucket | 1.7.10-0.0.3b20151107174900
 [SBM] Wooden Rails | 0.0.1b1
 Simply Jetpacks | 1.5.2
 StartingInventory | 1.7.10.r03
