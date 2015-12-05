@@ -19,7 +19,7 @@ Another One Bites The Dust | 2.8.4
 AppleCore | 1.1.0
 Applied Energistics | rv2-stable-10
 Archimedes' Ships | 1.7.1
-Backpacks | 2.0.0
+Backpacks | 2.0.1
 Baubles | 1.0.1.10
 bdlib | 1.9.3.107
 BetterStorage | 0.13.1.126
