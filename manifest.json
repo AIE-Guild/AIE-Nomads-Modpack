@@ -38,14 +38,14 @@
 		},
 		{
 			"projectID": 61811,
-			"fileID": 2263935,
-			"fileName": "buildcraft-7.1.12.jar",
+			"fileID": 2267564,
+			"fileName": "buildcraft-7.1.13.jar",
 			"required": true
 		},
 		{
 			"projectID": 221014,
-			"fileID": 2254821,
-			"fileName": "BuildcraftAdditions-1.7.10-2.2.2.jar",
+			"fileID": 2265472,
+			"fileName": "BuildcraftAdditions-1.7.10-2.2.3.jar",
 			"required": true
 		},
 		{
