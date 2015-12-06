@@ -3,6 +3,9 @@
 This project uses [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
+### Fixed
+- Corrected Et Futurum conflict with Pink Slime Blocks.
+
 ### Added
 - Added Markdown change log.
 
