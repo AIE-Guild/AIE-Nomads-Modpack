@@ -13,7 +13,7 @@ All development of this modpack will be done on [GitHub](https://github.com/AIE-
 
 Name | Version
 ---|---
-Advanced Generators | 0.9.18.113
+Advanced Generators | 0.9.19.120
 AE2 Stuff | 0.5.0.56
 Another One Bites The Dust | 2.8.4
 AppleCore | 1.1.0
@@ -21,7 +21,7 @@ Applied Energistics | rv2-stable-10
 Archimedes' Ships | 1.7.1
 Backpacks | 2.0.1
 Baubles | 1.0.1.10
-bdlib | 1.9.3.107
+bdlib | 1.9.4.109
 BetterStorage | 0.13.1.126
 Bookshelf | 1.2.0
 Bibliocraft | 1.11.4
@@ -118,7 +118,7 @@ Refined Relocation | 1.1.12
 Resource Loader | 1.2
 Red Gear Core | 2.2.2
 RFTools | 4.01
-[SBM] Colored Chests | 0.0.1b1
+[SBM] Colored Chests | 0.0.1b2
 [SBM] Wooden Bucket | 0.0.3b20151107174900
 [SBM] Wooden Rails | 0.0.1b1
 Simply Jetpacks | 1.5.2

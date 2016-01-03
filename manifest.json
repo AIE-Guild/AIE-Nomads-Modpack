@@ -122,8 +122,8 @@
 		},
 		{
 			"projectID": 70496,
-			"fileID": 2260512,
-			"fileName": "bdlib-1.9.3.107-mc1.7.10.jar",
+			"fileID": 2269259,
+			"fileName": "bdlib-1.9.4.109-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -290,8 +290,8 @@
 		},
 		{
 			"projectID": 223622,
-			"fileID": 2256426,
-			"fileName": "generators-0.9.18.113-mc1.7.10.jar",
+			"fileID": 2269271,
+			"fileName": "generators-0.9.19.120-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -709,8 +709,8 @@
 		},
 		{
 			"projectID": 233511,
-			"fileID": 2250530,
-			"fileName": "ColoredChests-1.7.10-0.0.1b1.jar",
+			"fileID": 2270002,
+			"fileName": "ColoredChests-1.7.10-0.0.1b2.jar",
 			"required": true
 		},
 		{
