@@ -11,6 +11,55 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ### Removed
 - Removed Binnie's Mods to allow upgrade to Forestry 4.
+- LSCraft.
+- Hamsterrific.
+
+### Updated
+- Advanced Generators, 0.9.19.120
+- Backpacks, 2.0.1
+- bdlib, 1.9.4.109
+- Biomes O' Plenty, 2.1.0.1548
+- Buildcraft, 7.1.14
+- Buildcraft Additions, 2.2.5
+- Catwalks 2, 2.0.3
+- Computercraft, 1.75
+- Custom Main Menu, 1.9.2
+- DecoCraft2, 2.2.1
+- Ender Compass, 1.2
+- Ender Core, 0.2.0.31
+- Extra Utilities, 1.2.12
+- ExtraCells2, 2.3.7
+- FastLeafDecay, 1.4
+- Forestry, 4.2.4.52
+- Garden Stuff, 1.7.0
+- Gendustry, 1.6.3.132
+- Immibis Core, 59.1.4
+- JourneyMap, 5.1.3
+- Malisis' Doors, 1.10.1
+- MalisisCore, 0.14.0
+- Mantle, 0.3.2b
+- McJtyLib, 1.8.1
+- Morpheus, 1.6.20
+- NEI Integration, 1.1.1
+- NotEnoughKeys, 3.0.0b43
+- OpenBlocks, 1.5
+- OpenModsLib, 0.9
+- Pam's Harvestcraft, 1.7.10Lb
+- Refined Relocation, 1.1.12
+- RFTools, 4.20
+- [SBM] Wooden Buckets, 0.0.3b20151107174900
+- [SBM] Colored Chests, 0.0.1b2
+- Simply Jetpacks, 1.5.3
+- Storage Drawers, 1.7.5
+- Storage Drawers: Biome O' Plenty Pack, 1.1.0
+- Storage Drawers: Forestry, 1.1.0
+- Storage Drawers: Natura Pack, 1.0.4
+- Thermal Recycling, 1.0.4.2
+- Thermal Smeltery, 1.3.1.4
+- Tinkers' Construct, 1.8.8
+- Waila Harvestability, 1.1.6
+- Waila Plugins, 0.2.0-23
+- Wawla, 1.3.3
 
 ## [1.1.3] -- 2015-10-26
 ### Fixed
