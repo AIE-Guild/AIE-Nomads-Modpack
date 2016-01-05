@@ -29,7 +29,6 @@ Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
 Bibliocraft: BiblioWoods Natura Edition | 1.5
 Big Reactors | 0.4.3A
-Binnie's Mods | 2.0-pre14
 Biomes O' Plenty | 2.1.0.1548
 bspkrsCore | 6.16
 Buildcraft | 7.1.14
@@ -60,11 +59,11 @@ ExtraCells2 | 2.2.73b129
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
-Forestry | 3.6.12.3
+Forestry | 4.2.4.52
 Galacticraft Core | 3.0.12.375
 Galacticraft Planets | 3.0.12.375
 Garden Stuff | 1.6.8
-Gendustry | 1.6.1.126
+Gendustry | 1.6.3.132
 Hunger Overhaul | 1.0.0
 iBench | 1.0.12
 Immibis Core | 59.1.1
@@ -92,7 +91,7 @@ Morpheus | 1.6.10
 MrTJPCore | 1.1.0.31
 Natura | 2.2.0.1
 NEI Addons | 1.12.14
-NEI Integration | 1.0.13
+NEI Integration | 1.1.1
 Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.5.118
 NotEnoughKeys | 3.0.0b43

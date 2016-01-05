@@ -9,6 +9,9 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Added
 - Added Markdown change log.
 
+### Removed
+- Removed Binnie's Mods to allow upgrade to Forestry 4.
+
 ## [1.1.3] -- 2015-10-26
 ### Fixed
 - Downgraded FML to avoid OpenGL-related crashes.

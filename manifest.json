@@ -32,8 +32,8 @@
 		},
 		{
 			"projectID": 59751,
-			"fileID": 2262682,
-			"fileName": "forestry_1.7.10-3.6.12.3.jar",
+			"fileID": 2272933,
+			"fileName": "forestry_1.7.10-4.2.4.52.jar",
 			"required": true
 		},
 		{
@@ -116,8 +116,8 @@
 		},
 		{
 			"projectID": 70492,
-			"fileID": 2259877,
-			"fileName": "gendustry-1.6.1.126-mc1.7.10.jar",
+			"fileID": 2269267,
+			"fileName": "gendustry-1.6.3.132-mc1.7.10.jar",
 			"required": true
 		},
 		{
@@ -283,12 +283,6 @@
 			"required": true
 		},
 		{
-			"projectID": 223525,
-			"fileID": 2246131,
-			"fileName": "binnie-mods-2.0-pre14.jar",
-			"required": true
-		},
-		{
 			"projectID": 223622,
 			"fileID": 2269271,
 			"fileName": "generators-0.9.19.120-mc1.7.10.jar",
@@ -404,8 +398,8 @@
 		},
 		{
 			"projectID": 225251,
-			"fileID": 2261922,
-			"fileName": "NEIIntegration-MC1.7.10-1.0.13.jar",
+			"fileID": 2272481,
+			"fileName": "NEIIntegration-MC1.7.10-1.1.1.jar",
 			"required": true
 		},
 		{
