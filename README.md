@@ -132,17 +132,17 @@ Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.1.0-161
 Thermal Expansion | 4.0.3B1-218
 Thermal Foundation | 1.2.0-102
-Thermal Recycling | 1.0.3.6
-Thermal Smeltery | 1.2.1
+Thermal Recycling | 1.0.4.2
+Thermal Smeltery | 1.3.1.4
 TiC Tooltips | 1.2.5
 Tinkers' Construct | 1.8.8
-Tinkers' Mechwork | 0.2.14.100
+Tinkers' Mechwork | 0.2.15.106
 Translocators | 1.1.2.15
 Treecapitator | 2.0.4
 Waila | 1.5.10
-Waila Harvestability | 1.1.5
+Waila Harvestability | 1.1.6
 Waila Plugins | 0.2.0-23
-Wawla | 1.3.2
+Wawla | 1.3.3
 WorldEdit | 6.0 Beta 1
 WR-CBE Universal | 1.4.1.9
 ZTones | 2.2.1

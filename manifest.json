@@ -194,14 +194,14 @@
 		},
 		{
 			"projectID": 78057,
-			"fileID": 2229984,
-			"fileName": "TMechworks-1.7.10-0.2.14.100.jar",
+			"fileID": 2272157,
+			"fileName": "TMechworks-1.7.10-0.2.15.106.jar",
 			"required": true
 		},
 		{
 			"projectID": 79287,
-			"fileID": 2264809,
-			"fileName": "WailaHarvestability-mc1.7.10-1.1.5.jar",
+			"fileID": 2270923,
+			"fileName": "WailaHarvestability-mc1.7.10-1.1.6.jar",
 			"required": true
 		},
 		{
@@ -362,8 +362,8 @@
 		},
 		{
 			"projectID": 224712,
-			"fileID": 2264413,
-			"fileName": "Wawla-1.3.2_1.7.10.jar",
+			"fileID": 2267304,
+			"fileName": "Wawla-1.3.3_1.7.10.jar",
 			"required": true
 		},
 		{
@@ -451,8 +451,8 @@
 		},
 		{
 			"projectID": 227661,
-			"fileID": 2235184,
-			"fileName": "ThermalSmeltery-1.7.10-1.2.1.jar",
+			"fileID": 2273687,
+			"fileName": "ThermalSmeltery-1.3.1.4.jar",
 			"required": true
 		},
 		{
@@ -583,8 +583,8 @@
 		},
 		{
 			"projectID": 229666,
-			"fileID": 2264006,
-			"fileName": "ThermalRecycling-1.7.10-1.0.3.6.jar",
+			"fileID": 2270986,
+			"fileName": "ThermalRecycling-1.7.10-1.0.4.2.jar",
 			"required": true
 		},
 		{
