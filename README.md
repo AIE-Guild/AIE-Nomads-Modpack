@@ -95,9 +95,9 @@ NEI Integration | 1.1.1
 Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.5.118
 NotEnoughKeys | 3.0.0b43
-OpenBlocks | 1.4.4
-OpenComputers | 1.5.19
-OpenModsLib | 0.8
+OpenBlocks | 1.5
+OpenComputers | 1.5.21.41
+OpenModsLib | 0.9
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10k
 Player API | 1.4
