@@ -553,8 +553,8 @@
 		},
 		{
 			"projectID": 229218,
-			"fileID": 2242838,
-			"fileName": "ExtraCells-1.7.10-2.2.73b129.jar",
+			"fileID": 2272685,
+			"fileName": "ExtraCells-1.7.10-2.3.7b176.jar",
 			"required": true
 		},
 		{
@@ -655,8 +655,8 @@
 		},
 		{
 			"projectID": 231868,
-			"fileID": 2263881,
-			"fileName": "EnderCore-1.7.10-0.1.0.30_beta.jar",
+			"fileID": 2266611,
+			"fileName": "EnderCore-1.7.10-0.2.0.31_beta.jar",
 			"required": true
 		},
 		{
@@ -679,8 +679,8 @@
 		},
 		{
 			"projectID": 230976,
-			"fileID": 2259506,
-			"fileName": "FastLeafDecay-1.7.10-1.3.jar",
+			"fileID": 2272838,
+			"fileName": "FastLeafDecay-1.7.10-1.4.jar",
 			"required": true
 		},
 		{

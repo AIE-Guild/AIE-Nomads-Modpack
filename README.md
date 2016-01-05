@@ -49,13 +49,13 @@ Custom Main Menu | 1.9.2
 DecoCraft2 | 2.2.1
 Dense Ores | 1.6.2
 Ender Compass | 1.2
-Ender Core | 0.1.0.30
+Ender Core | 0.2.0.31
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.37
 Et Futurum | 1.5.2
 Eureka | 3.0.2
 Extra Utilities | 1.2.12
-ExtraCells2 | 2.2.73b129
+ExtraCells2 | 2.3.7
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
