@@ -98,8 +98,8 @@
 		},
 		{
 			"projectID": 69118,
-			"fileID": 2251029,
-			"fileName": "Morpheus-1.7.10-1.6.10.jar",
+			"fileID": 2269412,
+			"fileName": "Morpheus-1.7.10-1.6.20.jar",
 			"required": true
 		},
 		{
@@ -206,8 +206,8 @@
 		},
 		{
 			"projectID": 79325,
-			"fileID": 2265032,
-			"fileName": "SimplyJetpacks-MC1.7.10-1.5.2.jar",
+			"fileID": 2267185,
+			"fileName": "SimplyJetpacks-MC1.7.10-1.5.3.jar",
 			"required": true
 		},
 		{
@@ -350,14 +350,14 @@
 		},
 		{
 			"projectID": 233105,
-			"fileID": 2264130,
-			"fileName": "mcjtylib-1.7.0.jar",
+			"fileID": 2272449,
+			"fileName": "mcjtylib-1.8.1.jar",
 			"required": true
 		},
 		{
 			"projectID": 224641,
-			"fileID": 2264544,
-			"fileName": "rftools-4.01.jar",
+			"fileID": 2272450,
+			"fileName": "rftools-4.20.jar",
 			"required": true
 		},
 		{

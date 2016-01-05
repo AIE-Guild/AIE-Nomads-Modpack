@@ -79,7 +79,7 @@ JourneyMap Server | 1.0.5
 Malisis' Doors | 1.13.0
 MalisisCore | 0.14.0
 Mantle | 0.3.2b
-McJtyLib | 1.7.0
+McJtyLib | 1.8.1
 Mekanism | 8.1.7.252
 MekanismGenerators | 8.1.7.252
 MekanismTools | 8.1.7.252
@@ -116,11 +116,11 @@ Redstone Paste | 1.6.2
 Refined Relocation | 1.1.12
 Resource Loader | 1.2
 Red Gear Core | 2.2.2
-RFTools | 4.01
+RFTools | 4.20
 [SBM] Colored Chests | 0.0.1b2
 [SBM] Wooden Bucket | 0.0.3b20151107174900
 [SBM] Wooden Rails | 0.0.1b1
-Simply Jetpacks | 1.5.2
+Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
 Steve's Workshop | 0.5.1
