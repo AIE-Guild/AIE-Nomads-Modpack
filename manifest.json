@@ -80,8 +80,8 @@
 		},
 		{
 			"projectID": 67504,
-			"fileID": 2244605,
-			"fileName": "ComputerCraft1.74.jar",
+			"fileID": 2269339,
+			"fileName": "ComputerCraft1.75.jar",
 			"required": true
 		},
 		{
@@ -272,8 +272,8 @@
 		},
 		{
 			"projectID": 223106,
-			"fileID": 2230582,
-			"fileName": "EnderCompass-1.7.x-1.1.jar",
+			"fileID": 2270550,
+			"fileName": "EnderCompass-1.7.10-1.2.jar",
 			"required": true
 		},
 		{
@@ -703,8 +703,8 @@
 		},
 		{
 			"projectID": 230114,
-			"fileID": 2261289,
-			"fileName": "Et Futurum-1.4.4.jar",
+			"fileID": 2270081,
+			"fileName": "Et Futurum-1.5.2.jar",
 			"required": true
 		},
 		{

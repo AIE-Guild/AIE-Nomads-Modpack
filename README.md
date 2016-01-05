@@ -45,15 +45,15 @@ Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.7.47
 CoFH Core | 3.0.3-303
 CoFHLib | 1.0.3-175
-Computercraft | 1.74
+Computercraft | 1.75
 Custom Main Menu | 1.9.2
 DecoCraft2 | 2.2.1
 Dense Ores | 1.6.2
-Ender Compass | 1.1
+Ender Compass | 1.2
 Ender Core | 0.1.0.30
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.37
-Et Futurum | 1.4.4
+Et Futurum | 1.5.2
 Eureka | 3.0.2
 Extra Utilities | 1.2.12
 ExtraCells2 | 2.2.73b129
