@@ -4684,6 +4684,11 @@ ae2stuff:Wireless
 ae2stuff:WirelessKit
 aobd:blockTitanium
 aobd:blockUranium
+aobd:bottle_aobdyellorium
+aobd:bottle_mithril
+aobd:bottle_osmium
+aobd:bottle_titanium
+aobd:bottle_uranium
 aobd:clumpAluminium
 aobd:clumpArdite
 aobd:clumpCobalt

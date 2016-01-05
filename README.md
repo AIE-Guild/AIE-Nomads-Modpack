@@ -15,7 +15,7 @@ Name | Version
 ---|---
 Advanced Generators | 0.9.19.120
 AE2 Stuff | 0.5.0.56
-Another One Bites The Dust | 2.8.4
+Another One Bites The Dust | 2.9.0
 AppleCore | 1.1.0
 Applied Energistics | rv2-stable-10
 Archimedes' Ships | 1.7.1
