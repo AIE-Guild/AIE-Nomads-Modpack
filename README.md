@@ -99,7 +99,7 @@ OpenBlocks | 1.5
 OpenComputers | 1.5.21.41
 OpenModsLib | 0.9
 OreDictionaryConverter | 1.6.1
-Pam's Harvestcraft | 1.7.10k
+Pam's Harvestcraft | 1.7.10Lb
 Player API | 1.4
 Project Blue | 1.1.4
 Project Red - Base | 4.7.0pre9.92
@@ -124,10 +124,10 @@ Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
 Steve's Workshop | 0.5.1
-Storage Drawers | 1.6.2
-Storage Drawers: Biome O' Plenty Pack | 1.0.3
-Storage Drawers: Forestry | 1.0.5
-Storage Drawers: Natura Pack | 1.0.4
+Storage Drawers | 1.7.5
+Storage Drawers: Biome O' Plenty Pack | 1.1.0
+Storage Drawers: Forestry | 1.1.0
+Storage Drawers: Natura Pack | 1.1.0
 Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.1.0-161
 Thermal Expansion | 4.0.3B1-218

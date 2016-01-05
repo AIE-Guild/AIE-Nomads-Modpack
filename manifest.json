@@ -230,8 +230,8 @@
 		},
 		{
 			"projectID": 221857,
-			"fileID": 2261994,
-			"fileName": "Pam's HarvestCraft 1.7.10k.jar",
+			"fileID": 2270206,
+			"fileName": "Pam's HarvestCraft 1.7.10Lb.jar",
 			"required": true
 		},
 		{
@@ -296,8 +296,8 @@
 		},
 		{
 			"projectID": 223852,
-			"fileID": 2259166,
-			"fileName": "StorageDrawers-1.7.10-1.6.2.jar",
+			"fileID": 2270237,
+			"fileName": "StorageDrawers-1.7.10-1.7.5.jar",
 			"required": true
 		},
 		{
@@ -589,20 +589,20 @@
 		},
 		{
 			"projectID": 230642,
-			"fileID": 2264976,
-			"fileName": "StorageDrawers-Natura-1.7.10-1.0.4.jar",
+			"fileID": 2270239,
+			"fileName": "StorageDrawers-Natura-1.7.10-1.1.0.jar",
 			"required": true
 		},
 		{
 			"projectID": 230832,
-			"fileID": 2264972,
-			"fileName": "StorageDrawers-BiomesOPlenty-1.7.10-1.0.3.jar",
+			"fileID": 2270238,
+			"fileName": "StorageDrawers-BiomesOPlenty-1.7.10-1.1.0.jar",
 			"required": true
 		},
 		{
 			"projectID": 231147,
-			"fileID": 2264974,
-			"fileName": "StorageDrawers-Forestry-1.7.10-1.0.5.jar",
+			"fileID": 2270242,
+			"fileName": "StorageDrawers-Forestry-1.7.10-1.1.0.jar",
 			"required": true
 		},
 		{
