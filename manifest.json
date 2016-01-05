@@ -302,14 +302,14 @@
 		},
 		{
 			"projectID": 223891,
-			"fileID": 2264113,
-			"fileName": "malisisdoors-1.7.10-1.10/1.jar",
+			"fileID": 2268733,
+			"fileName": "malisisdoors-1.7.10-1.13.0.jar",
 			"required": true
 		},
 		{
 			"projectID": 223896,
-			"fileID": 2264109,
-			"fileName": "malisiscore-1.7.10-0.12.10.jar",
+			"fileID": 2268724,
+			"fileName": "malisiscore-1.7.10-0.14.0.jar",
 			"required": true
 		},
 		{
@@ -415,8 +415,8 @@
 		},
 		{
 			"projectID": 225903,
-			"fileID": 2256512,
-			"fileName": "GardenStuff-1.7.10-1.6.8.jar",
+			"fileID": 2269692,
+			"fileName": "GardenStuff-1.7.10-1.7.0.jar",
 			"required": true
 		},
 		{
@@ -607,8 +607,8 @@
 		},
 		{
 			"projectID": 32274,
-			"fileID": 2245168,
-			"fileName": "journeymap-1.7.10-5.1.0-unlimited.jar",
+			"fileID": 2269314,
+			"fileName": "journeymap-1.7.10-5.1.3-unlimited.jar",
 			"required": true
 		},
 		{

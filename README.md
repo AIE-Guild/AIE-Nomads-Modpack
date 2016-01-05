@@ -62,7 +62,7 @@ FloodLights | 0.6.11-103
 Forestry | 4.2.4.52
 Galacticraft Core | 3.0.12.375
 Galacticraft Planets | 3.0.12.375
-Garden Stuff | 1.6.8
+Garden Stuff | 1.7.0
 Gendustry | 1.6.3.132
 Hunger Overhaul | 1.0.0
 iBench | 1.0.12
@@ -74,10 +74,10 @@ Iron Chests | 6.0.62.742
 IvToolkit | 1.2
 Jabba | 1.2.1a
 Java 7 Checker | 1.1
-JourneyMap | 5.1.0
+JourneyMap | 5.1.3
 JourneyMap Server | 1.0.5
-Malisis' Doors | 1.10.1
-MalisisCore | 0.12.10
+Malisis' Doors | 1.13.0
+MalisisCore | 0.14.0
 Mantle | 0.3.2b
 McJtyLib | 1.7.0
 Mekanism | 8.1.7.252
