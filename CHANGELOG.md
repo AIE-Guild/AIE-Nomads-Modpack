@@ -9,6 +9,9 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Added
 - Added Markdown change log.
 
+### Changed
+- Set large biomes by default.
+
 ### Removed
 - Removed Binnie's Mods to allow upgrade to Forestry 4.
 - LSCraft.
