@@ -10,7 +10,9 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Added Markdown change log.
 
 ### Changed
-- Set large biomes by default.
+- Set larger biomes by default, BoP biome size of 5.
+- Disabled Natura redwood spawn.
+- Enabled villages in Redwood Forest biome.
 
 ### Removed
 - Removed Binnie's Mods to allow upgrade to Forestry 4.
