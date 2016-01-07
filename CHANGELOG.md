@@ -12,6 +12,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Added Unity 1.2.0 texture pack.
 
 ### Changed
+- Restored EnderIO gas conduits.
 - Set larger biomes by default, BoP biome size of 5.
 - Disabled Natura redwood spawn.
 - Enabled villages in Redwood Forest biome.
