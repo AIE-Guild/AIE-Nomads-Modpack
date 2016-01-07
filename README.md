@@ -101,6 +101,7 @@ OpenModsLib | 0.9
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10Lb
 Player API | 1.4
+Pneumaticraft | 1.12.3
 Project Blue | 1.1.4
 Project Red - Base | 4.7.0pre9.92
 Project Red - Compat | 4.7.0pre9.92
@@ -155,3 +156,9 @@ You should consider using the following mods, or similar client mods, for better
 - [OptiFine](https://optifine.net/home)
 
 Due to the licensing of these mods, they are not part of this pack.
+
+## Resource Pack List
+
+Name | Version
+---|---
+Unity | 1.2.0

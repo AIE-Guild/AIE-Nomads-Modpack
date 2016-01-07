@@ -8,6 +8,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ### Added
 - Added Markdown change log.
+- Added Pneumaticraft 1.12.3.
 - Added Unity 1.2.0 texture pack.
 
 ### Changed
