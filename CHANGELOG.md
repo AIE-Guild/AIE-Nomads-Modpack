@@ -8,8 +8,9 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ### Added
 - Added Markdown change log.
-- Added Pneumaticraft 1.12.3.
-- Added Unity 1.2.0 texture pack.
+- Added Pneumaticraft, 1.12.3.
+- MrCrayfish's Furniture Mod, 3.4.7.
+- Added Unity, 1.2.0, texture pack.
 
 ### Removed
 - Removed Binnie's Mods to allow upgrade to Forestry 4.
