@@ -8,6 +8,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ### Added
 - Added Markdown change log.
+- Added Unity 1.2.0 texture pack.
 
 ### Changed
 - Set larger biomes by default, BoP biome size of 5.
