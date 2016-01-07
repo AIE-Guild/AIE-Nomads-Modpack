@@ -11,16 +11,17 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Added Pneumaticraft 1.12.3.
 - Added Unity 1.2.0 texture pack.
 
+### Removed
+- Removed Binnie's Mods to allow upgrade to Forestry 4.
+- LSCraft.
+- Hamsterrific.
+
 ### Changed
 - Restored EnderIO gas conduits.
 - Set larger biomes by default, BoP biome size of 5.
 - Disabled Natura redwood spawn.
 - Enabled villages in Redwood Forest biome.
-
-### Removed
-- Removed Binnie's Mods to allow upgrade to Forestry 4.
-- LSCraft.
-- Hamsterrific.
+- Updated MineTweaker scripts.
 
 ### Updated
 - Advanced Generators, 0.9.19.120
