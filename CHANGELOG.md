@@ -2,6 +2,13 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
+## [1.2.1] -- 2016-01-08
+
+### Fixed
+
+- Changed default configuration to avoid crash when an invalid allele is encountered in Forestry.
+
+
 ## [1.2.0] -- 2016-01-08
 
 ### Fixed
@@ -222,6 +229,8 @@ Added localization fixes for Hamsterrific.
 ## 1.0.0 -- 2015-05-29
 Initial release.
 
+
+[1.2.1]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.1.3...v1.2.0
 [1.1.3]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.1.2...v1.1.3
 [1.1.2]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.1.1...v1.1.2
