@@ -35,12 +35,6 @@ recipes.addShapeless(<BiomesOPlenty:newBopGrass:2> * 4, [<minecraft:water_bucket
 recipes.addShapeless(<BiomesOPlenty:mud>, [<minecraft:water_bucket>.transformReplace(<minecraft:bucket>), <minecraft:dirt>]);
 recipes.addShapeless(<BiomesOPlenty:mudball> * 4, [<BiomesOPlenty:mud>]);
 
-//Crafting Hard Dirt, Hard Sand, Hard Stone, Ash Stone
-mods.pneumaticcraft.Pressure.addRecipe([<minecraft:dirt>], 1, [<BiomesOPlenty:hardDirt>], true);
-mods.pneumaticcraft.Pressure.addRecipe([<minecraft:sand>], 1, [<BiomesOPlenty:hardSand>], true);
-mods.pneumaticcraft.Pressure.addRecipe([<minecraft:packed_ice>], 1, [<BiomesOPlenty:hardIce>], true);
-mods.pneumaticcraft.Pressure.addRecipe([<BiomesOPlenty:ash>], 1, [<BiomesOPlenty:ashStone>], true);
-
 //Squeezing Poison from Poisonous Things
 mods.forestry.Squeezer.addRecipe(<liquid:poison> * 50, <minecraft:spider_eye> % 10,[<minecraft:spider_eye>], 20);
 mods.forestry.Squeezer.addRecipe(<liquid:poison> * 20, <Forestry:mulch> % 10,[<minecraft:poisonous_potato>], 20);
