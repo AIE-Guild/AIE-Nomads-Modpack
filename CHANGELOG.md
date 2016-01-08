@@ -14,6 +14,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ### Removed
 - Removed Binnie's Mods to allow upgrade to Forestry 4.
+- Railcraft.
 - LSCraft.
 - Hamsterrific.
 
