@@ -13,59 +13,58 @@ All development of this modpack will be done on [GitHub](https://github.com/AIE-
 
 Name | Version
 ---|---
-Advanced Generators | 0.9.18.113
+Advanced Generators | 0.9.19.120
 AE2 Stuff | 0.5.0.56
-Another One Bites The Dust | 2.8.4
+Another One Bites The Dust | 2.9.0
 AppleCore | 1.1.0
 Applied Energistics | rv2-stable-10
 Archimedes' Ships | 1.7.1
-Backpacks | 2.0.0
+Backpacks | 2.0.1
 Baubles | 1.0.1.10
-bdlib | 1.9.3.107
+bdlib | 1.9.4.109
 BetterStorage | 0.13.1.126
 Bookshelf | 1.2.0
-Bibliocraft | 1.11.3
+Bibliocraft | 1.11.4
 Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
 Bibliocraft: BiblioWoods Natura Edition | 1.5
 Big Reactors | 0.4.3A
-Binnie's Mods | 2.0-pre14
-Biomes O' Plenty | 2.1.0.1067
+Biomes O' Plenty | 2.1.0.1548
 bspkrsCore | 6.16
-Buildcraft | 7.1.12
-Buildcraft Additions | 2.2.2
-Buildcraft Compat | 7.1.2
+Buildcraft | 7.1.14
+Buildcraft Additions | 2.2.5
+Buildcraft Compat | 7.1.3
 Carpenter's Blocks | 3.3.7
-Catwalks | 2.0.2
+Catwalks | 2.0.3
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
-Chisel | 2.9.3.9
+Chisel | 2.9.4.10
 Chisel Facades | 2.12
 Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.7.47
 CoFH Core | 3.0.3-303
 CoFHLib | 1.0.3-175
-Computercraft | 1.74
-Custom Main Menu | 1.9.1
-DecoCraft2 | 2.1.1
+Compact Machines | 1.21
+Computercraft | 1.75
+Custom Main Menu | 1.9.2
+DecoCraft2 | 2.2.1
 Dense Ores | 1.6.2
-Ender Compass | 1.1
-Ender Core | 0.1.0.30
+Ender Compass | 1.2
+Ender Core | 0.2.0.31
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.37
-Et Futurum | 1.4.4
+Et Futurum | 1.5.3
 Eureka | 3.0.2
-Extra Utilities | 1.2.11
-ExtraCells2 | 2.2.73b129
+Extra Utilities | 1.2.12
+ExtraCells2 | 2.3.7
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
-Forestry | 3.6.12.3
+Forestry | 4.2.4.52
 Galacticraft Core | 3.0.12.375
 Galacticraft Planets | 3.0.12.375
-Garden Stuff | 1.6.8
-Gendustry | 1.6.1.126
-Hamsterrific | 0.2.0
+Garden Stuff | 1.7.0
+Gendustry | 1.6.3.132
 Hunger Overhaul | 1.0.0
 iBench | 1.0.12
 Immibis Core | 59.1.1
@@ -76,13 +75,12 @@ Iron Chests | 6.0.62.742
 IvToolkit | 1.2
 Jabba | 1.2.1a
 Java 7 Checker | 1.1
-JourneyMap | 5.1.0
+JourneyMap | 5.1.3
 JourneyMap Server | 1.0.5
-LSCraft | 2.3
-Malisis' Doors | 1.10
-MalisisCore | 0.12.9
-Mantle | 0.3.2a
-McJtyLib | 1.6.1
+Malisis' Doors | 1.13.0
+MalisisCore | 0.14.0
+Mantle | 0.3.2b
+McJtyLib | 1.8.1
 Mekanism | 8.1.7.252
 MekanismGenerators | 8.1.7.252
 MekanismTools | 8.1.7.252
@@ -94,16 +92,17 @@ Morpheus | 1.6.10
 MrTJPCore | 1.1.0.31
 Natura | 2.2.0.1
 NEI Addons | 1.12.14
-NEI Integration | 1.0.12
+NEI Integration | 1.1.1
 Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.5.118
-NotEnoughKeys | 1.0.0b30
-OpenBlocks | 1.4.4
-OpenComputers | 1.5.19
-OpenModsLib | 0.8
+NotEnoughKeys | 3.0.0b43
+OpenBlocks | 1.5
+OpenComputers | 1.5.21.41
+OpenModsLib | 0.9
 OreDictionaryConverter | 1.6.1
-Pam's Harvestcraft | 1.7.10k
+Pam's Harvestcraft | 1.7.10Lb
 Player API | 1.4
+Pneumaticraft | 1.12.3
 Project Blue | 1.1.4
 Project Red - Base | 4.7.0pre9.92
 Project Red - Compat | 4.7.0pre9.92
@@ -111,41 +110,40 @@ Project Red - Integration | 4.7.0pre9.92
 Project Red - Lighting | 4.7.0pre9.92
 Project Red - Mechanical | 4.7.0pre9.92
 Project Red - World | 4.7.0pre9.92
-Railcraft | 9.8.0.0
 Recurrent Complex | 0.9.6.3
 Red Gear Core | 2.2.1
 Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
-Refined Relocation | 1.1.10
+Refined Relocation | 1.1.12
 Resource Loader | 1.2
 Red Gear Core | 2.2.2
-RFTools | 3.50
-[SBM] Colored Chests | 0.0.1b1
-[SBM] Wooden Bucket | 0.0.3b6
+RFTools | 4.20
+[SBM] Colored Chests | 0.0.1b2
+[SBM] Wooden Bucket | 0.0.3b20151107174900
 [SBM] Wooden Rails | 0.0.1b1
-Simply Jetpacks | 1.5.1
+Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
 Steve's Workshop | 0.5.1
-Storage Drawers | 1.6.2
-Storage Drawers: Biome O' Plenty Pack | 1.0.2
-Storage Drawers: Forestry | 1.0.3
-Storage Drawers: Natura Pack | 1.0.3
+Storage Drawers | 1.7.5
+Storage Drawers: Biome O' Plenty Pack | 1.1.0
+Storage Drawers: Forestry | 1.1.0
+Storage Drawers: Natura Pack | 1.1.0
 Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.1.0-161
 Thermal Expansion | 4.0.3B1-218
 Thermal Foundation | 1.2.0-102
-Thermal Recycling | 1.0.2.4
-Thermal Smeltery | 1.2.1
+Thermal Recycling | 1.0.4.2
+Thermal Smeltery | 1.3.1.4
 TiC Tooltips | 1.2.5
-Tinkers' Construct | 1.8.7
-Tinkers' Mechwork | 0.2.14.100
+Tinkers' Construct | 1.8.8
+Tinkers' Mechwork | 0.2.15.106
 Translocators | 1.1.2.15
 Treecapitator | 2.0.4
 Waila | 1.5.10
-Waila Harvestability | 1.1.3
-Waila Plugins | 0.1.2-21
-Wawla | 1.3.1
+Waila Harvestability | 1.1.6
+Waila Plugins | 0.2.0-23
+Wawla | 1.3.3
 WorldEdit | 6.0 Beta 1
 WR-CBE Universal | 1.4.1.9
 ZTones | 2.2.1
@@ -158,3 +156,9 @@ You should consider using the following mods, or similar client mods, for better
 - [OptiFine](https://optifine.net/home)
 
 Due to the licensing of these mods, they are not part of this pack.
+
+## Resource Pack List
+
+Name | Version
+---|---
+Unity | 1.2.0
