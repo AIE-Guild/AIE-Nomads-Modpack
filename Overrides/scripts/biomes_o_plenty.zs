@@ -35,10 +35,3 @@ recipes.addShapeless(<BiomesOPlenty:newBopGrass:2> * 4, [<minecraft:water_bucket
 recipes.addShapeless(<BiomesOPlenty:mud>, [<minecraft:water_bucket>.transformReplace(<minecraft:bucket>), <minecraft:dirt>]);
 recipes.addShapeless(<BiomesOPlenty:mudball> * 4, [<BiomesOPlenty:mud>]);
 
-//Squeezing Poison from Poisonous Things
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 50, <minecraft:spider_eye> % 10,[<minecraft:spider_eye>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 20, <Forestry:mulch> % 10,[<minecraft:poisonous_potato>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 100, <minecraft:glass_bottle> % 10,[<minecraft:potion:8196>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 200, <minecraft:glass_bottle> % 10,[<minecraft:potion:8228>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 200, <minecraft:glass_bottle> % 10,[<minecraft:potion:8260>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 50, <Forestry:mulch> % 5,[<BiomesOPlenty:foliage:7>], 20);
