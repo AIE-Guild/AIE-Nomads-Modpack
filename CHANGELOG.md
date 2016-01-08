@@ -2,10 +2,15 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
+## [1.2.2] -- 2016-01-08
+
+### Fixed
+- Changed Compact Machines dimension to -5 to avoid conflicts.
+- Complete configuration file cleanup.
+
 ## [1.2.1] -- 2016-01-08
 
 ### Fixed
-
 - Changed default configuration to avoid crash when an invalid allele is encountered in Forestry.
 
 
@@ -230,6 +235,7 @@ Added localization fixes for Hamsterrific.
 Initial release.
 
 
+[1.2.2]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.1...v1.2.2
 [1.2.1]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.1.3...v1.2.0
 [1.1.3]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.1.2...v1.1.3
