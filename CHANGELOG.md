@@ -39,6 +39,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - DecoCraft2, 2.2.1
 - Ender Compass, 1.2
 - Ender Core, 0.2.0.31
+- Et Futurum, 1.5.3
 - Extra Utilities, 1.2.12
 - ExtraCells2, 2.3.7
 - FastLeafDecay, 1.4
