@@ -21,9 +21,6 @@ recipes.removeShaped(<minecraft:coal:0>,  [[<BiomesOPlenty:misc:1>, <BiomesOPlen
 recipes.removeShaped(<BiomesOPlenty:ash>);
 recipes.addShaped(<BiomesOPlenty:ash>, [[<ore:dustAsh>, <ore:dustAsh>], [<ore:dustAsh>, <ore:dustAsh>]]);
 
-//Pine Cones can be pressed into Seed Oil
-mods.forestry.Squeezer.addRecipe(10, [<BiomesOPlenty:misc:13>], <liquid:seedoil> * 15, null, 0);
-
 //Crafting the new kinds of dirt
 //Step one: Simple loamy, sandy and silty dirt
 recipes.addShapeless(<BiomesOPlenty:newBopDirt:2> * 3, [<minecraft:dirt>, <minecraft:sand> , <minecraft:dirt>]);
@@ -50,18 +47,4 @@ mods.forestry.Squeezer.addRecipe(<liquid:poison> * 20, <Forestry:mulch> % 10,[<m
 mods.forestry.Squeezer.addRecipe(<liquid:poison> * 100, <minecraft:glass_bottle> % 10,[<minecraft:potion:8196>], 20);
 mods.forestry.Squeezer.addRecipe(<liquid:poison> * 200, <minecraft:glass_bottle> % 10,[<minecraft:potion:8228>], 20);
 mods.forestry.Squeezer.addRecipe(<liquid:poison> * 200, <minecraft:glass_bottle> % 10,[<minecraft:potion:8260>], 20);
-
 mods.forestry.Squeezer.addRecipe(<liquid:poison> * 50, <Forestry:mulch> % 5,[<BiomesOPlenty:foliage:7>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:flowerColumbine>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:flowerColumbine:1>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:flowerColumbine:2>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:flowerColumbine:3>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:flowerColumbine:4>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:flowerMezereon>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:forestBloodroot>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:forestLilyoftheValley>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 1,[<plantmegapack:fungusDeathCap>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 1,[<plantmegapack:fungusWoollyGomphus>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:leafyStingingNettle>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:shrubDwarfElder>], 20);
-mods.forestry.Squeezer.addRecipe(<liquid:poison> * 10, <Forestry:mulch> % 5,[<plantmegapack:shrubSpicebush>], 20);
