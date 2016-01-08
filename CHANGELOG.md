@@ -9,6 +9,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Added
 - Added Markdown change log.
 - Added Pneumaticraft, 1.12.3.
+- Added Compact Machines, 1.21.
 - MrCrayfish's Furniture Mod, 3.4.7.
 - Added Unity, 1.2.0, texture pack.
 
