@@ -81,9 +81,9 @@ Malisis' Doors | 1.13.0
 MalisisCore | 0.14.0
 Mantle | 0.3.2b
 McJtyLib | 1.8.1
-Mekanism | 8.1.7.252
-MekanismGenerators | 8.1.7.252
-MekanismTools | 8.1.7.252
+Mekanism | 8.1.8.258
+MekanismGenerators | 8.1.8.258
+MekanismTools | 8.1.8.258
 MicdoodleCore | 3.0.11.333
 Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10B
