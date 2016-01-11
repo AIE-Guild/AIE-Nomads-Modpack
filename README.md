@@ -89,7 +89,6 @@ Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10B
 More Backpacks | 2.2.2
 Morpheus | 1.6.10
-MrTJPCore | 1.1.0.31
 Natura | 2.2.0.1
 NEI Addons | 1.12.14
 NEI Integration | 1.1.1
@@ -102,21 +101,20 @@ OpenModsLib | 0.9
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10Lb
 Player API | 1.4
-Pneumaticraft | 1.12.3
+PneumaticCraft | 1.12.4
 Project Blue | 1.1.4
-Project Red - Base | 4.7.0pre9.92
-Project Red - Compat | 4.7.0pre9.92
-Project Red - Integration | 4.7.0pre9.92
-Project Red - Lighting | 4.7.0pre9.92
-Project Red - Mechanical | 4.7.0pre9.92
-Project Red - World | 4.7.0pre9.92
+Project Red - Base | 4.7.0pre10.93
+Project Red - Compat | 4.7.0pre10.93
+Project Red - Integration | 4.7.0pre10.93
+Project Red - Lighting | 4.7.0pre10.93
+Project Red - Mechanical | 4.7.0pre10.93
+Project Red - World | 4.7.0pre10.93
 Recurrent Complex | 0.9.6.3
 Red Gear Core | 2.2.1
 Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
 Refined Relocation | 1.1.12
 Resource Loader | 1.2
-Red Gear Core | 2.2.2
 RFTools | 4.20
 [SBM] Colored Chests | 0.0.1b2
 [SBM] Wooden Bucket | 0.0.3b20151107174900
