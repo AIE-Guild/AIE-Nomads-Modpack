@@ -7,6 +7,10 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Fixed
 - Broke CoFHAPI cycle by removing BiblioWoods: Forestry.
 
+### Updated
+- PneumaticCraft, 1.12.4.
+
+
 ## [1.2.2] -- 2016-01-08
 
 ### Fixed
