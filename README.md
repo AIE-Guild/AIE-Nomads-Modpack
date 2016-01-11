@@ -61,8 +61,8 @@ ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
 Forestry | 4.2.4.52
-Galacticraft Core | 3.0.12.375
-Galacticraft Planets | 3.0.12.375
+Galacticraft Core | 3.0.12.411
+Galacticraft Planets | 3.0.12.411
 Garden Stuff | 1.7.0
 Gendustry | 1.6.3.132
 Hunger Overhaul | 1.0.0
@@ -84,7 +84,7 @@ McJtyLib | 1.8.1
 Mekanism | 8.1.8.258
 MekanismGenerators | 8.1.8.258
 MekanismTools | 8.1.8.258
-MicdoodleCore | 3.0.11.333
+MicdoodleCore | 3.0.12.411
 Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10B
 More Backpacks | 2.2.2
