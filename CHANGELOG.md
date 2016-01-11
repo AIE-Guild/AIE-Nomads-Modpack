@@ -13,6 +13,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Updated
 - PneumaticCraft, 1.12.4.
 - Project Red, 4.7.0pre10.93.
+- Thermal Recycling, 1.1.0.4.
 
 
 ## [1.2.2] -- 2016-01-08
