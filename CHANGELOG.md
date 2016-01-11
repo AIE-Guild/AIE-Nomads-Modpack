@@ -7,6 +7,9 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Fixed
 - Broke CoFHAPI cycle by removing BiblioWoods: Forestry.
 
+### Removed
+- Disabled Origin Valley biome.
+
 ### Updated
 - PneumaticCraft, 1.12.4.
 
