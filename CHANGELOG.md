@@ -2,7 +2,7 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
-## [1.2.3] -- Unreleased
+## [1.2.3] -- 2016-01-12
 
 ### Fixed
 - Broke CoFHAPI cycle by removing BiblioWoods: Forestry.
