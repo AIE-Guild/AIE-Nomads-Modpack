@@ -9,6 +9,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ### Removed
 - Disabled Origin Valley biome.
+- Disabled colored skies.
 
 ### Updated
 - Et Futurum, 1.5.4.
