@@ -3,7 +3,7 @@ A technology-focused modpack from the Nomads of Alea Iacta Est.
 
 This modpack is the official modpack for the [Nomads](http://wiki.aie-guild.org/index.php?title=AIE_Nomads) of [Alea Iacta Est](https://aie-guild.org/) (AIE) social gaming community.  Our community of thousands is derived from a diverse group of people seeking adventure and enjoy game content in a family-friendly environment built on mutual courtesy and respect. Like our community, this modpack is diverse and represents the aspects of other modpacks we've found value in.
 
-We've focused on what we consider to be a balanced combination of mods that combine a strong resource and argicultural component (Biomes O' Plenty, Natura, Pam's Harvestcraft, and Forestry) and a rich crafting progression (Railcraft, Minefactory Reloaded, Ender IO, Thermal Expansion, Big Reactors) in a world where the simple joy of architecture and aesthetics has a place (Chisel 2, Carpenters' Blocks).  We've added aspects of challenge, like Hunger Overhaul.  We believe hunger should be an important factor, but not so much of a factor that you can't enjoy the rest of the game.  There is no magic, aside from magic in the Asimov sense.
+We've focused on what we consider to be a balanced combination of mods that combine a strong resource and agricultural component (Biomes O' Plenty, Natura, Pam's Harvestcraft, and Forestry) and a rich crafting progression (Mekanism, Minefactory Reloaded, Ender IO, Thermal Expansion, Big Reactors) in a world where the simple joy of architecture and aesthetics has a place (Chisel 2, Carpenters' Blocks).  We've added aspects of challenge, like Hunger Overhaul.  We believe hunger should be an important factor, but not so much of a factor that you can't enjoy the rest of the game.  There is no magic, aside from what's in vanilla Minecraft and magic in the Asimov sense.
 
 This is a live modpack that will continually evolve and be tweaked to suit the desires of our community as we evolve with it. It is, eternally, a work in progress.
 
@@ -53,16 +53,16 @@ Ender Compass | 1.2
 Ender Core | 0.2.0.31
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.37
-Et Futurum | 1.5.3
+Et Futurum | 1.5.4
 Eureka | 3.0.2
 Extra Utilities | 1.2.12
 ExtraCells2 | 2.3.7
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
-Forestry | 4.2.4.52
-Galacticraft Core | 3.0.12.375
-Galacticraft Planets | 3.0.12.375
+Forestry | 4.2.5.53
+Galacticraft Core | 3.0.12.411
+Galacticraft Planets | 3.0.12.411
 Garden Stuff | 1.7.0
 Gendustry | 1.6.3.132
 Hunger Overhaul | 1.0.0
@@ -81,15 +81,14 @@ Malisis' Doors | 1.13.0
 MalisisCore | 0.14.0
 Mantle | 0.3.2b
 McJtyLib | 1.8.1
-Mekanism | 8.1.7.252
-MekanismGenerators | 8.1.7.252
-MekanismTools | 8.1.7.252
-MicdoodleCore | 3.0.11.333
+Mekanism | 8.1.8.258
+MekanismGenerators | 8.1.8.258
+MekanismTools | 8.1.8.258
+MicdoodleCore | 3.0.12.411
 Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10B
 More Backpacks | 2.2.2
 Morpheus | 1.6.10
-MrTJPCore | 1.1.0.31
 Natura | 2.2.0.1
 NEI Addons | 1.12.14
 NEI Integration | 1.1.1
@@ -102,21 +101,20 @@ OpenModsLib | 0.9
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10Lb
 Player API | 1.4
-Pneumaticraft | 1.12.3
+PneumaticCraft | 1.12.4
 Project Blue | 1.1.4
-Project Red - Base | 4.7.0pre9.92
-Project Red - Compat | 4.7.0pre9.92
-Project Red - Integration | 4.7.0pre9.92
-Project Red - Lighting | 4.7.0pre9.92
-Project Red - Mechanical | 4.7.0pre9.92
-Project Red - World | 4.7.0pre9.92
+Project Red - Base | 4.7.0pre10.93
+Project Red - Compat | 4.7.0pre10.93
+Project Red - Integration | 4.7.0pre10.93
+Project Red - Lighting | 4.7.0pre10.93
+Project Red - Mechanical | 4.7.0pre10.93
+Project Red - World | 4.7.0pre10.93
 Recurrent Complex | 0.9.6.3
 Red Gear Core | 2.2.1
 Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
 Refined Relocation | 1.1.12
 Resource Loader | 1.2
-Red Gear Core | 2.2.2
 RFTools | 4.20
 [SBM] Colored Chests | 0.0.1b2
 [SBM] Wooden Bucket | 0.0.3b20151107174900
@@ -133,7 +131,7 @@ Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.1.0-161
 Thermal Expansion | 4.0.3B1-218
 Thermal Foundation | 1.2.0-102
-Thermal Recycling | 1.0.4.2
+Thermal Recycling | 1.1.0.4
 Thermal Smeltery | 1.3.1.4
 TiC Tooltips | 1.2.5
 Tinkers' Construct | 1.8.8

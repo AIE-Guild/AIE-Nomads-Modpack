@@ -12,7 +12,7 @@
   "manifestVersion": 1,
   "name": "AIE Nomads",
   "description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "author": "stigg",
   "projectID": 230885,
   "files": [
@@ -29,11 +29,6 @@
     {
       "projectID": 59216,
       "fileID": 2218771,
-      "required": true
-    },
-    {
-      "projectID": 59751,
-      "fileID": 2272933,
       "required": true
     },
     {
@@ -402,18 +397,8 @@
       "required": true
     },
     {
-      "projectID": 228363,
-      "fileID": 2229574,
-      "required": true
-    },
-    {
       "projectID": 228364,
       "fileID": 2229581,
-      "required": true
-    },
-    {
-      "projectID": 228702,
-      "fileID": 2255230,
       "required": true
     },
     {
@@ -442,31 +427,6 @@
       "required": true
     },
     {
-      "projectID": 229045,
-      "fileID": 2255233,
-      "required": true
-    },
-    {
-      "projectID": 229046,
-      "fileID": 2255235,
-      "required": true
-    },
-    {
-      "projectID": 229048,
-      "fileID": 2255236,
-      "required": true
-    },
-    {
-      "projectID": 229049,
-      "fileID": 2255237,
-      "required": true
-    },
-    {
-      "projectID": 229050,
-      "fileID": 2255238,
-      "required": true
-    },
-    {
       "projectID": 229218,
       "fileID": 2272685,
       "required": true
@@ -489,11 +449,6 @@
     {
       "projectID": 229318,
       "fileID": 2262093,
-      "required": true
-    },
-    {
-      "projectID": 229666,
-      "fileID": 2270986,
       "required": true
     },
     {
@@ -607,11 +562,6 @@
       "required": true
     },
     {
-      "projectID": 224125,
-      "fileID": 2271111,
-      "required": true
-    },
-    {
       "projectID": 55438,
       "fileID": 2221679,
       "required": true
@@ -622,8 +572,53 @@
       "required": true
     },
     {
+      "projectID": 224125,
+      "fileID": 2274696,
+      "required": true
+    },
+    {
+      "projectID": 228702,
+      "fileID": 2274225,
+      "required": true
+    },
+    {
+      "projectID": 229050,
+      "fileID": 2274233,
+      "required": true
+    },
+    {
+      "projectID": 229045,
+      "fileID": 2274228,
+      "required": true
+    },
+    {
+      "projectID": 229046,
+      "fileID": 2274230,
+      "required": true
+    },
+    {
+      "projectID": 229048,
+      "fileID": 2274231,
+      "required": true
+    },
+    {
+      "projectID": 229049,
+      "fileID": 2274232,
+      "required": true
+    },
+    {
+      "projectID": 229666,
+      "fileID": 2274380,
+      "required": true
+    },
+    {
+      "projectID": 59751,
+      "fileID": 2274845,
+      "required": true
+    },
+    {
       "projectID": 230114,
-      "fileID": 2274177,
+      "fileID": 2274930,
       "required": true
     }
   ],

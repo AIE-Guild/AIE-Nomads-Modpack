@@ -2,6 +2,25 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
+## [1.2.3] -- 2016-01-12
+
+### Fixed
+- Broke CoFHAPI cycle by removing BiblioWoods: Forestry.
+
+### Removed
+- Disabled Origin Valley biome.
+- Disabled colored skies.
+
+### Updated
+- Et Futurum, 1.5.4.
+- FOrestry, 4.2.5.53.
+- Galacticraft, 3.0.12.411.
+- Mekanism, 8.1.8.258.
+- PneumaticCraft, 1.12.4.
+- Project Red, 4.7.0pre10.93.
+- Thermal Recycling, 1.1.0.4.
+
+
 ## [1.2.2] -- 2016-01-08
 
 ### Fixed
@@ -235,6 +254,7 @@ Added localization fixes for Hamsterrific.
 Initial release.
 
 
+[1.2.3]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.2...v1.2.3
 [1.2.2]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.1...v1.2.2
 [1.2.1]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.1.3...v1.2.0
