@@ -11,8 +11,10 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Disabled Origin Valley biome.
 
 ### Updated
-- Mekanism, 8.1.8.258.
+- Et Futurum, 1.5.4.
+- FOrestry, 4.2.5.53.
 - Galacticraft, 3.0.12.411.
+- Mekanism, 8.1.8.258.
 - PneumaticCraft, 1.12.4.
 - Project Red, 4.7.0pre10.93.
 - Thermal Recycling, 1.1.0.4.
