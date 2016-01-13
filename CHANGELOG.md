@@ -2,6 +2,12 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
+## [1.2.4] -- 2016-01-12
+
+### Fixed
+- Updated Thermal Recycling to 1.1.0.5, fixing inventory search crash in creative mode.
+
+
 ## [1.2.3] -- 2016-01-12
 
 ### Fixed
@@ -254,6 +260,7 @@ Added localization fixes for Hamsterrific.
 Initial release.
 
 
+[1.2.4]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.3...v1.2.4
 [1.2.3]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.2...v1.2.3
 [1.2.2]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.1...v1.2.2
 [1.2.1]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.0...v1.2.1
