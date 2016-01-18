@@ -78,7 +78,7 @@ Java 7 Checker | 1.1
 JourneyMap | 5.1.3
 JourneyMap Server | 1.0.5
 Malisis' Doors | 1.13.0
-MalisisCore | 0.14.0
+MalisisCore | 0.14.1
 Mantle | 0.3.2b
 McJtyLib | 1.8.1
 Mekanism | 8.1.8.258
@@ -123,10 +123,10 @@ Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
 Steve's Workshop | 0.5.1
-Storage Drawers | 1.7.5
-Storage Drawers: Biome O' Plenty Pack | 1.1.0
-Storage Drawers: Forestry | 1.1.0
-Storage Drawers: Natura Pack | 1.1.0
+Storage Drawers | 1.7.6
+Storage Drawers: Biome O' Plenty Pack | 1.1.1
+Storage Drawers: Forestry | 1.1.1
+Storage Drawers: Natura Pack | 1.1.1
 Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.1.0-161
 Thermal Expansion | 4.0.3B1-218
