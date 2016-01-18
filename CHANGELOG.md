@@ -2,6 +2,21 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
+## [1.2.5] -- 2016-01-18
+
+### Fixed
+- Consolidated copper an tin ore generation under Thermal Foundation.
+- Consolidated specialty stone under Chisel.
+- Removed Et Futurum stone generation.
+- Allowed village spawns in some forest biomes.
+
+### Updated
+- Malisis Core, 0.14.1.
+- Storage Drawers, 1.7.6.
+- Storage Drawers: Biomes O' Plenty Pack, 1.1.1.
+- Storage Drawers: Forestry, 1.1.1.
+- Storage Drawers: Natura Pack, 1.1.1.
+
 ## [1.2.4] -- 2016-01-12
 
 ### Fixed

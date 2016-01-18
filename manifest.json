@@ -12,7 +12,7 @@
   "manifestVersion": 1,
   "name": "AIE Nomads",
   "description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "author": "stigg",
   "projectID": 230885,
   "files": [
@@ -247,18 +247,8 @@
       "required": true
     },
     {
-      "projectID": 223852,
-      "fileID": 2270237,
-      "required": true
-    },
-    {
       "projectID": 223891,
       "fileID": 2268733,
-      "required": true
-    },
-    {
-      "projectID": 223896,
-      "fileID": 2268724,
       "required": true
     },
     {
@@ -452,21 +442,6 @@
       "required": true
     },
     {
-      "projectID": 230642,
-      "fileID": 2270239,
-      "required": true
-    },
-    {
-      "projectID": 230832,
-      "fileID": 2270238,
-      "required": true
-    },
-    {
-      "projectID": 231147,
-      "fileID": 2270242,
-      "required": true
-    },
-    {
       "projectID": 32274,
       "fileID": 2269314,
       "required": true
@@ -619,6 +594,31 @@
     {
       "projectID": 229666,
       "fileID": 2275117,
+      "required": true
+    },
+    {
+      "projectID": 223896,
+      "fileID": 2275740,
+      "required": true
+    },
+    {
+      "projectID": 223852,
+      "fileID": 2275947,
+      "required": true
+    },
+    {
+      "projectID": 230832,
+      "fileID": 2275949,
+      "required": true
+    },
+    {
+      "projectID": 231147,
+      "fileID": 2275952,
+      "required": true
+    },
+    {
+      "projectID": 230642,
+      "fileID": 2275950,
       "required": true
     }
   ],
