@@ -2,7 +2,7 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
-## [1.2.6] -- unreleased
+## [1.2.6] -- 2016-01-19
 
 ### Added
 - Added a crafting recipe for saddles.
@@ -12,6 +12,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ### Removed
 - Diabled Et Futurum mutton.
+- Disabled Et Futurum encjanting table.
 
 ### Updated
 - Wooden Buckets, 0.0.3b3.
