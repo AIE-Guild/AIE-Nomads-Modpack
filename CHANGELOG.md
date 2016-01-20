@@ -10,6 +10,10 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Removed
 - Diabled Et Futurum mutton.
 
+### Updated
+- Wooden Buckets, 0.0.3b3.
+- NotEnoughKeys, 3.0.0b45.
+
 ## [1.2.5] -- 2016-01-18
 
 ### Fixed

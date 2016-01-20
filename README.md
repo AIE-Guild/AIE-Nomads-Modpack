@@ -94,7 +94,7 @@ NEI Addons | 1.12.14
 NEI Integration | 1.1.1
 Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.5.118
-NotEnoughKeys | 3.0.0b43
+NotEnoughKeys | 3.0.0b45
 OpenBlocks | 1.5
 OpenComputers | 1.5.21.41
 OpenModsLib | 0.9
@@ -117,7 +117,7 @@ Refined Relocation | 1.1.12
 Resource Loader | 1.2
 RFTools | 4.20
 [SBM] Colored Chests | 0.0.1b2
-[SBM] Wooden Bucket | 0.0.3b20151107174900
+[SBM] Wooden Bucket | 0.0.3b3
 [SBM] Wooden Rails | 0.0.1b1
 Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03
