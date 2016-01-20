@@ -12,10 +12,28 @@
   "manifestVersion": 1,
   "name": "AIE Nomads",
   "description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "author": "stigg",
   "projectID": 230885,
   "files": [
+	{
+		"projectID": 59218,
+		"fileID": 2227503,
+		"fileName": "[1.7.10]bspkrsCore-universal-6.16.jar",
+		"required": true
+	}, 
+	{
+		"projectID": 229002,
+		"fileID": 2274178,
+		"fileName": "MrTJPCore-1.1.0.32-universal.jar",
+		"required": true
+	},
+	{
+		"projectID": 59694,
+		"fileID": 2260966,
+		"fileName": "RedGearCore-1.7.10-2.2.2.jar",
+		"required": true
+	},
     {
       "projectID": 222097,
       "fileID": 2235314,
@@ -277,11 +295,6 @@
       "required": true
     },
     {
-      "projectID": 224614,
-      "fileID": 2261424,
-      "required": true
-    },
-    {
       "projectID": 233105,
       "fileID": 2272449,
       "required": true
@@ -512,11 +525,6 @@
       "required": true
     },
     {
-      "projectID": 233189,
-      "fileID": 2265748,
-      "required": true
-    },
-    {
       "projectID": 233655,
       "fileID": 2251077,
       "required": true
@@ -619,6 +627,16 @@
     {
       "projectID": 230642,
       "fileID": 2275950,
+      "required": true
+    },
+    {
+      "projectID": 233189,
+      "fileID": 2276336,
+      "required": true
+    },
+    {
+      "projectID": 224614,
+      "fileID": 2276280,
       "required": true
     }
   ],

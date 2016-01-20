@@ -89,12 +89,13 @@ Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10B
 More Backpacks | 2.2.2
 Morpheus | 1.6.10
+MrTJPCore | 1.1.0.32
 Natura | 2.2.0.1
 NEI Addons | 1.12.14
 NEI Integration | 1.1.1
 Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.5.118
-NotEnoughKeys | 3.0.0b43
+NotEnoughKeys | 3.0.0b45
 OpenBlocks | 1.5
 OpenComputers | 1.5.21.41
 OpenModsLib | 0.9
@@ -110,14 +111,14 @@ Project Red - Lighting | 4.7.0pre10.93
 Project Red - Mechanical | 4.7.0pre10.93
 Project Red - World | 4.7.0pre10.93
 Recurrent Complex | 0.9.6.3
-Red Gear Core | 2.2.1
+Red Gear Core | 2.2.2
 Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
 Refined Relocation | 1.1.12
 Resource Loader | 1.2
 RFTools | 4.20
 [SBM] Colored Chests | 0.0.1b2
-[SBM] Wooden Bucket | 0.0.3b20151107174900
+[SBM] Wooden Bucket | 0.0.3b3
 [SBM] Wooden Rails | 0.0.1b1
 Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03

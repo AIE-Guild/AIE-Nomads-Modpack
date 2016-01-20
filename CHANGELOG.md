@@ -2,6 +2,22 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
+## [1.2.6] -- 2016-01-19
+
+### Added
+- Added a crafting recipe for saddles.
+- Added bspkrsCore, 6.16, explicitly.
+- Added MrTJPCore, 1.1.0.32, explicitly.
+- Added Red Gear COre, 2.2.2, explicitly.
+
+### Removed
+- Diabled Et Futurum mutton.
+- Disabled Et Futurum encjanting table.
+
+### Updated
+- Wooden Buckets, 0.0.3b3.
+- NotEnoughKeys, 3.0.0b45.
+
 ## [1.2.5] -- 2016-01-18
 
 ### Fixed
@@ -275,6 +291,7 @@ Added localization fixes for Hamsterrific.
 Initial release.
 
 
+[1.2.6]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.5...v1.2.6
 [1.2.5]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.4...v1.2.5
 [1.2.4]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.3...v1.2.4
 [1.2.3]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.2...v1.2.3
