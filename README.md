@@ -89,6 +89,7 @@ Minefactory Reloaded | 2.8.0-104
 MineTweaker3 | 3.0.10B
 More Backpacks | 2.2.2
 Morpheus | 1.6.10
+MrTJPCore | 1.1.0.32
 Natura | 2.2.0.1
 NEI Addons | 1.12.14
 NEI Integration | 1.1.1
@@ -110,7 +111,7 @@ Project Red - Lighting | 4.7.0pre10.93
 Project Red - Mechanical | 4.7.0pre10.93
 Project Red - World | 4.7.0pre10.93
 Recurrent Complex | 0.9.6.3
-Red Gear Core | 2.2.1
+Red Gear Core | 2.2.2
 Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
 Refined Relocation | 1.1.12

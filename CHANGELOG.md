@@ -6,6 +6,9 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ### Added
 - Added a crafting recipe for saddles.
+- Added bspkrsCore, 6.16, explicitly.
+- Added MrTJPCore, 1.1.0.32, explicitly.
+- Added Red Gear COre, 2.2.2, explicitly.
 
 ### Removed
 - Diabled Et Futurum mutton.

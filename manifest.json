@@ -16,6 +16,24 @@
   "author": "stigg",
   "projectID": 230885,
   "files": [
+	{
+		"projectID": 59218,
+		"fileID": 2227503,
+		"fileName": "[1.7.10]bspkrsCore-universal-6.16.jar",
+		"required": true
+	}, 
+	{
+		"projectID": 229002,
+		"fileID": 2274178,
+		"fileName": "MrTJPCore-1.1.0.32-universal.jar",
+		"required": true
+	},
+	{
+		"projectID": 59694,
+		"fileID": 2260966,
+		"fileName": "RedGearCore-1.7.10-2.2.2.jar",
+		"required": true
+	},
     {
       "projectID": 222097,
       "fileID": 2235314,
