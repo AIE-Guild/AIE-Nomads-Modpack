@@ -7,6 +7,9 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Added
 - Added a crafting recipe for saddles.
 
+### Removed
+- Diabled Et Futurum mutton.
+
 ## [1.2.5] -- 2016-01-18
 
 ### Fixed
