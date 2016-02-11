@@ -104,12 +104,12 @@ Pam's Harvestcraft | 1.7.10Lb
 Player API | 1.4
 PneumaticCraft | 1.12.4
 Project Blue | 1.1.4
-Project Red - Base | 4.7.0pre10.93
-Project Red - Compat | 4.7.0pre10.93
-Project Red - Integration | 4.7.0pre10.93
-Project Red - Lighting | 4.7.0pre10.93
-Project Red - Mechanical | 4.7.0pre10.93
-Project Red - World | 4.7.0pre10.93
+Project Red - Base | 4.7.0pre12.95
+Project Red - Compat | 4.7.0pre12.95
+Project Red - Integration | 4.7.0pre12.95
+Project Red - Lighting | 4.7.0pre12.95
+Project Red - Mechanical | 4.7.0pre12.95
+Project Red - World | 4.7.0pre12.95
 Recurrent Complex | 0.9.6.3
 Red Gear Core | 2.2.2
 Redstone Arsenal | 1.1.0-89

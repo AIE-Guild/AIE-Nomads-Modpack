@@ -2,6 +2,11 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
+## [1.2.7] -- Unreleased
+
+### Updated
+- Project Red, 4.7.0pre12.95.
+
 ## [1.2.6] -- 2016-01-19
 
 ### Added
@@ -291,6 +296,7 @@ Added localization fixes for Hamsterrific.
 Initial release.
 
 
+[1.2.7]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.6...v1.2.7
 [1.2.6]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.5...v1.2.6
 [1.2.5]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.4...v1.2.5
 [1.2.4]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.3...v1.2.4
