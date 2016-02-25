@@ -7,6 +7,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Updated
 - Another One Bites the Dust, 2.9.1.
 - AppleCore, 1.3.0.
+- Biomes O' Plenty, 2.1.0.1889.
 - CoFH Core, 3.1.1-324.
 - CoFHLib, 1.1.1-181.
 - Project Red, 4.7.0pre12.95.

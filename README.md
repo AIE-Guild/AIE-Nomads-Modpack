@@ -29,7 +29,7 @@ Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
 Bibliocraft: BiblioWoods Natura Edition | 1.5
 Big Reactors | 0.4.3A
-Biomes O' Plenty | 2.1.0.1548
+Biomes O' Plenty | 2.1.0.1889
 bspkrsCore | 6.16
 Buildcraft | 7.1.14
 Buildcraft Additions | 2.2.5
