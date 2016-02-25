@@ -60,7 +60,7 @@ ExtraCells2 | 2.3.7
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
-Forestry | 4.2.5.53
+Forestry | 4.2.9
 Galacticraft Core | 3.0.12.411
 Galacticraft Planets | 3.0.12.411
 Garden Stuff | 1.7.0
