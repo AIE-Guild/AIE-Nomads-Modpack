@@ -130,8 +130,8 @@ Storage Drawers: Forestry | 1.1.1
 Storage Drawers: Natura Pack | 1.1.1
 Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.1.0-161
-Thermal Expansion | 4.0.3B1-218
-Thermal Foundation | 1.2.0-102
+Thermal Expansion | 4.1.2
+Thermal Foundation | 1.2.3
 Thermal Recycling | 1.1.0.5
 Thermal Smeltery | 1.3.1.4
 TiC Tooltips | 1.2.5

@@ -12,6 +12,8 @@ This project uses [Semantic Versioning](http://semver.org/).
 - CoFHLib, 1.1.1-181.
 - Forestry, 4.2.9.
 - Project Red, 4.7.0pre12.95.
+- Thermal Expansion, 4.1.2.
+- Thermal Foundation, 1.2.3
 
 ## [1.2.6] -- 2016-01-19
 
