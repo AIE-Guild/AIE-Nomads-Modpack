@@ -38,7 +38,7 @@ Carpenter's Blocks | 3.3.7
 Catwalks | 2.0.3
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
-Chisel | 2.9.4.10
+Chisel | 2.9.5
 Chisel Facades | 2.12
 Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.7.47
