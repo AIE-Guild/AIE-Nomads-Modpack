@@ -50,7 +50,7 @@ Custom Main Menu | 1.9.2
 DecoCraft2 | 2.2.1
 Dense Ores | 1.6.2
 Ender Compass | 1.2
-Ender Core | 0.2.0.31
+Ender Core | 0.2.0.32
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.37
 Et Futurum | 1.5.5
