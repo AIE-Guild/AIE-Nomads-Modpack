@@ -10,7 +10,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Biomes O' Plenty, 2.1.0.1889.
 - Buildcraft, 7.1.16.
 - Chisel, 2.9.5.
-- CoFH Core, 3.1.1-324.
+- CoFH Core, 3.1.2.
 - CoFHLib, 1.1.1-181.
 - Forestry, 4.2.9.
 - Project Red, 4.7.0pre12.95.

@@ -42,7 +42,7 @@ Chisel | 2.9.5
 Chisel Facades | 2.12
 Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.7.47
-CoFH Core | 3.1.1-324
+CoFH Core | 3.1.2
 CoFHLib | 1.1.1-181
 Compact Machines | 1.21
 Computercraft | 1.75
