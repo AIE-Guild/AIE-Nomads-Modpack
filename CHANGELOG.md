@@ -13,8 +13,10 @@ This project uses [Semantic Versioning](http://semver.org/).
 - CoFH Core, 3.1.2.
 - CoFHLib, 1.1.1-181.
 - Et Futurum, 1.5.5.
-- Forestry, 4.2.9.
+- Forestry, 4.2.11.
 - Project Red, 4.7.0pre12.95.
+- Storage Drawers, 1.9.7.
+- Storage Drawers: Forestry, 1.1.2.
 - Thermal Expansion, 4.1.2.
 - Thermal Foundation, 1.2.3
 

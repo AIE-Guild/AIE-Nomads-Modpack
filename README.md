@@ -60,7 +60,7 @@ ExtraCells2 | 2.3.7
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
-Forestry | 4.2.9
+Forestry | 4.2.11
 Galacticraft Core | 3.0.12.411
 Galacticraft Planets | 3.0.12.411
 Garden Stuff | 1.7.0
@@ -124,9 +124,9 @@ Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
 Steve's Workshop | 0.5.1
-Storage Drawers | 1.7.6
+Storage Drawers | 1.9.7
 Storage Drawers: Biome O' Plenty Pack | 1.1.1
-Storage Drawers: Forestry | 1.1.1
+Storage Drawers: Forestry | 1.1.2
 Storage Drawers: Natura Pack | 1.1.1
 Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.1.0-161
