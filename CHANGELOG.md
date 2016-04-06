@@ -12,6 +12,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Chisel, 2.9.5.
 - CoFH Core, 3.1.2.
 - CoFHLib, 1.1.1-181.
+- Et Futurum, 1.5.5.
 - Forestry, 4.2.9.
 - Project Red, 4.7.0pre12.95.
 - Thermal Expansion, 4.1.2.
