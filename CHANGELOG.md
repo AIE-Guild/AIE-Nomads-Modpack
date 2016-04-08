@@ -14,6 +14,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - CoFHLib, 1.1.1-181.
 - EnderCore, 0.2.0.32.
 - Et Futurum, 1.5.5.
+- ExtraCells2, 2.3.9.
 - Forestry, 4.2.11.
 - Project Red, 4.7.0pre12.95.
 - Storage Drawers, 1.9.7.

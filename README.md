@@ -56,7 +56,7 @@ EnderStorage | 1.4.7.37
 Et Futurum | 1.5.5
 Eureka | 3.0.2
 Extra Utilities | 1.2.12
-ExtraCells2 | 2.3.7
+ExtraCells2 | 2.3.9
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
 FloodLights | 0.6.11-103
