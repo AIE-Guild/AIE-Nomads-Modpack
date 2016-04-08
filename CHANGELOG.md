@@ -16,6 +16,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Et Futurum, 1.5.5.
 - ExtraCells2, 2.3.9.
 - Forestry, 4.2.11.
+- JourneyMap, 5.1.4.
 - Project Red, 4.7.0pre12.95.
 - Storage Drawers, 1.9.7.
 - Storage Drawers: Forestry, 1.1.2.
@@ -33,6 +34,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Removed
 - Diabled Et Futurum mutton.
 - Disabled Et Futurum encjanting table.
+- Removed JourneyMap Server, it is no longer needed for Forge.
 
 ### Updated
 - Wooden Buckets, 0.0.3b3.
