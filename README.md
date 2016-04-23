@@ -115,7 +115,7 @@ Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
 Refined Relocation | 1.1.12
 Resource Loader | 1.2
-RFTools | 4.20
+RFTools | 4.23
 [SBM] Colored Chests | 0.0.1b2
 [SBM] Wooden Bucket | 0.0.3b3
 [SBM] Wooden Rails | 0.0.1b1

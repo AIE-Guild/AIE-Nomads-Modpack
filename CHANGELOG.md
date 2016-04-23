@@ -21,6 +21,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Malisis' Doors, 1.13.2.
 - JourneyMap, 5.1.4.
 - Project Red, 4.7.0pre12.95.
+- RFTools, 4.23.
 - Storage Drawers, 1.9.7.
 - Storage Drawers: Forestry, 1.1.2.
 - Thermal Expansion, 4.1.2.
