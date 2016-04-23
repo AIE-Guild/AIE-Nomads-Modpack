@@ -76,8 +76,8 @@ IvToolkit | 1.2
 Jabba | 1.2.1a
 Java 7 Checker | 1.1
 JourneyMap | 5.1.4
-Malisis' Doors | 1.13.0
-MalisisCore | 0.14.1
+Malisis' Doors | 1.13.2
+MalisisCore | 0.14.3
 Mantle | 0.3.2b
 McJtyLib | 1.8.1
 Mekanism | 8.1.8.258
