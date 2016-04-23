@@ -47,7 +47,7 @@ CoFHLib | 1.1.1-181
 Compact Machines | 1.21
 Computercraft | 1.75
 Custom Main Menu | 1.9.2
-DecoCraft2 | 2.2.1
+DecoCraft2 | 2.3.2
 Dense Ores | 1.6.2
 Ender Compass | 1.2
 Ender Core | 0.2.0.32
