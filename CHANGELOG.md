@@ -23,6 +23,8 @@ This project uses [Semantic Versioning](http://semver.org/).
 - PneumaticCraft, 1.12.7.
 - Project Red, 4.7.0pre12.95.
 - RFTools, 4.23.
+- Refined Relocation, 1.1.28.
+- Resource Loader, 1.3.
 - Storage Drawers, 1.9.7.
 - Storage Drawers: Forestry, 1.1.2.
 - Thermal Expansion, 4.1.2.

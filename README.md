@@ -113,8 +113,8 @@ Recurrent Complex | 0.9.6.3
 Red Gear Core | 2.2.2
 Redstone Arsenal | 1.1.0-89
 Redstone Paste | 1.6.2
-Refined Relocation | 1.1.12
-Resource Loader | 1.2
+Refined Relocation | 1.1.28
+Resource Loader | 1.3
 RFTools | 4.23
 [SBM] Colored Chests | 0.0.1b2
 [SBM] Wooden Bucket | 0.0.3b3
