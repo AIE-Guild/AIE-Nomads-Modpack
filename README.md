@@ -101,7 +101,7 @@ OpenModsLib | 0.9
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10Lb
 Player API | 1.4
-PneumaticCraft | 1.12.4
+PneumaticCraft | 1.12.7
 Project Blue | 1.1.4
 Project Red - Base | 4.7.0pre12.95
 Project Red - Compat | 4.7.0pre12.95

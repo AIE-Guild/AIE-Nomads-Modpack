@@ -20,6 +20,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - MalisisCore, 0.14.3.
 - Malisis' Doors, 1.13.2.
 - JourneyMap, 5.1.4.
+- PneumaticCraft, 1.12.7.
 - Project Red, 4.7.0pre12.95.
 - RFTools, 4.23.
 - Storage Drawers, 1.9.7.
