@@ -15,8 +15,8 @@ Name | Version
 ---|---
 Advanced Generators | 0.9.19.120
 AE2 Stuff | 0.5.0.56
-Another One Bites The Dust | 2.9.0
-AppleCore | 1.1.0
+Another One Bites The Dust | 2.9.1
+AppleCore | 1.3.0
 Applied Energistics | rv2-stable-10
 Archimedes' Ships | 1.7.1
 Backpacks | 2.0.1
@@ -29,94 +29,93 @@ Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
 Bibliocraft: BiblioWoods Forestry Edition | 1.7
 Bibliocraft: BiblioWoods Natura Edition | 1.5
 Big Reactors | 0.4.3A
-Biomes O' Plenty | 2.1.0.1548
+Biomes O' Plenty | 2.1.0.1889
 bspkrsCore | 6.16
-Buildcraft | 7.1.14
+Buildcraft | 7.1.16
 Buildcraft Additions | 2.2.5
 Buildcraft Compat | 7.1.3
 Carpenter's Blocks | 3.3.7
 Catwalks | 2.0.3
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
-Chisel | 2.9.4.10
+Chisel | 2.9.5
 Chisel Facades | 2.12
 Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.7.47
-CoFH Core | 3.0.3-303
-CoFHLib | 1.0.3-175
+CoFH Core | 3.1.2
+CoFHLib | 1.1.1-181
 Compact Machines | 1.21
 Computercraft | 1.75
 Custom Main Menu | 1.9.2
-DecoCraft2 | 2.2.1
+DecoCraft2 | 2.3.2
 Dense Ores | 1.6.2
 Ender Compass | 1.2
-Ender Core | 0.2.0.31
+Ender Core | 0.2.0.33
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.37
-Et Futurum | 1.5.4
+Et Futurum | 1.5.5
 Eureka | 3.0.2
 Extra Utilities | 1.2.12
-ExtraCells2 | 2.3.7
+ExtraCells2 | 2.3.9
 ExtraTiC | 1.4.5
 FastLeafDecay | 1.3
-FloodLights | 0.6.11-103
-Forestry | 4.2.5.53
+FloodLights | 1.1.1
+Forestry | 4.2.11
 Galacticraft Core | 3.0.12.411
 Galacticraft Planets | 3.0.12.411
 Garden Stuff | 1.7.0
 Gendustry | 1.6.3.132
 Hunger Overhaul | 1.0.0
 iBench | 1.0.12
-Immibis Core | 59.1.1
-Immibis' Microblocks | 59.1.0
+Immibis Core | 59.1.4
+Immibis' Microblocks | 59.1.2
 INpureCore | 1.0.0B9-62
 Inventory Tweaks | 1.59-dev-152
 Iron Chests | 6.0.62.742
-IvToolkit | 1.2
+IvToolkit | 1.2.1
 Jabba | 1.2.1a
-Java 7 Checker | 1.1
-JourneyMap | 5.1.3
-JourneyMap Server | 1.0.5
-Malisis' Doors | 1.13.0
-MalisisCore | 0.14.1
+Java 8 Checker (Universal) | 2.0
+JourneyMap | 5.1.4
+Malisis' Doors | 1.13.2
+MalisisCore | 0.14.3
 Mantle | 0.3.2b
 McJtyLib | 1.8.1
-Mekanism | 8.1.8.258
-MekanismGenerators | 8.1.8.258
-MekanismTools | 8.1.8.258
+Mekanism | 8.1.9.265
+MekanismGenerators | 8.1.9.265
+MekanismTools | 8.1.9.265
 MicdoodleCore | 3.0.12.411
-Minefactory Reloaded | 2.8.0-104
+Minefactory Reloaded | 2.8.1
 MineTweaker3 | 3.0.10B
 More Backpacks | 2.2.2
-Morpheus | 1.6.10
+Morpheus | 1.6.21
 MrTJPCore | 1.1.0.32
 Natura | 2.2.0.1
 NEI Addons | 1.12.14
-NEI Integration | 1.1.1
-Nether Ores | 2.3.0-12
+NEI Integration | 1.1.2
+Nether Ores | 2.3.1
 NotEnoughItems | 1.0.5.118
 NotEnoughKeys | 3.0.0b45
-OpenBlocks | 1.5
-OpenComputers | 1.5.21.41
-OpenModsLib | 0.9
+OpenBlocks | 1.5.1
+OpenComputers | 1.5.22
+OpenModsLib | 0.9.1
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10Lb
 Player API | 1.4
-PneumaticCraft | 1.12.4
-Project Blue | 1.1.4
-Project Red - Base | 4.7.0pre10.93
-Project Red - Compat | 4.7.0pre10.93
-Project Red - Integration | 4.7.0pre10.93
-Project Red - Lighting | 4.7.0pre10.93
-Project Red - Mechanical | 4.7.0pre10.93
-Project Red - World | 4.7.0pre10.93
-Recurrent Complex | 0.9.6.3
+PneumaticCraft | 1.12.7
+Project Blue | 1.1.6
+Project Red - Base | 4.7.0pre12.95
+Project Red - Compat | 4.7.0pre12.95
+Project Red - Integration | 4.7.0pre12.95
+Project Red - Lighting | 4.7.0pre12.95
+Project Red - Mechanical | 4.7.0pre12.95
+Project Red - World | 4.7.0pre12.95
+Recurrent Complex | 0.9.7
 Red Gear Core | 2.2.2
-Redstone Arsenal | 1.1.0-89
+Redstone Arsenal | 1.1.2
 Redstone Paste | 1.6.2
-Refined Relocation | 1.1.12
-Resource Loader | 1.2
-RFTools | 4.20
+Refined Relocation | 1.1.28
+Resource Loader | 1.3
+RFTools | 4.23
 [SBM] Colored Chests | 0.0.1b2
 [SBM] Wooden Bucket | 0.0.3b3
 [SBM] Wooden Rails | 0.0.1b1
@@ -124,14 +123,14 @@ Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
 Steve's Workshop | 0.5.1
-Storage Drawers | 1.7.6
+Storage Drawers | 1.9.7
 Storage Drawers: Biome O' Plenty Pack | 1.1.1
-Storage Drawers: Forestry | 1.1.1
+Storage Drawers: Forestry | 1.1.2
 Storage Drawers: Natura Pack | 1.1.1
 Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.1.0-161
-Thermal Expansion | 4.0.3B1-218
-Thermal Foundation | 1.2.0-102
+Thermal Expansion | 4.1.2
+Thermal Foundation | 1.2.3
 Thermal Recycling | 1.1.0.5
 Thermal Smeltery | 1.3.1.4
 TiC Tooltips | 1.2.5

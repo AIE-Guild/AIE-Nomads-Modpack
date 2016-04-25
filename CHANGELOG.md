@@ -2,6 +2,53 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
+## [1.2.7] -- Unreleased
+
+### Changed
+- Java 8 is now a minimum requirement.
+
+### Updated
+- Another One Bites the Dust, 2.9.1.
+- AppleCore, 1.3.0.
+- Biomes O' Plenty, 2.1.0.1889.
+- Buildcraft, 7.1.16.
+- Chisel, 2.9.5.
+- CoFH Core, 3.1.2.
+- CoFHLib, 1.1.1-181.
+- Decocraft, 2.3.2.
+- EnderCore, 0.2.0.33.
+- Et Futurum, 1.5.5.
+- ExtraCells2, 2.3.9.
+- Floodlights, 1.1.1.
+- Forestry, 4.2.11.
+- Immibis' Microblocks, 59.1.2.
+- IvToolkit, 1.2.1.
+- MalisisCore, 0.14.3.
+- Malisis' Doors, 1.13.2.
+- Mekanism, 8.1.9.265.
+- MekanismGenerators, 8.1.9.265.
+- MekanismTools, 8.1.9.265.
+- MineFactory Reloaded, 2.8.1.
+- Morpheus, 1.6.21.
+- NEI Integration, 1.1.2.
+- Nether Ores, 2.3.1.
+- JourneyMap, 5.1.4.
+- OpenBlocks, 1.5.1.
+- OpenComputers, 1.5.22.
+- OpenModsLib, 0.9.1.
+- PneumaticCraft, 1.12.7.
+- ProjectBlue, 1.1.6.
+- Project Red, 4.7.0pre12.95.
+- Redstone Arsenal, 1.1.2.
+- RFTools, 4.23.
+- Recurrent Complex, 0.9.7.
+- Refined Relocation, 1.1.28.
+- Resource Loader, 1.3.
+- Storage Drawers, 1.9.7.
+- Storage Drawers: Forestry, 1.1.2.
+- Thermal Expansion, 4.1.2.
+- Thermal Foundation, 1.2.3
+
 ## [1.2.6] -- 2016-01-19
 
 ### Added
@@ -13,6 +60,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 ### Removed
 - Diabled Et Futurum mutton.
 - Disabled Et Futurum encjanting table.
+- Removed JourneyMap Server, it is no longer needed for Forge.
 
 ### Updated
 - Wooden Buckets, 0.0.3b3.
@@ -291,6 +339,7 @@ Added localization fixes for Hamsterrific.
 Initial release.
 
 
+[1.2.7]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.6...v1.2.7
 [1.2.6]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.5...v1.2.6
 [1.2.5]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.4...v1.2.5
 [1.2.4]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.3...v1.2.4
