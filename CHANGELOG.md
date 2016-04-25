@@ -30,6 +30,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Nether Ores, 2.3.1.
 - JourneyMap, 5.1.4.
 - OpenBlocks, 1.5.1.
+- OpenComputers, 1.5.22.
 - OpenModsLib, 0.9.1.
 - PneumaticCraft, 1.12.7.
 - Project Red, 4.7.0pre12.95.
