@@ -27,6 +27,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - MineFactory Reloaded, 2.8.1.
 - Morpheus, 1.6.21.
 - NEI Integration, 1.1.2.
+- Nether Ores, 2.3.1.
 - JourneyMap, 5.1.4.
 - OpenBlocks, 1.5.1.
 - OpenModsLib, 0.9.1.
