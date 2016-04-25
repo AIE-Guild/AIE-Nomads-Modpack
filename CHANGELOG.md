@@ -13,7 +13,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - CoFH Core, 3.1.2.
 - CoFHLib, 1.1.1-181.
 - Decocraft, 2.3.2.
-- EnderCore, 0.2.0.32.
+- EnderCore, 0.2.0.33.
 - Et Futurum, 1.5.5.
 - ExtraCells2, 2.3.9.
 - Forestry, 4.2.11.
