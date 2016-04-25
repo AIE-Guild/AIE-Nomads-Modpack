@@ -22,6 +22,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - JourneyMap, 5.1.4.
 - PneumaticCraft, 1.12.7.
 - Project Red, 4.7.0pre12.95.
+- Redstone Arsenal, 1.1.2.
 - RFTools, 4.23.
 - Refined Relocation, 1.1.28.
 - Resource Loader, 1.3.
