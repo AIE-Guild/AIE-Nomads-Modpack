@@ -19,10 +19,12 @@ This project uses [Semantic Versioning](http://semver.org/).
 - EnderCore, 0.2.0.33.
 - Et Futurum, 1.5.5.
 - ExtraCells2, 2.3.9.
+- Floodlights, 1.1.1.
 - Forestry, 4.2.11.
 - IvToolkit, 1.2.1.
 - MalisisCore, 0.14.3.
 - Malisis' Doors, 1.13.2.
+- Morpheus, 1.6.21.
 - JourneyMap, 5.1.4.
 - PneumaticCraft, 1.12.7.
 - Project Red, 4.7.0pre12.95.
