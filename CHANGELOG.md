@@ -17,13 +17,16 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Et Futurum, 1.5.5.
 - ExtraCells2, 2.3.9.
 - Forestry, 4.2.11.
+- IvToolkit, 1.2.1.
 - MalisisCore, 0.14.3.
 - Malisis' Doors, 1.13.2.
+- Java 8 Checker (Universal), 2.0.
 - JourneyMap, 5.1.4.
 - PneumaticCraft, 1.12.7.
 - Project Red, 4.7.0pre12.95.
 - Redstone Arsenal, 1.1.2.
 - RFTools, 4.23.
+- Recurrent Complex, 0.9.7.
 - Refined Relocation, 1.1.28.
 - Resource Loader, 1.3.
 - Storage Drawers, 1.9.7.

@@ -72,9 +72,9 @@ Immibis' Microblocks | 59.1.0
 INpureCore | 1.0.0B9-62
 Inventory Tweaks | 1.59-dev-152
 Iron Chests | 6.0.62.742
-IvToolkit | 1.2
+IvToolkit | 1.2.1
 Jabba | 1.2.1a
-Java 7 Checker | 1.1
+Java 8 Checker (Universal) | 2.0
 JourneyMap | 5.1.4
 Malisis' Doors | 1.13.2
 MalisisCore | 0.14.3
@@ -109,7 +109,7 @@ Project Red - Integration | 4.7.0pre12.95
 Project Red - Lighting | 4.7.0pre12.95
 Project Red - Mechanical | 4.7.0pre12.95
 Project Red - World | 4.7.0pre12.95
-Recurrent Complex | 0.9.6.3
+Recurrent Complex | 0.9.7
 Red Gear Core | 2.2.2
 Redstone Arsenal | 1.1.2
 Redstone Paste | 1.6.2
