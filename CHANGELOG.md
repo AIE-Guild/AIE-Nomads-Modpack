@@ -4,6 +4,9 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ## [1.2.7] -- Unreleased
 
+### Changed
+- Java 8 is now a minimum requirement.
+
 ### Updated
 - Another One Bites the Dust, 2.9.1.
 - AppleCore, 1.3.0.
@@ -20,7 +23,6 @@ This project uses [Semantic Versioning](http://semver.org/).
 - IvToolkit, 1.2.1.
 - MalisisCore, 0.14.3.
 - Malisis' Doors, 1.13.2.
-- Java 8 Checker (Universal), 2.0.
 - JourneyMap, 5.1.4.
 - PneumaticCraft, 1.12.7.
 - Project Red, 4.7.0pre12.95.
