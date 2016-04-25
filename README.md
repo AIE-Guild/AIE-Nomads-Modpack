@@ -91,7 +91,7 @@ Morpheus | 1.6.21
 MrTJPCore | 1.1.0.32
 Natura | 2.2.0.1
 NEI Addons | 1.12.14
-NEI Integration | 1.1.1
+NEI Integration | 1.1.2
 Nether Ores | 2.3.0-12
 NotEnoughItems | 1.0.5.118
 NotEnoughKeys | 3.0.0b45

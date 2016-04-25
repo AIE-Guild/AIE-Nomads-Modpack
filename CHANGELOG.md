@@ -26,6 +26,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Malisis' Doors, 1.13.2.
 - MineFactory Reloaded, 2.8.1.
 - Morpheus, 1.6.21.
+- NEI Integration, 1.1.2.
 - JourneyMap, 5.1.4.
 - OpenBlocks, 1.5.1.
 - OpenModsLib, 0.9.1.
