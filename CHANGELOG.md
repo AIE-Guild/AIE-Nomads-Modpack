@@ -21,9 +21,13 @@ This project uses [Semantic Versioning](http://semver.org/).
 - ExtraCells2, 2.3.9.
 - Floodlights, 1.1.1.
 - Forestry, 4.2.11.
+- Immibis' Microblocks, 59.1.2.
 - IvToolkit, 1.2.1.
 - MalisisCore, 0.14.3.
 - Malisis' Doors, 1.13.2.
+- Mekanism, 8.1.9.265.
+- MekanismGenerators, 8.1.9.265.
+- MekanismTools, 8.1.9.265.
 - MineFactory Reloaded, 2.8.1.
 - Morpheus, 1.6.21.
 - NEI Integration, 1.1.2.
@@ -33,6 +37,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - OpenComputers, 1.5.22.
 - OpenModsLib, 0.9.1.
 - PneumaticCraft, 1.12.7.
+- ProjectBlue, 1.1.6.
 - Project Red, 4.7.0pre12.95.
 - Redstone Arsenal, 1.1.2.
 - RFTools, 4.23.

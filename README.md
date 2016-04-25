@@ -67,8 +67,8 @@ Garden Stuff | 1.7.0
 Gendustry | 1.6.3.132
 Hunger Overhaul | 1.0.0
 iBench | 1.0.12
-Immibis Core | 59.1.1
-Immibis' Microblocks | 59.1.0
+Immibis Core | 59.1.4
+Immibis' Microblocks | 59.1.2
 INpureCore | 1.0.0B9-62
 Inventory Tweaks | 1.59-dev-152
 Iron Chests | 6.0.62.742
@@ -80,9 +80,9 @@ Malisis' Doors | 1.13.2
 MalisisCore | 0.14.3
 Mantle | 0.3.2b
 McJtyLib | 1.8.1
-Mekanism | 8.1.8.258
-MekanismGenerators | 8.1.8.258
-MekanismTools | 8.1.8.258
+Mekanism | 8.1.9.265
+MekanismGenerators | 8.1.9.265
+MekanismTools | 8.1.9.265
 MicdoodleCore | 3.0.12.411
 Minefactory Reloaded | 2.8.1
 MineTweaker3 | 3.0.10B
@@ -102,7 +102,7 @@ OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10Lb
 Player API | 1.4
 PneumaticCraft | 1.12.7
-Project Blue | 1.1.4
+Project Blue | 1.1.6
 Project Red - Base | 4.7.0pre12.95
 Project Red - Compat | 4.7.0pre12.95
 Project Red - Integration | 4.7.0pre12.95
