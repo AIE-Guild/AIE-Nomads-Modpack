@@ -84,7 +84,7 @@ Mekanism | 8.1.8.258
 MekanismGenerators | 8.1.8.258
 MekanismTools | 8.1.8.258
 MicdoodleCore | 3.0.12.411
-Minefactory Reloaded | 2.8.0-104
+Minefactory Reloaded | 2.8.1
 MineTweaker3 | 3.0.10B
 More Backpacks | 2.2.2
 Morpheus | 1.6.21

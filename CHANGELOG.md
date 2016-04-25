@@ -24,6 +24,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - IvToolkit, 1.2.1.
 - MalisisCore, 0.14.3.
 - Malisis' Doors, 1.13.2.
+- MineFactory Reloaded, 2.8.1.
 - Morpheus, 1.6.21.
 - JourneyMap, 5.1.4.
 - PneumaticCraft, 1.12.7.
