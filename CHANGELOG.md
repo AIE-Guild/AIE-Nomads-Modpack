@@ -6,6 +6,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ### Changed
 - Java 8 is now a minimum requirement.
+- Farming Harvestcraft water crops on land is allowed as a workaround.
 
 ### Updated
 - Another One Bites the Dust, 2.9.1.
