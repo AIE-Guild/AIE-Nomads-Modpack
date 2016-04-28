@@ -2,7 +2,7 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
-## [1.2.7] -- Unreleased
+## [1.2.7] -- 2016-04-27
 
 ### Changed
 - Java 8 is now a minimum requirement.
