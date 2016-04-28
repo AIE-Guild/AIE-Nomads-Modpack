@@ -2,10 +2,11 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
-## [1.2.7] -- Unreleased
+## [1.2.7] -- 2016-04-27
 
 ### Changed
 - Java 8 is now a minimum requirement.
+- Farming Harvestcraft water crops on land is allowed as a workaround.
 
 ### Updated
 - Another One Bites the Dust, 2.9.1.
@@ -41,7 +42,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Project Red, 4.7.0pre12.95.
 - Redstone Arsenal, 1.1.2.
 - RFTools, 4.23.
-- Recurrent Complex, 0.9.7.
+- Recurrent Complex, 0.9.7.1.
 - Refined Relocation, 1.1.28.
 - Resource Loader, 1.3.
 - Storage Drawers, 1.9.7.
