@@ -109,7 +109,7 @@ Project Red - Integration | 4.7.0pre12.95
 Project Red - Lighting | 4.7.0pre12.95
 Project Red - Mechanical | 4.7.0pre12.95
 Project Red - World | 4.7.0pre12.95
-Recurrent Complex | 0.9.7
+Recurrent Complex | 0.9.7.1
 Red Gear Core | 2.2.2
 Redstone Arsenal | 1.1.2
 Redstone Paste | 1.6.2
