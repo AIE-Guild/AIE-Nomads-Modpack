@@ -2,6 +2,15 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
+## 1.2.8 -- Unreleased
+
+### Updated
+- CoFH Core, 3.1.3-328
+- CoFHLib, 1.1.2-184
+- Thermal Expansion, 4.1.4
+- Thermal Foundation, 1.2.6B1
+
+
 ## [1.2.7] -- 2016-04-27
 
 ### Changed

@@ -42,8 +42,8 @@ Chisel | 2.9.5
 Chisel Facades | 2.12
 Chisel Tones | 1.0-3
 CodeChickenCore | 1.0.7.47
-CoFH Core | 3.1.2
-CoFHLib | 1.1.1-181
+CoFH Core | 3.1.3-328
+CoFHLib | 1.1.2-184
 Compact Machines | 1.21
 Computercraft | 1.75
 Custom Main Menu | 1.9.2
@@ -129,8 +129,8 @@ Storage Drawers: Forestry | 1.1.2
 Storage Drawers: Natura Pack | 1.1.1
 Super Crafting Frame | 1.7.10.3
 Thermal Dynamics | 1.1.0-161
-Thermal Expansion | 4.1.2
-Thermal Foundation | 1.2.3
+Thermal Expansion | 4.1.4
+Thermal Foundation | 1.2.6B1
 Thermal Recycling | 1.1.0.5
 Thermal Smeltery | 1.3.1.4
 TiC Tooltips | 1.2.5
