@@ -8,6 +8,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Advanced Generators, 0.9.20
 - Buildcraft, 7.1.18
 - Buildcraft Compat, 7.1.5
+- Carpenter's Blocks, 3.3.8.1
 - CoFH Core, 3.1.3-328
 - CoFHLib, 1.1.2-184
 - Thermal Expansion, 4.1.4
