@@ -31,9 +31,9 @@ Bibliocraft: BiblioWoods Natura Edition | 1.5
 Big Reactors | 0.4.3A
 Biomes O' Plenty | 2.1.0.1889
 bspkrsCore | 6.16
-Buildcraft | 7.1.16
+Buildcraft | 7.1.18
 Buildcraft Additions | 2.2.5
-Buildcraft Compat | 7.1.3
+Buildcraft Compat | 7.1.5
 Carpenter's Blocks | 3.3.7
 Catwalks | 2.0.3
 ChickenChunks | 1.3.4.19
