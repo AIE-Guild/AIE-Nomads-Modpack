@@ -13,7 +13,7 @@ All development of this modpack will be done on [GitHub](https://github.com/AIE-
 
 Name | Version
 ---|---
-Advanced Generators | 0.9.19.120
+Advanced Generators | 0.9.20.123
 AE2 Stuff | 0.5.0.56
 Another One Bites The Dust | 2.9.1
 AppleCore | 1.3.0
