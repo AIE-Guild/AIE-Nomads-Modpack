@@ -5,11 +5,15 @@ This project uses [Semantic Versioning](http://semver.org/).
 ## 1.2.8 -- Unreleased
 
 ### Updated
+- [SBM] Wooden Buckets, 0.0.3b9
 - Advanced Generators, 0.9.20
+- Another One Bites The Dust, 2.9.2
+- AppleCore, 1.3.2
 - Bibliocraft, 1.11.5
 - Buildcraft, 7.1.18
 - Buildcraft Compat, 7.1.5
 - Carpenter's Blocks, 3.3.8.1
+- Catwalks, 2.0.4
 - CoFH Core, 3.1.3-328
 - CoFHLib, 1.1.2-184
 - Thermal Expansion, 4.1.4

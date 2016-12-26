@@ -15,8 +15,8 @@ Name | Version
 ---|---
 Advanced Generators | 0.9.20.123
 AE2 Stuff | 0.5.0.56
-Another One Bites The Dust | 2.9.1
-AppleCore | 1.3.0
+Another One Bites The Dust | 2.9.2
+AppleCore | 1.3.2
 Applied Energistics | rv2-stable-10
 Archimedes' Ships | 1.7.1
 Backpacks | 2.0.1
@@ -35,7 +35,7 @@ Buildcraft | 7.1.18
 Buildcraft Additions | 2.2.5
 Buildcraft Compat | 7.1.5
 Carpenter's Blocks | 3.3.8.1
-Catwalks | 2.0.3
+Catwalks | 2.0.4
 ChickenChunks | 1.3.4.19
 ChickenShed | 1.1.3
 Chisel | 2.9.5
@@ -117,7 +117,7 @@ Refined Relocation | 1.1.28
 Resource Loader | 1.3
 RFTools | 4.23
 [SBM] Colored Chests | 0.0.1b2
-[SBM] Wooden Bucket | 0.0.3b3
+[SBM] Wooden Bucket | 0.0.3b9
 [SBM] Wooden Rails | 0.0.1b1
 Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03
