@@ -1,137 +1,103 @@
+<!--
+ IMPORTANT:
+  This is the core recipe file. Modifying this file will have no effect. It will be rewritten by EnderIO and all
+  modifications made to it will be lost. To add or modify recipes please use 'EnchanterRecipes_User.xml'.
 
-<!-- 
+ Costs are calculated as follows:
 
-IMPORTANT:
-  This is the core recipe file. Modifying this file will have no effect.
-  It will be rewritten by EnderIO and all modifications made to it will be lost. To add
-  or modify recipes please use 'EnchanterRecipes_User.xml'
-  
-Costs are calculated as follows:
-level = enchantmentItem.stackSize
-levelCost = Config.enchanterBaseLevelCost;
-for (int i = 0; i < level; i++) {
-  levelCost += costPerLevel * level;
-}
- -->
+  level = enchantmentItem.stackSize
+  levelCost = Config.enchanterBaseLevelCost;
+  for (int i = 0; i < level; i++) {
+    levelCost += costPerLevel * level;
+  }
+
+-->
 
 <enchaterRecipes>
 
-  <enchantment name="enchantment.protect.all" costPerLevel="1">
-    <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="6" number="16"/> 
+  <enchantment name="minecraft:protection" >
+    <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="6" number="16" />
   </enchantment>
-
-  <enchantment name="enchantment.protect.fire" costPerLevel="2">
-    <itemStack modID="minecraft" itemName="blaze_powder" number="16"/>
+  <enchantment name="minecraft:fire_protection" >
+    <itemStack modID="minecraft" itemName="blaze_powder" number="16" />
   </enchantment>
-
-  <enchantment name="enchantment.protect.fall" costPerLevel="2">
-    <itemStack modID="minecraft" itemName="feather"/>
+  <enchantment name="minecraft:feather_falling" >
+    <itemStack modID="minecraft" itemName="feather" />
   </enchantment>
-
-  <enchantment name="enchantment.protect.explosion" costPerLevel="2">
-    <itemStack modID="minecraft" itemName="gunpowder" number="16"/>
+  <enchantment name="minecraft:blast_protection" >
+    <itemStack modID="minecraft" itemName="gunpowder" number="16" />
   </enchantment>
-
-  <enchantment name="enchantment.protect.projectile" costPerLevel="2">
-    <itemStack modID="minecraft" itemName="arrow" number="16"/>
+  <enchantment name="minecraft:projectile_protection" >
+    <itemStack modID="minecraft" itemName="arrow" number="16" />
   </enchantment>
-
-  <enchantment name="enchantment.oxygen" costPerLevel="4">
-    <itemStack modID="minecraft" itemName="glass_bottle"/>
+  <enchantment name="minecraft:respiration"  >
+    <itemStack modID="minecraft" itemName="glass_bottle" />
   </enchantment>
-
-  <enchantment name="enchantment.waterWorker" costPerLevel="4">
-    <itemStack modID="minecraft" itemName="waterlily"/>
+  <enchantment name="minecraft:aqua_affinity" >
+    <itemStack modID="minecraft" itemName="waterlily" />
   </enchantment>
-
-  <enchantment name="enchantment.thorns" costPerLevel="8">
-    <itemStack modID="minecraft" itemName="double_plant" itemMeta="4"/>
+  <enchantment name="minecraft:depth_strider"  >
+    <itemStack modID="minecraft" itemName="prismarine" itemMeta="0" />
   </enchantment>
-
-  <enchantment name="enchantment.damage.all" costPerLevel="1">
-    <itemStack modID="minecraft" itemName="quartz" number="12"/>
+  <enchantment name="minecraft:frost_walker"  >
+    <itemStack modID="minecraft" itemName="ice" number="16"/>
   </enchantment>
-
-  <enchantment name="enchantment.damage.undead" costPerLevel="2">
-    <itemStack modID="minecraft" itemName="rotten_flesh" number="12"/>
+  <enchantment name="minecraft:thorns"  >
+    <itemStack modID="minecraft" itemName="double_plant" itemMeta="4" />
   </enchantment>
-
-  <enchantment name="enchantment.damage.arthropods" costPerLevel="2">
-    <itemStack modID="minecraft" itemName="spider_eye" number="12"/>
+  <enchantment name="minecraft:sharpness" >
+    <itemStack modID="minecraft" itemName="quartz" number="12" />
   </enchantment>
-
-  <enchantment name="enchantment.knockback" costPerLevel="2">
-    <itemStack modID="minecraft" itemName="piston"/>
+  <enchantment name="minecraft:smite" >
+    <itemStack modID="minecraft" itemName="rotten_flesh" number="12" />
   </enchantment>
-
-  <enchantment name="enchantment.fire" costPerLevel="4">
-    <itemStack modID="minecraft" itemName="blaze_rod" number="8"/>
+  <enchantment name="minecraft:bane_of_arthropods" >
+    <itemStack modID="minecraft" itemName="spider_eye" number="12" />
   </enchantment>
-
-  <enchantment name="enchantment.lootBonus" costPerLevel="4">  
-    <itemStack oreDictionary="itemSkull"/>    
+  <enchantment name="minecraft:knockback" >
+    <itemStack modID="minecraft" itemName="piston" />
   </enchantment>
-
-  <enchantment name="enchantment.digging" costPerLevel="1">
-    <itemStack modID="minecraft" itemName="redstone" number="12"/>
+  <enchantment name="minecraft:fire_aspect" >
+    <itemStack modID="minecraft" itemName="blaze_rod" number="8" />
   </enchantment>
-
-  <enchantment name="enchantment.untouching" costPerLevel="26">
-    <itemStack modID="minecraft" itemName="slime_ball"/>
+  <enchantment name="minecraft:looting" >
+    <itemStack oreDictionary="itemSkull" />
   </enchantment>
-
-  <enchantment name="enchantment.durability" costPerLevel="2">
-    <itemStack modID="minecraft" itemName="obsidian"/>
+  <enchantment name="minecraft:efficiency" >
+    <itemStack modID="minecraft" itemName="redstone" number="12" />
   </enchantment>
-
-  <enchantment name="enchantment.lootBonusDigger" costPerLevel="4">
-    <itemStack modID="minecraft" itemName="emerald" number="4"/>
+  <enchantment name="minecraft:silk_touch" >
+    <itemStack modID="minecraft" itemName="slime_ball" />
   </enchantment>
-
-  <enchantment name="enchantment.arrowDamage" costPerLevel="1">
-    <itemStack modID="minecraft" itemName="flint" number="12"/>
+  <enchantment name="minecraft:unbreaking" >
+    <itemStack modID="minecraft" itemName="obsidian" />
   </enchantment>
-
-  <enchantment name="enchantment.arrowKnockback" costPerLevel="4">
-    <itemStack modID="minecraft" itemName="string"/>
+  <enchantment name="minecraft:mending">
+    <itemStack modID="EnderIO" itemName="itemXpTransfer"/>
   </enchantment>
-
-  <enchantment name="enchantment.arrowFire" costPerLevel="1">
-    <itemStack modID="minecraft" itemName="netherrack"/>
+  <enchantment name="minecraft:fortune" >
+    <itemStack modID="minecraft" itemName="emerald" />
   </enchantment>
-
-  <enchantment name="enchantment.arrowInfinite" costPerLevel="26">
-    <itemStack modID="minecraft" itemName="ender_pearl"/>    
+  <enchantment name="minecraft:power" >
+    <itemStack modID="minecraft" itemName="flint" number="12" />
   </enchantment>
-
-  <enchantment name="enchantment.lootBonusFishing" costPerLevel="4">
-    <itemStack modID="minecraft" itemName="dye" itemMeta="4"/>
+  <enchantment name="minecraft:punch" >
+    <itemStack modID="minecraft" itemName="string" />
   </enchantment>
-
-  <enchantment name="enchantment.fishingSpeed" costPerLevel="4">
-    <itemStack modID="minecraft" itemName="fish"/>
+  <enchantment name="minecraft:flame" >
+    <itemStack modID="minecraft" itemName="netherrack" />
   </enchantment>
-  
-  <enchantment name="enchantment.enderio.soulBound" costPerLevel="21">
-    <itemStack modID="EnderIO" itemName="itemMaterial" itemMeta="8"/>
+  <enchantment name="minecraft:infinity" >
+    <itemStack modID="minecraft" itemName="ender_pearl" />
   </enchantment>
-  
-  <enchantment name="enchantment.enderzoo.witherArrow" costPerLevel="6">
-    <itemStack modID="EnderZoo" itemName="witheringDust"/>
+  <enchantment name="minecraft:luck_of_the_sea"  >
+    <itemStack modID="minecraft" itemName="dye" itemMeta="4" />
   </enchantment>
-  
-  <!-- The wither potion in the creative tab has a meta of 8235 while a brewed potion has one of 8203 
-       so adding both-->
-  <enchantment name="enchantment.enderzoo.witherWeapon" costPerLevel="6">
-    <itemStack modID="minecraft" itemName="potion" itemMeta="8235"/>
+  <enchantment name="minecraft:lure" >
+    <itemStack modID="minecraft" itemName="fish" />
   </enchantment>
-  
-  <enchantment name="enchantment.enderzoo.witherWeapon" costPerLevel="6">
-    <itemStack modID="minecraft" itemName="potion" itemMeta="8203"/>
-  </enchantment>
-
-  <enchantment name="enchantment.repair" costPerLevel="6">
-    <itemStack modID="minecraft" itemName="anvil"/>
+  <enchantment name="EnderIO:soulBound" >
+    <itemStack modID="EnderIO" itemName="itemMaterial" itemMeta="8" />
   </enchantment>
 
 </enchaterRecipes>

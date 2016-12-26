@@ -1,8 +1,0 @@
-minecraft:iron_pickaxe,1,0
-minecraft:iron_shovel,1,0
-minecraft:iron_axe,1,0
-TConstruct:dagger,1,0,{InfiTool:{BaseDurability:324,Head:2,BaseAttack:3,Built:1b,HarvestLevel:2,Attack:3,RenderHead:2,ModDurability:0.0f,Handle:2,Broken:0b,Shoddy:0.0f,RenderHandle:2,Accessory:2,MiningSpeed:600,RenderAccessory:2,Unbreaking:1,Damage:0,BonusDurability:0,TotalDurability:324,Modifiers:3},display:{Name:"§fIron Dagger"}}
-minecraft:bread,16,0
-minecraft:cooked_beef,16,0
-harvestcraft:rootbeersodaItem,1,0
-minecraft:red_flower,1,0

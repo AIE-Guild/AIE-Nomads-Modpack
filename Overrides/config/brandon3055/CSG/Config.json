@@ -1,0 +1,19 @@
+{
+  "inventory": {
+    "0:8": "minecraft:torch,16",
+    "0:30": "biomesoplenty:mud_boots",
+    "0:33": "harvestcraft:rootbeersodaItem,3",
+    "0:3": "minecraft:iron_sword",
+    "0:34": "tconstruct:book",
+    "0:1": "minecraft:iron_shovel",
+    "0:35": "opencomputers:tool,1,4",
+    "0:29": "biomesoplenty:mud_leggings",
+    "0:2": "minecraft:iron_axe",
+    "0:27": "biomesoplenty:mud_helmet",
+    "0:0": "minecraft:iron_pickaxe",
+    "0:4": "minecraft:iron_hoe",
+    "0:7": "minecraft:cooked_beef,8",
+    "0:32": "minecraft:apple",
+    "0:28": "biomesoplenty:mud_chestplate"
+  }
+}
