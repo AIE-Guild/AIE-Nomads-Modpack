@@ -6,6 +6,7 @@ This project uses [Semantic Versioning](http://semver.org/).
 
 ### Updated
 - Advanced Generators, 0.9.20
+- Bibliocraft, 1.11.5
 - Buildcraft, 7.1.18
 - Buildcraft Compat, 7.1.5
 - Carpenter's Blocks, 3.3.8.1
