@@ -10,9 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "AIE Nomads 2.0",
+  "name": "AIE Nomads",
   "description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.2",
   "author": "stigg",
   "projectID": 230885,
   "files": [
@@ -329,6 +329,11 @@
     {
       "projectID": 225839,
       "fileID": 2342061,
+      "required": true
+    },
+    {
+      "projectID": 76544,
+      "fileID": 2360118,
       "required": true
     }
   ],

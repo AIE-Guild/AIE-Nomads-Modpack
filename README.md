@@ -23,6 +23,7 @@ Chameleon | 2.2.2
 ChickenChunks | 2.2.0.52
 Chisel | 0.0.7.7
 Chisels & Bits | 12.8
+Climate Control | 0.8.3
 CodeChicken Core | 2.4.0.100
 CodeChicken Lib | 2.5.0.178
 CompatLayer | 0.1.4
