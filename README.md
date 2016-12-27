@@ -11,58 +11,72 @@ All development of this modpack will be done on [GitHub](https://github.com/AIE-
 
 ## Mod List
 
-- Advanced Generators
-- AE2 Stuff
-- Applied Energistics
-- Backpacks
-- bdlib
-- Biomes O' Plenty
-- Chameleon
-- ChickenChunks
-- Chisel
-- CodeChicken Core
-- CodeChicken Lib
-- CompatLayer
-- Custom Starter Gear
-- DecoCraft2
-- Ender Compass
-- Ender Core
-- Ender IO
-- EnderStorage
-- FastLeafDecay
-- FloodLights
-- Forestry
-- Gendustry
-- Inventory Tweaks
-- Iron Chests
-- IvToolkit
-- JourneyMap
-- MalisisDoors
-- MalisisCore
-- Mantle
-- McJtyLib
-- MCMultiPart
-- Mekanism
-- MekanismGenerators
-- MekanismTools
-- Natura
-- OpenBlocks Elevator
-- OpenComputers
-- OreDictionaryConverter
-- Pam's Harvestcraft
-- Realistic Terrain Generation
-- Recurrent Complex
-- RFTools
-- RFTools Dimensions
-- Simply Jetpacks
-- Storage Drawers
-- Super Crafting Frame
-- Tinkers' Construct
-- Tree Chopper
-- Waila
-- Waila Harvestability
-- Wawla
-- WorldEdit
+Name | Version
+---|---
+Advanced Generators | 0.9.20.18
+AE2 Stuff | 0.6.0.7
+Applied Energistics | rv-4-alpha-9
+Backpacks | 3.0.1
+bdlib | 1.12.2.17
+Biomes O' Plenty | 5.0.0.2109
+Chameleon | 2.2.2
+ChickenChunks | 2.2.0.52
+Chisel | 0.0.7.7
+Chisels & Bits | 12.8
+CodeChicken Core | 2.4.0.100
+CodeChicken Lib | 2.5.0.178
+CompatLayer | 0.1.4
+Custom Main Menu | 2.0.2
+Custom Starter Gear | 1.0.0.5
+DecoCraft2 | 2.3.6.1
+Ender Compass | 1.2.3.2
+Ender Core | 0.4.1.61-beta
+Ender IO | 3.0.1.147-beta
+EnderStorage | 2.2.0.96
+Extreme Reactors | 0.4.5.22
+FastLeafDecay | 1.2.3
+Flat Colored Blocks | 4.4
+FloodLights | 1.2.7
+Forestry | 5.2.16
+Gendustry | 1.6.5.27
+GraveStone Mod | 1.5.10
+Inventory Sorter | 0.10.0+42
+Inventory Tweaks | 1.61
+Iron Backpacks | 2.2.20
+Iron Chests | 7.0.11
+IvToolkit | 1.2.9
+JEI Bees | 0.9.0.4
+JourneyMap | 5.3.2
+Just Enough Items | 3.13.6
+MalisisDoors | 5.1.6
+MalisisCore | 4.2.9
+Mantle | 1.1.3
+McJtyLib | 2.3.1
+MCMultiPart | 1.3.0
+Mekanism | 9.2.1.295
+MekanismGenerators | 9.2.1.295
+MekanismTools | 9.2.1.295
+Morpheus | 3.1.13
+Natura | 4.1.0.15
+OpenBlocks Elevator | 1.3.0
+OpenComputers | 1.6.1.6
+OreDictionaryConverter | 1.9.1
+Pam's Harvestcraft | 1.10.2h
+Realistic Terrain Generation | 4.1.2.1
+Recurrent Complex | 1.2.4
+Resource Loader | 1.5.1
+RFTools | 5.72
+RFTools Control | 1.6.3
+RFTools Dimensions | 4.51
+Simply Jetpacks | 2.0.3.26
+Storage Drawers | 3.5.16
+Super Crafting Frame | 1.2.1.88
+Tinkers' Construct | 2.6.1
+Tree Chopper | 1.1.1a
+Waila | 1.7.0_B3
+Waila Harvestability | 1.1.9
+Wawla | 2.3.1
+WorldEdit | 6.1.4
 
 ## Other Mods
 
