@@ -14,10 +14,11 @@
   "description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
   "version": "2.0.0-alpha",
   "author": "stigg",
+  "projectID": 230885,
   "files": [
     {
       "projectID": 237989,
-      "fileID": 2354674,
+      "fileID": 2360731,
       "required": true
     },
     {
@@ -176,11 +177,6 @@
       "required": true
     },
     {
-      "projectID": 225839,
-      "fileID": 2342061,
-      "required": true
-    },
-    {
       "projectID": 74924,
       "fileID": 2353326,
       "required": true
@@ -207,7 +203,7 @@
     },
     {
       "projectID": 74120,
-      "fileID": 2343032,
+      "fileID": 2360560,
       "required": true
     },
     {
@@ -222,7 +218,7 @@
     },
     {
       "projectID": 251792,
-      "fileID": 2354186,
+      "fileID": 2360603,
       "required": true
     },
     {
@@ -268,6 +264,71 @@
     {
       "projectID": 250832,
       "fileID": 2353263,
+      "required": true
+    },
+    {
+      "projectID": 226406,
+      "fileID": 2326056,
+      "required": true
+    },
+    {
+      "projectID": 247921,
+      "fileID": 2351656,
+      "required": true
+    },
+    {
+      "projectID": 250277,
+      "fileID": 2359908,
+      "required": true
+    },
+    {
+      "projectID": 238590,
+      "fileID": 2343282,
+      "required": true
+    },
+    {
+      "projectID": 231095,
+      "fileID": 2350460,
+      "required": true
+    },
+    {
+      "projectID": 238551,
+      "fileID": 2359608,
+      "required": true
+    },
+    {
+      "projectID": 227049,
+      "fileID": 2356236,
+      "required": true
+    },
+    {
+      "projectID": 240633,
+      "fileID": 2309873,
+      "required": true
+    },
+    {
+      "projectID": 248370,
+      "fileID": 2340873,
+      "required": true
+    },
+    {
+      "projectID": 69118,
+      "fileID": 2358274,
+      "required": true
+    },
+    {
+      "projectID": 250763,
+      "fileID": 2354280,
+      "required": true
+    },
+    {
+      "projectID": 226447,
+      "fileID": 2307834,
+      "required": true
+    },
+    {
+      "projectID": 225839,
+      "fileID": 2342061,
       "required": true
     }
   ],
