@@ -18,11 +18,11 @@ Biomes O' Plenty | 5.0.0.2109
 Chameleon | 2.2.2
 ChickenChunks | 2.2.0.52
 Chisel | 0.0.7.7
-Chisels & Bits | 12.8
+Chisels & Bits | 12.9
 Climate Control | 0.8.3
 CodeChicken Core | 2.4.0.100
 CodeChicken Lib | 2.5.0.178
-CompatLayer | 0.1.4
+CompatLayer | 0.1.6
 Custom Main Menu | 2.0.2
 Custom Starter Gear | 1.0.0.5
 DecoCraft2 | 2.3.6.1
@@ -34,12 +34,12 @@ Extreme Reactors | 0.4.5.22
 FastLeafDecay | 1.2.3
 Flat Colored Blocks | 4.4
 FloodLights | 1.2.7
-Forestry | 5.2.16
+Forestry | 5.2.16.347
 Gendustry | 1.6.5.27
 GraveStone Mod | 1.5.10
-Inventory Sorter | 0.10.0+42
+Inventory Sorter | 0.10.0+43
 Inventory Tweaks | 1.61
-Iron Backpacks | 2.2.20
+Iron Backpacks | 2.2.21
 Iron Chests | 7.0.11
 IvToolkit | 1.2.9
 JEI Bees | 0.9.0.4
@@ -62,7 +62,7 @@ Pam's Harvestcraft | 1.10.2h
 Realistic Terrain Generation | 4.1.2.1
 Recurrent Complex | 1.2.4
 Resource Loader | 1.5.1
-RFTools | 5.72
+RFTools | 5.75
 RFTools Control | 1.6.3
 RFTools Dimensions | 4.51
 Simply Jetpacks | 2.0.3.26
