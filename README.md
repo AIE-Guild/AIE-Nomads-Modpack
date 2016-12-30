@@ -18,7 +18,9 @@ AE2 Stuff | 0.6.0.7
 Applied Energistics | rv-4-alpha-9
 Backpacks | 3.0.1
 bdlib | 1.12.2.17
+BetterFps | 1.3.2
 Biomes O' Plenty | 5.0.0.2109
+Builder's Guides | 1.0.2
 Chameleon | 2.2.2
 ChickenChunks | 2.2.0.52
 Chisel | 0.0.7.7
