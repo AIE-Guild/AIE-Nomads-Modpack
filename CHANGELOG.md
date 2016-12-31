@@ -18,6 +18,9 @@ This project uses [Semantic Versioning](http://semver.org/).
 - CoFHLib, 1.1.2-184
 - DecoCraft, 2.3.6.1
 - EnderCore, 0.2.0.39
+- ExtraCells2, 2.3.14
+- ExtraTiC, 1.4.6
+- FloodLights, 1.2.8
 - Thermal Expansion, 4.1.4
 - Thermal Foundation, 1.2.6B1
 - Translocators, 1.1.2.16

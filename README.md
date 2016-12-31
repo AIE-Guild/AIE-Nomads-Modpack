@@ -56,10 +56,10 @@ EnderStorage | 1.4.7.37
 Et Futurum | 1.5.5
 Eureka | 3.0.2
 Extra Utilities | 1.2.12
-ExtraCells2 | 2.3.9
-ExtraTiC | 1.4.5
+ExtraCells2 | 2.3.14
+ExtraTiC | 1.4.6
 FastLeafDecay | 1.3
-FloodLights | 1.1.1
+FloodLights | 1.2.8
 Forestry | 4.2.11
 Galacticraft Core | 3.0.12.411
 Galacticraft Planets | 3.0.12.411
