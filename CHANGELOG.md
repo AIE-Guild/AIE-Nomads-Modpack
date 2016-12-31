@@ -25,13 +25,16 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Jabba, 1.2.2
 - JourneyMap, 5.1.4p1
 - NotEnoughItems, 1.0.5.120
+- OpenComputers, 1.6.1.11
 - Recurrent Complex, 0.9.7.1.1
 - Storage Drawers, 1.10.8
+- Thermal Dynamics, 1.2.0
 - Thermal Expansion, 4.1.4
 - Thermal Foundation, 1.2.6B1
 - Translocators, 1.1.2.16
 - WAILA Plugins, 0.2.0-25
 - Wawla, 1.0.5.120
+- WorldEdit, 6.1.1
 
 
 ## [1.2.7] -- 2016-04-27

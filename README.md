@@ -96,7 +96,7 @@ Nether Ores | 2.3.1
 NotEnoughItems | 1.0.5.120
 NotEnoughKeys | 3.0.0b45
 OpenBlocks | 1.5.1
-OpenComputers | 1.5.22
+OpenComputers | 1.6.1.11
 OpenModsLib | 0.9.1
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10Lb
@@ -128,7 +128,7 @@ Storage Drawers: Biome O' Plenty Pack | 1.1.1
 Storage Drawers: Forestry | 1.1.2
 Storage Drawers: Natura Pack | 1.1.1
 Super Crafting Frame | 1.7.10.3
-Thermal Dynamics | 1.1.0-161
+Thermal Dynamics | 1.2.0
 Thermal Expansion | 4.1.4
 Thermal Foundation | 1.2.6B1
 Thermal Recycling | 1.1.0.5
@@ -142,7 +142,7 @@ Waila | 1.5.10
 Waila Harvestability | 1.1.6
 Waila Plugins | 0.2.0-25
 Wawla | 1.0.5.120
-WorldEdit | 6.0 Beta 1
+WorldEdit | 6.1.1
 WR-CBE Universal | 1.4.1.9
 ZTones | 2.2.1
 
