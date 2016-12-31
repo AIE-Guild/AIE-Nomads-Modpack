@@ -2,9 +2,10 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
-## 1.2.8 -- Unreleased
+## [1.2.8] -- 2016-12-31
 
 ### Updated
+- Minecraft Forge, 10.13.4.1614
 - [SBM] Wooden Buckets, 0.0.3b9
 - Advanced Generators, 0.9.20
 - Another One Bites The Dust, 2.9.2
@@ -375,6 +376,7 @@ Added localization fixes for Hamsterrific.
 Initial release.
 
 
+[1.2.8]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.7...v1.2.8
 [1.2.7]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.6...v1.2.7
 [1.2.6]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.5...v1.2.6
 [1.2.5]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.4...v1.2.5

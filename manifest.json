@@ -3,7 +3,7 @@
     "version": "1.7.10",
     "modLoaders": [
       {
-        "id": "forge-10.13.4.1566",
+        "id": "forge-10.13.4.1614",
         "primary": true
       }
     ]
@@ -12,7 +12,7 @@
   "manifestVersion": 1,
   "name": "AIE Nomads",
   "description":"A technology-focused modpack from the nomads of Alea Iacta Est.",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "author": "stigg",
   "projectID": 230885,
   "files": [
