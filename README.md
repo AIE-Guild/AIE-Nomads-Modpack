@@ -60,7 +60,7 @@ ExtraCells2 | 2.3.14
 ExtraTiC | 1.4.6
 FastLeafDecay | 1.3
 FloodLights | 1.2.8
-Forestry | 4.2.11
+Forestry | 4.2.16
 Galacticraft Core | 3.0.12.411
 Galacticraft Planets | 3.0.12.411
 Garden Stuff | 1.7.0
@@ -73,9 +73,9 @@ INpureCore | 1.0.0B9-62
 Inventory Tweaks | 1.59-dev-152
 Iron Chests | 6.0.62.742
 IvToolkit | 1.2.1
-Jabba | 1.2.1a
+Jabba | 1.2.2
 Java 8 Checker (Universal) | 2.0
-JourneyMap | 5.1.4
+JourneyMap | 5.1.4p1
 Malisis' Doors | 1.13.2
 MalisisCore | 0.14.3
 Mantle | 0.3.2b
@@ -93,7 +93,7 @@ Natura | 2.2.0.1
 NEI Addons | 1.12.14
 NEI Integration | 1.1.2
 Nether Ores | 2.3.1
-NotEnoughItems | 1.0.5.118
+NotEnoughItems | 1.0.5.120
 NotEnoughKeys | 3.0.0b45
 OpenBlocks | 1.5.1
 OpenComputers | 1.5.22
