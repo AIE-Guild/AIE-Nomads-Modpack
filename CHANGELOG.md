@@ -21,6 +21,8 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Thermal Expansion, 4.1.4
 - Thermal Foundation, 1.2.6B1
 - Translocators, 1.1.2.16
+- WAILA Plugins, 0.2.0-25
+- Wawla, 1.0.5.120
 
 
 ## [1.2.7] -- 2016-04-27

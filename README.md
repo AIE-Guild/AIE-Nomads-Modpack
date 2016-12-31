@@ -140,8 +140,8 @@ Translocators | 1.1.2.16
 Treecapitator | 2.0.4
 Waila | 1.5.10
 Waila Harvestability | 1.1.6
-Waila Plugins | 0.2.0-23
-Wawla | 1.3.3
+Waila Plugins | 0.2.0-25
+Wawla | 1.0.5.120
 WorldEdit | 6.0 Beta 1
 WR-CBE Universal | 1.4.1.9
 ZTones | 2.2.1
