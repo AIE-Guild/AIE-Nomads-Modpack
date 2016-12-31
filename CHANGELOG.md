@@ -25,6 +25,8 @@ This project uses [Semantic Versioning](http://semver.org/).
 - Jabba, 1.2.2
 - JourneyMap, 5.1.4p1
 - NotEnoughItems, 1.0.5.120
+- Recurrent Complex, 0.9.7.1.1
+- Storage Drawers, 1.10.8
 - Thermal Expansion, 4.1.4
 - Thermal Foundation, 1.2.6B1
 - Translocators, 1.1.2.16

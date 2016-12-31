@@ -109,7 +109,7 @@ Project Red - Integration | 4.7.0pre12.95
 Project Red - Lighting | 4.7.0pre12.95
 Project Red - Mechanical | 4.7.0pre12.95
 Project Red - World | 4.7.0pre12.95
-Recurrent Complex | 0.9.7.1
+Recurrent Complex | 0.9.7.1.1
 Red Gear Core | 2.2.2
 Redstone Arsenal | 1.1.2
 Redstone Paste | 1.6.2
@@ -123,7 +123,7 @@ Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
 Steve's Workshop | 0.5.1
-Storage Drawers | 1.9.7
+Storage Drawers | 1.10.8
 Storage Drawers: Biome O' Plenty Pack | 1.1.1
 Storage Drawers: Forestry | 1.1.2
 Storage Drawers: Natura Pack | 1.1.1
