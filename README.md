@@ -50,7 +50,7 @@ Custom Main Menu | 1.9.2
 DecoCraft2 | 2.3.6.1
 Dense Ores | 1.6.2
 Ender Compass | 1.2
-Ender Core | 0.2.0.33
+Ender Core | 0.2.0.39
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.37
 Et Futurum | 1.5.5
@@ -136,7 +136,7 @@ Thermal Smeltery | 1.3.1.4
 TiC Tooltips | 1.2.5
 Tinkers' Construct | 1.8.8
 Tinkers' Mechwork | 0.2.15.106
-Translocators | 1.1.2.15
+Translocators | 1.1.2.16
 Treecapitator | 2.0.4
 Waila | 1.5.10
 Waila Harvestability | 1.1.6

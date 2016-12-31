@@ -17,8 +17,10 @@ This project uses [Semantic Versioning](http://semver.org/).
 - CoFH Core, 3.1.3-328
 - CoFHLib, 1.1.2-184
 - DecoCraft, 2.3.6.1
+- EnderCore, 0.2.0.39
 - Thermal Expansion, 4.1.4
 - Thermal Foundation, 1.2.6B1
+- Translocators, 1.1.2.16
 
 
 ## [1.2.7] -- 2016-04-27
