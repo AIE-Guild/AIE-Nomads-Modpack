@@ -2,9 +2,10 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
-## 1.2.8 -- Unreleased
+## [1.2.8] -- 2016-12-31
 
 ### Updated
+- Minecraft Forge, 10.13.4.1614
 - [SBM] Wooden Buckets, 0.0.3b9
 - Advanced Generators, 0.9.20
 - Another One Bites The Dust, 2.9.2
@@ -17,8 +18,24 @@ This project uses [Semantic Versioning](http://semver.org/).
 - CoFH Core, 3.1.3-328
 - CoFHLib, 1.1.2-184
 - DecoCraft, 2.3.6.1
+- EnderCore, 0.2.0.39
+- ExtraCells2, 2.3.14
+- ExtraTiC, 1.4.6
+- FloodLights, 1.2.8
+- Forestry, 4.2.16
+- Jabba, 1.2.2
+- JourneyMap, 5.1.4p1
+- NotEnoughItems, 1.0.5.120
+- OpenComputers, 1.6.1.11
+- Recurrent Complex, 0.9.7.1.1
+- Storage Drawers, 1.10.8
+- Thermal Dynamics, 1.2.0
 - Thermal Expansion, 4.1.4
 - Thermal Foundation, 1.2.6B1
+- Translocators, 1.1.2.16
+- WAILA Plugins, 0.2.0-25
+- Wawla, 1.0.5.120
+- WorldEdit, 6.1.1
 
 
 ## [1.2.7] -- 2016-04-27
@@ -359,6 +376,7 @@ Added localization fixes for Hamsterrific.
 Initial release.
 
 
+[1.2.8]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.7...v1.2.8
 [1.2.7]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.6...v1.2.7
 [1.2.6]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.5...v1.2.6
 [1.2.5]: https://github.com/AIE-Guild/AIE-Nomads-Modpack/compare/v1.2.4...v1.2.5

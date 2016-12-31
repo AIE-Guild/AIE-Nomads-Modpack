@@ -50,17 +50,17 @@ Custom Main Menu | 1.9.2
 DecoCraft2 | 2.3.6.1
 Dense Ores | 1.6.2
 Ender Compass | 1.2
-Ender Core | 0.2.0.33
+Ender Core | 0.2.0.39
 Ender IO | 2.2.8.381
 EnderStorage | 1.4.7.37
 Et Futurum | 1.5.5
 Eureka | 3.0.2
 Extra Utilities | 1.2.12
-ExtraCells2 | 2.3.9
-ExtraTiC | 1.4.5
+ExtraCells2 | 2.3.14
+ExtraTiC | 1.4.6
 FastLeafDecay | 1.3
-FloodLights | 1.1.1
-Forestry | 4.2.11
+FloodLights | 1.2.8
+Forestry | 4.2.16
 Galacticraft Core | 3.0.12.411
 Galacticraft Planets | 3.0.12.411
 Garden Stuff | 1.7.0
@@ -73,9 +73,9 @@ INpureCore | 1.0.0B9-62
 Inventory Tweaks | 1.59-dev-152
 Iron Chests | 6.0.62.742
 IvToolkit | 1.2.1
-Jabba | 1.2.1a
+Jabba | 1.2.2
 Java 8 Checker (Universal) | 2.0
-JourneyMap | 5.1.4
+JourneyMap | 5.1.4p1
 Malisis' Doors | 1.13.2
 MalisisCore | 0.14.3
 Mantle | 0.3.2b
@@ -93,10 +93,10 @@ Natura | 2.2.0.1
 NEI Addons | 1.12.14
 NEI Integration | 1.1.2
 Nether Ores | 2.3.1
-NotEnoughItems | 1.0.5.118
+NotEnoughItems | 1.0.5.120
 NotEnoughKeys | 3.0.0b45
 OpenBlocks | 1.5.1
-OpenComputers | 1.5.22
+OpenComputers | 1.6.1.11
 OpenModsLib | 0.9.1
 OreDictionaryConverter | 1.6.1
 Pam's Harvestcraft | 1.7.10Lb
@@ -109,7 +109,7 @@ Project Red - Integration | 4.7.0pre12.95
 Project Red - Lighting | 4.7.0pre12.95
 Project Red - Mechanical | 4.7.0pre12.95
 Project Red - World | 4.7.0pre12.95
-Recurrent Complex | 0.9.7.1
+Recurrent Complex | 0.9.7.1.1
 Red Gear Core | 2.2.2
 Redstone Arsenal | 1.1.2
 Redstone Paste | 1.6.2
@@ -123,12 +123,12 @@ Simply Jetpacks | 1.5.3
 StartingInventory | 1.7.10.r03
 StatusEffectHUD | 1.27
 Steve's Workshop | 0.5.1
-Storage Drawers | 1.9.7
+Storage Drawers | 1.10.8
 Storage Drawers: Biome O' Plenty Pack | 1.1.1
 Storage Drawers: Forestry | 1.1.2
 Storage Drawers: Natura Pack | 1.1.1
 Super Crafting Frame | 1.7.10.3
-Thermal Dynamics | 1.1.0-161
+Thermal Dynamics | 1.2.0
 Thermal Expansion | 4.1.4
 Thermal Foundation | 1.2.6B1
 Thermal Recycling | 1.1.0.5
@@ -136,13 +136,13 @@ Thermal Smeltery | 1.3.1.4
 TiC Tooltips | 1.2.5
 Tinkers' Construct | 1.8.8
 Tinkers' Mechwork | 0.2.15.106
-Translocators | 1.1.2.15
+Translocators | 1.1.2.16
 Treecapitator | 2.0.4
 Waila | 1.5.10
 Waila Harvestability | 1.1.6
-Waila Plugins | 0.2.0-23
-Wawla | 1.3.3
-WorldEdit | 6.0 Beta 1
+Waila Plugins | 0.2.0-25
+Wawla | 1.0.5.120
+WorldEdit | 6.1.1
 WR-CBE Universal | 1.4.1.9
 ZTones | 2.2.1
 
