@@ -30,13 +30,13 @@ Custom Starter Gear | 1.0.0.5
 DecoCraft2 | 2.3.6.1
 Ender Compass | 1.2.3.2
 Ender Core | 0.4.1.62-beta
-Ender IO | 3.1.154
+Ender IO | 3.1.156
 EnderStorage | 2.2.0.96
 Extreme Reactors | 0.4.5.23
 FastLeafDecay | 1.2.3
 Flat Colored Blocks | 4.4
 FloodLights | 1.2.7
-Forestry | 5.2.16.347
+Forestry | 5.2.16.348
 Gendustry | 1.6.5.27
 GraveStone Mod | 1.5.10
 Inventory Sorter | 0.10.0+43
@@ -45,8 +45,8 @@ Iron Backpacks | 2.2.21
 Iron Chests | 7.0.11
 IvToolkit | 1.2.9
 JEI Bees | 0.9.0.4
-JourneyMap | 5.3.3
-Just Enough Items | 3.13.6
+JourneyMap | 5.4.0
+Just Enough Items | 3.14.2.401
 MalisisDoors | 5.1.6
 MalisisCore | 4.2.9
 Mantle | 1.1.3
