@@ -2,6 +2,13 @@
 
 This project uses [Semantic Versioning](http://semver.org/).
 
+## 2.0.0 -- Unreleased
+
+### Changed
+
+- Moved to Minecraft 1.12.2.
+
+
 ## [1.2.8] -- 2016-12-31
 
 ### Updated

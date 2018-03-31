@@ -11,140 +11,77 @@ All development of this modpack will be done on [GitHub](https://github.com/AIE-
 
 ## Mod List
 
-Name | Version
----|---
-Advanced Generators | 0.9.20.123
-AE2 Stuff | 0.5.0.56
-Another One Bites The Dust | 2.9.2
-AppleCore | 1.3.2
-Applied Energistics | rv2-stable-10
-Archimedes' Ships | 1.7.1
-Backpacks | 2.0.1
-Baubles | 1.0.1.10
-bdlib | 1.9.4.109
-BetterStorage | 0.13.1.126
-Bookshelf | 1.2.0
-Bibliocraft | 1.11.5
-Bibliocraft: BiblioWoods Biomes O' Plenty Edition | 1.9
-Bibliocraft: BiblioWoods Forestry Edition | 1.7
-Bibliocraft: BiblioWoods Natura Edition | 1.5
-Big Reactors | 0.4.3A
-Biomes O' Plenty | 2.1.0.1889
-bspkrsCore | 6.16
-Buildcraft | 7.1.18
-Buildcraft Additions | 2.2.5
-Buildcraft Compat | 7.1.5
-Carpenter's Blocks | 3.3.8.1
-Catwalks | 2.0.4
-ChickenChunks | 1.3.4.19
-ChickenShed | 1.1.3
-Chisel | 2.9.5
-Chisel Facades | 2.12
-Chisel Tones | 1.0-3
-CodeChickenCore | 1.0.7.47
-CoFH Core | 3.1.3-328
-CoFHLib | 1.1.2-184
-Compact Machines | 1.21
-Computercraft | 1.75
-Custom Main Menu | 1.9.2
-DecoCraft2 | 2.3.6.1
-Dense Ores | 1.6.2
-Ender Compass | 1.2
-Ender Core | 0.2.0.39
-Ender IO | 2.2.8.381
-EnderStorage | 1.4.7.37
-Et Futurum | 1.5.5
-Eureka | 3.0.2
-Extra Utilities | 1.2.12
-ExtraCells2 | 2.3.14
-ExtraTiC | 1.4.6
-FastLeafDecay | 1.3
-FloodLights | 1.2.8
-Forestry | 4.2.16
-Galacticraft Core | 3.0.12.411
-Galacticraft Planets | 3.0.12.411
-Garden Stuff | 1.7.0
-Gendustry | 1.6.3.132
-Hunger Overhaul | 1.0.0
-iBench | 1.0.12
-Immibis Core | 59.1.4
-Immibis' Microblocks | 59.1.2
-INpureCore | 1.0.0B9-62
-Inventory Tweaks | 1.59-dev-152
-Iron Chests | 6.0.62.742
-IvToolkit | 1.2.1
-Jabba | 1.2.2
-Java 8 Checker (Universal) | 2.0
-JourneyMap | 5.1.4p1
-Malisis' Doors | 1.13.2
-MalisisCore | 0.14.3
-Mantle | 0.3.2b
-McJtyLib | 1.8.1
-Mekanism | 8.1.9.265
-MekanismGenerators | 8.1.9.265
-MekanismTools | 8.1.9.265
-MicdoodleCore | 3.0.12.411
-Minefactory Reloaded | 2.8.1
-MineTweaker3 | 3.0.10B
-More Backpacks | 2.2.2
-Morpheus | 1.6.21
-MrTJPCore | 1.1.0.32
-Natura | 2.2.0.1
-NEI Addons | 1.12.14
-NEI Integration | 1.1.2
-Nether Ores | 2.3.1
-NotEnoughItems | 1.0.5.120
-NotEnoughKeys | 3.0.0b45
-OpenBlocks | 1.5.1
-OpenComputers | 1.6.1.11
-OpenModsLib | 0.9.1
-OreDictionaryConverter | 1.6.1
-Pam's Harvestcraft | 1.7.10Lb
-Player API | 1.4
-PneumaticCraft | 1.12.7
-Project Blue | 1.1.6
-Project Red - Base | 4.7.0pre12.95
-Project Red - Compat | 4.7.0pre12.95
-Project Red - Integration | 4.7.0pre12.95
-Project Red - Lighting | 4.7.0pre12.95
-Project Red - Mechanical | 4.7.0pre12.95
-Project Red - World | 4.7.0pre12.95
-Recurrent Complex | 0.9.7.1.1
-Red Gear Core | 2.2.2
-Redstone Arsenal | 1.1.2
-Redstone Paste | 1.6.2
-Refined Relocation | 1.1.28
-Resource Loader | 1.3
-RFTools | 4.23
-[SBM] Colored Chests | 0.0.1b2
-[SBM] Wooden Bucket | 0.0.3b9
-[SBM] Wooden Rails | 0.0.1b1
-Simply Jetpacks | 1.5.3
-StartingInventory | 1.7.10.r03
-StatusEffectHUD | 1.27
-Steve's Workshop | 0.5.1
-Storage Drawers | 1.10.8
-Storage Drawers: Biome O' Plenty Pack | 1.1.1
-Storage Drawers: Forestry | 1.1.2
-Storage Drawers: Natura Pack | 1.1.1
-Super Crafting Frame | 1.7.10.3
-Thermal Dynamics | 1.2.0
-Thermal Expansion | 4.1.4
-Thermal Foundation | 1.2.6B1
-Thermal Recycling | 1.1.0.5
-Thermal Smeltery | 1.3.1.4
-TiC Tooltips | 1.2.5
-Tinkers' Construct | 1.8.8
-Tinkers' Mechwork | 0.2.15.106
-Translocators | 1.1.2.16
-Treecapitator | 2.0.4
-Waila | 1.5.10
-Waila Harvestability | 1.1.6
-Waila Plugins | 0.2.0-25
-Wawla | 1.0.5.120
-WorldEdit | 6.1.1
-WR-CBE Universal | 1.4.1.9
-ZTones | 2.2.1
+<ul>
+<li><a href="https://minecraft.curseforge.com/mc-mods/32274">JourneyMap (by techbrew)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/230497">Chameleon (by jaquadro)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/223852">Storage Drawers (by jaquadro)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/267602">ConnectedTexturesMod (by tterrag1098)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/235279">Chisel (by tterrag1098)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/74924">Mantle (by mDiyo)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/74072">Tinkers Construct (by mDiyo)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/238222">Just Enough Items (JEI) (by mezz)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/221857">Pam's HarvestCraft (by MatrexsVigil)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/231951">Immersive Engineering (by BluSunrize)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/69118">Morpheus (by Quetzi)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/223094">Inventory Tweaks (by Kobata)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/231095">Chisels & Bits (by AlgorithmX2)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/233105">McJtyLib (by McJty)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/224641">RFTools (by McJty)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/231484">Cooking for Blockheads (by BlayTheNinth)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/270789">Redstone Flux (by TeamCoFH)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/69162">CoFH Core (by TeamCoFH)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/271384">CoFH World (by TeamCoFH)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/222880">Thermal Foundation (by TeamCoFH)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/242818">CodeChicken Lib 1.8.+ (by covers1624)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/69163">Thermal Expansion (by TeamCoFH)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/223794">Applied Energistics 2 (by AlgorithmX2)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/228027">BiblioCraft (by JDSinclair)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/227443">Thermal Dynamics (by TeamCoFH)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/248787">AppleSkin (by squeek502)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/59751">Forestry (by SirSengir)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/245174">Ender Storage 1.8.+ (by covers1624)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/227049">Iron Backpacks (by gr8pefish)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/74120">Natura (by mDiyo)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/247921">ZeroCore (by ZeroNoRyouki)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/250277">Extreme Reactors (by ZeroNoRyouki)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/245211">The One Probe (by McJty)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/229876">BetterFps (by Guichaguri)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/238551">GraveStone Mod (by EuhDawson)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/253043">WanionLib (by WanionCane)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/244258">UniDict (by WanionCane)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/243076">Refined Storage (by raoulvdberge)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/220318">Biomes O' Plenty (by Glitchfiend)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/254268">TorchMaster (by xalcon)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/79616">DecoCraft2 (by RazzleberryFox)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/78778">Chest Transporter (by CubeX2)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/70496">BdLib (by bdew)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/225194">AE2 Stuff (by bdew)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/251792">Simply Jetpacks 2 (by Tomson124)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/229218">ExtraCells2 (by Destroyer7128)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/240950">RFTools Dimensions (by McJty)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/223622">Advanced Generators (by bdew)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/241160">NetherPortalFix (by BlayTheNinth)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/268560">Mekanism (by aidancbrady)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/268566">Mekanism Generators (by aidancbrady)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/268567">Mekanism Tools (by aidancbrady)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/226447">Resource Loader (by lumien231)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/225605">LunatriusCore (by Lunatrius)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/225604">InGame Info XML (by Lunatrius)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/228815">OpenModsLib (by OpenMods)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/228816">OpenBlocks (by OpenMods)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/248453">Shadowfacts' Forgelin (by shadowfactsmc)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/254602">Tesla Core Lib (by Face_of_Cat)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/266515">Industrial Foregoing (by Buuz135)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/223525">Binnie's Mods (by Binnie567)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/243883">Chicken Chunks 1.8.+ (by covers1624)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/223896">MalisisCore (by Ordinastie)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/223891">MalisisDoors (by Ordinastie)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/247694">Not Enough Items 1.8.+ (by covers1624)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/268250">Immersive Petroleum (by theFlaxbeard)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/274456">Ex Nihilo: Creatio (by BloodWorkXGaming)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/273628">Leaf Decay Accelerator (by bdew)</a></li>
+<li><a href="https://minecraft.curseforge.com/mc-mods/226406">Custom Main Menu (by lumien231)</a></li>
+</ul>
 
 ## Other Mods
 
@@ -157,6 +94,4 @@ Due to the licensing of these mods, they are not part of this pack.
 
 ## Resource Pack List
 
-Name | Version
----|---
-Unity | 1.2.0
+
